@@ -1,0 +1,22 @@
+# docker-compose.yml
+version: "3.8"
+
+services:
+  portainer:
+    image: portainer/portainer-ce:lts
+    container_name: portainer
+    ports:
+      # A porta 8000 é usada para o túnel do Edge Agent. Opcional.
+      - "8000:8000"
+      # A porta 9443 é a principal para acessar a interface web (HTTPS).
+      - "9443:9443"
+    volumes:
+      # Necessário para que o Portainer possa gerenciar o Docker.
+      - /var/run/docker.sock:/var/run/docker.sock
+      # Mapeia um volume nomeado para persistir os dados do Portainer.
+      - portainer_data:/data
+    restart: always
+
+# Define o volume nomeado que será usado pelo serviço.
+volumes:
+  portainer_data:
