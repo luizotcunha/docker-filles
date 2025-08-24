@@ -1,0 +1,11 @@
+# Arquivo: ./config/widgets.yaml
+- search:
+    - provider: google
+      title: Pesquisar na Web
+- datetime:
+    - time:
+        title: Hora Local
+        format: HH:mm
+    - date:
+        title: Data de Hoje
+        format: EEEE, DD [de] MMMM

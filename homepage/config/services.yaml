@@ -1,0 +1,27 @@
+# Arquivo: ./config/services.yaml
+- Ferramentas:
+    - Portainer:
+        icon: simple-icons/portainer
+        href: http://192.168.1.201:9443
+        container: portainer
+        widget:
+          type: docker
+          cpu: true
+          memory: true
+    - qBittorrent:
+        icon: simple-icons/qbittorrent
+        href: http://192.168.1.201:8080
+        container: qbittorrent
+        widget:
+          type: docker
+          cpu: true
+          memory: true
+
+- Mídia:
+    - Jellyfin:
+        icon: simple-icons/jellyfin
+        href: http://192.168.1.201:8096
+        container: jellyfin
+        widget:
+          type: docker
+          uptime: true
