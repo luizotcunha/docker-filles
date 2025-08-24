@@ -2,7 +2,7 @@
 - Ferramentas:
     - Portainer:
         icon: simple-icons/portainer
-        href: http://192.168.1.201:9443
+        href: https://192.168.1.201:9443
         container: portainer
         widget:
           type: docker
@@ -10,7 +10,7 @@
           memory: true
     - qBittorrent:
         icon: simple-icons/qbittorrent
-        href: http://192.168.1.201:8080
+        href: http://192.168.1.201:8097
         container: qbittorrent
         widget:
           type: docker
