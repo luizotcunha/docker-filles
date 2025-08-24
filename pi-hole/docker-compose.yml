@@ -15,7 +15,7 @@ services:
       - "53:53/tcp"
       - "53:53/udp"
       # A porta 8080 da sua máquina hospedeira será mapeada para a porta 80 do contêiner
-      - "8080:80/tcp"
+      - "8181:80/tcp"
       # A porta 67 é para o DHCP (opcional, remova se não for usar)
       # - "67:67/udp"
     environment:
