@@ -1,0 +1,29 @@
+version: "3"
+
+networks:
+  pihole_network:
+    driver: bridge
+
+services:
+  pihole:
+    container_name: pihole
+    image: pihole/pihole:latest
+    networks:
+      - pihole_network
+    ports:
+      # A porta 53 é para o serviço de DNS (TCP e UDP)
+      - "53:53/tcp"
+      - "53:53/udp"
+      # A porta 8080 da sua máquina hospedeira será mapeada para a porta 80 do contêiner
+      - "8080:80/tcp"
+      # A porta 67 é para o DHCP (opcional, remova se não for usar)
+      # - "67:67/udp"
+    environment:
+      - TZ=America/Sao_Paulo
+      - WEBPASSWORD=minha-senha-segura-aqui
+      - DNS1=1.1.1.1
+      - DNS2=1.0.0.1
+    volumes:
+      - "./etc-pihole:/etc/pihole"
+      - "./etc-dnsmasq.d:/etc/dnsmasq.d"
+    restart: unless-stopped
