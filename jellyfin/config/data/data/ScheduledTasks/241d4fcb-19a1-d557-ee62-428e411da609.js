@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2025-08-24T01:32:57.8094834Z","EndTimeUtc":"2025-08-24T01:32:57.8604777Z","Status":"Completed","Name":"Limpar Arquivos Tempor\u00E1rios","Key":"DeleteCacheFiles","Id":"241d4fcb19a1d557ee62428e411da609"}

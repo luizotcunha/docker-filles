@@ -2,13 +2,14 @@
 <ServerConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <LogFileRetentionDays>3</LogFileRetentionDays>
   <IsStartupWizardCompleted>true</IsStartupWizardCompleted>
+  <CachePath>/config/cache</CachePath>
   <EnableMetrics>false</EnableMetrics>
   <EnableNormalizedItemByNameIds>true</EnableNormalizedItemByNameIds>
   <IsPortAuthorized>true</IsPortAuthorized>
   <QuickConnectAvailable>true</QuickConnectAvailable>
   <EnableCaseSensitiveItemIds>true</EnableCaseSensitiveItemIds>
   <DisableLiveTvChannelUserDataName>true</DisableLiveTvChannelUserDataName>
-  <MetadataPath />
+  <MetadataPath>/config/data/metadata</MetadataPath>
   <PreferredMetadataLanguage>pt-br</PreferredMetadataLanguage>
   <MetadataCountryCode>BR</MetadataCountryCode>
   <SortReplaceCharacters>
@@ -130,7 +131,7 @@
     </MetadataOptions>
   </MetadataOptions>
   <SkipDeserializationForBasicTypes>true</SkipDeserializationForBasicTypes>
-  <ServerName />
+  <ServerName>Obscuro</ServerName>
   <UICulture>pt-BR</UICulture>
   <SaveMetadataHidden>false</SaveMetadataHidden>
   <ContentTypes />
@@ -143,6 +144,11 @@
     <RepositoryInfo>
       <Name>Jellyfin Stable</Name>
       <Url>https://repo.jellyfin.org/files/plugin/manifest.json</Url>
+      <Enabled>true</Enabled>
+    </RepositoryInfo>
+    <RepositoryInfo>
+      <Name>https://intro-skipper.org/manifest.json</Name>
+      <Url>https://intro-skipper.org/manifest.json</Url>
       <Enabled>true</Enabled>
     </RepositoryInfo>
   </PluginRepositories>
@@ -186,6 +192,6 @@
     <TileHeight>10</TileHeight>
     <Qscale>4</Qscale>
     <JpegQuality>90</JpegQuality>
-    <ProcessThreads>1</ProcessThreads>
+    <ProcessThreads>6</ProcessThreads>
   </TrickplayOptions>
 </ServerConfiguration>
