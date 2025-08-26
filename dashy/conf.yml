@@ -1,0 +1,56 @@
+# conf.yml
+# Configuração do painel Dashy
+pageInfo:
+  title: Meu Servidor
+  description: Painel de Controle dos Meus Serviços
+  navLinks:
+    - title: GitHub
+      path: https://github.com/Lissy93/dashy
+    - title: Documentação
+      path: https://dashy.to/docs
+
+# Configurações de aparência
+appConfig:
+  theme: material-dark
+  layout: auto
+  iconSize: medium
+
+# Seções e itens do painel
+sections:
+  - name: Monitoramento do Servidor
+    icon: fas fa-tachometer-alt
+    # Exibe os widgets em uma grade responsiva
+    displayData:
+      cols: 3
+    widgets:
+      # Widget de uso da CPU
+      - type: cpu
+        options:
+          showChart: true
+      # Widget de uso da Memória RAM
+      - type: memory
+        options:
+          showChart: true
+      # Widget de uso do Disco
+      - type: storage
+        options:
+          diskPath: /media/disk
+
+  - name: Meus Aplicativos
+    icon: fas fa-rocket
+    items:
+      - title: Portainer
+        description: Gerenciador de Containers Docker
+        icon: https://cdn.jsdelivr.com/gh/walkxcode/dashboard-icons/png/portainer.png
+        url: http://seu_ip_do_servidor:9000
+
+      - title: Documentação do Dashy
+        description: Aprenda a customizar seu painel
+        icon: fas fa-book
+        url: https://dashy.to/docs
+
+      # Adicione seus outros aplicativos aqui
+      # - title: Meu App
+      #   description: Descrição do App
+      #   icon: fas fa-cloud
+      #   url: http://endereco_do_app
