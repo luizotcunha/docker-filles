@@ -1,30 +1,20 @@
-# docker-compose.yml
 version: "3.8"
 services:
   dashy:
-    image: lissy93/dashy:latest
-    container_name: dashy
-    
-    # Mapeia o arquivo de configuração 'conf.yml' da pasta atual
-    # para o local esperado dentro do container.
-    volumes:
-      - ./conf.yml:/app/public/conf.yml
-      
-      # Volumes para monitoramento do sistema (leitura apenas)
-      - /etc/os-release:/etc/os-release:ro
-      - /proc/stat:/proc/stat:ro
-      - /proc/meminfo:/proc/meminfo:ro
-      - /etc/hostname:/etc/hostname:ro
-      - /:/media/disk:ro # Mapeia o disco raiz para o widget de armazenamento
-      
-    # Mapeia a porta 80 do seu servidor para a porta 80 do container.
-    # Lembre-se de garantir que esta porta esteja livre.
+    # To build from source, replace 'image: lissy93/dashy' with 'build: .'
+    # build: .
+    image: lissy93/dashy
+    container_name: Dashy
+    # Pass in your config file below, by specifying the path on your host machine
+    # volumes:
+      # - /root/my-config.yml:/app/user-data/conf.yml
     ports:
-      - "80:80"
-      
-    # Reinicia o container automaticamente.
-    restart: unless-stopped
-    
-    # Variáveis de ambiente para otimização.
+      - 80:8080
+    # Set any environmental variables
     environment:
       - NODE_ENV=production
+    # Specify your user ID and group ID. You can find this by running `id -u` and `id -g`
+    #  - UID=1000
+    #  - GID=1000
+    # Specify restart policy
+    restart: unless-stopped
