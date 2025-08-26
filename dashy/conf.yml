@@ -1,0 +1,61 @@
+# conf.yml
+pageInfo:
+  title: Meu Painel Pessoal
+  description: Servidor no Notebook Ubuntu
+
+appConfig:
+  theme: material-dark # Um tema escuro e elegante
+  layout: auto
+  iconSize: medium
+
+sections:
+  # Seção para mostrar o desempenho do seu notebook
+  - name: Monitoramento do Sistema
+    icon: fas fa-gauge-high
+    widgets:
+      - type: cpu # Requer o volume /proc/stat
+        options: { showChart: true }
+      - type: memory # Requer o volume /proc/meminfo
+        options: { showChart: true }
+      - type: storage # Requer o volume /
+        options: { diskPath: /media/disk }
+      - type: network # Widget de velocidade da rede
+        options: { showChart: true }
+
+  # Seção com os atalhos para seus serviços
+  - name: Meus Serviços
+    icon: fas fa-rocket
+    items:
+      - title: Jellyfin
+        description: Servidor de Mídia
+        icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/jellyfin.png
+        url: http://IP_DO_SEU_NOTEBOOK:8096
+
+      - title: qBittorrent
+        description: Cliente Torrent
+        icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/qbittorrent.png
+        url: http://IP_DO_SEU_NOTEBOOK:8097
+
+      - title: Portainer
+        description: Gerenciador de Contêineres
+        icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/portainer.png
+        url: https://IP_DO_SEU_NOTEBOOK:9443 # Note que é HTTPS
+
+      - title: Homepage
+        description: Outro Dashboard
+        icon: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/homepage.png
+        url: http://IP_DO_SEU_NOTEBOOK:3000
+
+  # Seção para os seus projetos pessoais
+  - name: Projetos
+    icon: fas fa-code
+    items:
+      - title: AgendaME (Frontend)
+        description: Aplicação em Angular
+        icon: fab fa-angular
+        url: http://IP_DO_SEU_NOTEBOOK:4200
+
+      - title: AgendaME (Backend)
+        description: API em Spring Boot
+        icon: fas fa-database
+        url: http://IP_DO_SEU_NOTEBOOK:8080
