@@ -1,0 +1,44 @@
+Input #0, matroska,webm, from '/data/serie/Invasion.S02E02.1080p.WEB-DL.DUAL.5.1/Invasion.S02E02.1080p.WEB-DL.DUAL.5.1.mkv':
+  Metadata:
+    title           : 2x02 - COMANDO.LA
+    creation_time   : 2023-08-30T01:45:18.000000Z
+    ENCODER         : Lavf59.27.100
+  Duration: 00:52:30.30, start: 0.000000, bitrate: 3739 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:52:30.272000000
+  Stream #0:1(por): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 768 kb/s (default)
+      Metadata:
+        title           : PT-BR 5.1
+        DURATION        : 00:52:30.304000000
+  Stream #0:2(eng): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 768 kb/s
+      Metadata:
+        title           : INGLÊS 5.1
+        DURATION        : 00:52:30.304000000
+  Stream #0:3(por): Subtitle: ass (ssa) (default) (forced)
+      Metadata:
+        title           : FORÇADA PT-BR
+        DURATION        : 00:50:02.628000000
+  Stream #0:4(por): Subtitle: ass (ssa)
+      Metadata:
+        title           : COMPLETA PT-BR
+        DURATION        : 00:52:17.179000000
+  Stream #0:5(por): Subtitle: ass (ssa)
+      Metadata:
+        DURATION        : 00:52:17.179000000
+  Stream #0:6(por): Subtitle: ass (ssa)
+      Metadata:
+        DURATION        : 00:52:17.179000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 2x02 - COMANDO.LA
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        DURATION        : 00:52:30.272000000
+        encoder         : Lavc61.19.101 wrapped_avframe
+[out#0/null @ 0x616adaa31740] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   23 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=2.04x    

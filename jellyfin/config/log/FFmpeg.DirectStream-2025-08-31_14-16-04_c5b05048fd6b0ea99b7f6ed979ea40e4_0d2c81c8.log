@@ -1,0 +1,520 @@
+{"Protocol":0,"Id":"c5b05048fd6b0ea99b7f6ed979ea40e4","Path":"/data/serie/Invasion.S01e09.720p.WEB-DL. DUAL/Invasion.S01e09.720p.WEB-DL. DUAL.mkv","EncoderPath":null,"EncoderProtocol":null,"Type":0,"Container":"mkv","Size":1161760295,"Name":"Invasion.S01e09.720p.WEB-DL. DUAL","IsRemote":false,"ETag":"90a7234f5df5d90d907425cead73518e","RunTimeTicks":34802560000,"ReadAtNativeFramerate":false,"IgnoreDts":false,"IgnoreIndex":false,"GenPtsInput":false,"SupportsTranscoding":true,"SupportsDirectStream":true,"SupportsDirectPlay":true,"IsInfiniteStream":false,"UseMostCompatibleTranscodingProfile":false,"RequiresOpening":false,"OpenToken":null,"RequiresClosing":false,"LiveStreamId":null,"BufferMs":null,"RequiresLooping":false,"SupportsProbing":true,"VideoType":0,"IsoType":null,"Video3DFormat":null,"MediaStreams":[{"Codec":"h264","CodecTag":null,"Language":null,"ColorRange":null,"ColorSpace":"bt709","ColorTransfer":"bt709","ColorPrimaries":"bt709","DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":null,"VideoRange":1,"VideoRangeType":1,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":null,"LocalizedForced":null,"LocalizedExternal":null,"LocalizedHearingImpaired":null,"DisplayTitle":"720p H264 SDR","NalLengthSize":"4","IsInterlaced":false,"IsAVC":true,"ChannelLayout":null,"BitRate":2670516,"BitDepth":8,"RefFrames":1,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Height":640,"Width":1280,"AverageFrameRate":23.976025,"RealFrameRate":23.976025,"ReferenceFrameRate":23.976025,"Profile":"High","Type":1,"AspectRatio":"2:1","Index":0,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":"yuv420p","Level":41,"IsAnamorphic":false},{"Codec":"ac3","CodecTag":null,"Language":"por","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Brazilian","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Padr\u00E3o","LocalizedForced":null,"LocalizedExternal":"Externo","LocalizedHearingImpaired":null,"DisplayTitle":"Brazilian - Portuguese - Dolby Digital - 5.1 - Padr\u00E3o","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"5.1","BitRate":384000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":6,"SampleRate":48000,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":1,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ac3","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"English","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Padr\u00E3o","LocalizedForced":null,"LocalizedExternal":"Externo","LocalizedHearingImpaired":null,"DisplayTitle":"English - Dolby Digital - 5.1","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"5.1","BitRate":384000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":6,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":2,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ass","CodecTag":null,"Language":"por","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Brazilian (Forced)","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Indefinido","LocalizedDefault":"Padr\u00E3o","LocalizedForced":"For\u00E7ado","LocalizedExternal":"Externo","LocalizedHearingImpaired":"Defici\u00EAncia Auditiva","DisplayTitle":"Brazilian (Forced) - Portuguese - ASS","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":0,"Width":0,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":3,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null}],"MediaAttachments":[],"Formats":[],"Bitrate":3438516,"FallbackMaxStreamingBitrate":null,"Timestamp":null,"RequiredHttpHeaders":{},"TranscodingUrl":null,"TranscodingSubProtocol":0,"TranscodingContainer":null,"AnalyzeDurationMs":null,"DefaultAudioStreamIndex":null,"DefaultSubtitleStreamIndex":null,"HasSegments":true}
+
+/usr/lib/jellyfin-ffmpeg/ffmpeg -analyzeduration 200M -probesize 1G -ss 00:20:21.183 -noaccurate_seek -fflags +genpts  -i file:"/data/serie/Invasion.S01e09.720p.WEB-DL. DUAL/Invasion.S01e09.720p.WEB-DL. DUAL.mkv" -map_metadata -1 -map_chapters -1 -threads 0 -map 0:0 -map 0:1 -map -0:s -codec:v:0 copy -bsf:v h264_mp4toannexb -start_at_zero -codec:a:0 libfdk_aac -ac 2 -ab 256000 -af "volume=2" -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 6 -hls_segment_type fmp4 -hls_fmp4_init_filename "663d3ba665a0b2d46d5539dfd86e067a-1.mp4" -start_number 200 -hls_segment_filename "/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a%d.mp4" -hls_playlist_type vod -hls_list_size 0 -y "/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a.m3u8"
+
+
+ffmpeg version 7.1.1-Jellyfin Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 13 (Ubuntu 13.3.0-6ubuntu2~24.04)
+  configuration: --prefix=/usr/lib/jellyfin-ffmpeg --target-os=linux --extra-version=Jellyfin --disable-doc --disable-ffplay --disable-static --disable-libxcb --disable-sdl2 --disable-xlib --enable-lto=auto --enable-gpl --enable-version3 --enable-shared --enable-gmp --enable-gnutls --enable-chromaprint --enable-opencl --enable-libdrm --enable-libxml2 --enable-libass --enable-libfreetype --enable-libfribidi --enable-libfontconfig --enable-libharfbuzz --enable-libbluray --enable-libmp3lame --enable-libopus --enable-libtheora --enable-libvorbis --enable-libopenmpt --enable-libdav1d --enable-libsvtav1 --enable-libwebp --enable-libvpx --enable-libx264 --enable-libx265 --enable-libzvbi --enable-libzimg --enable-libfdk-aac --arch=amd64 --enable-libshaderc --enable-libplacebo --enable-vulkan --enable-vaapi --enable-amf --enable-libvpl --enable-ffnvcodec --enable-cuda --enable-cuda-llvm --enable-cuvid --enable-nvdec --enable-nvenc
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.101 / 61. 19.101
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from 'file:/data/serie/Invasion.S01e09.720p.WEB-DL. DUAL/Invasion.S01e09.720p.WEB-DL. DUAL.mkv':
+  Metadata:
+    title           : Invasion.S01E09.Full.of.Stars.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-SiGLA
+    creation_time   : 2021-12-03T05:44:41.000000Z
+    ENCODER         : Lavf58.29.100
+  Duration: 00:58:00.26, start: 0.000000, bitrate: 2670 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1280x640 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:58:00.232000000
+  Stream #0:1(por): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default)
+      Metadata:
+        title           : Brazilian
+        DURATION        : 00:58:00.256000000
+  Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s
+      Metadata:
+        title           : English
+        DURATION        : 00:58:00.256000000
+  Stream #0:3(por): Subtitle: ass (ssa)
+      Metadata:
+        title           : Brazilian (Forced)
+        DURATION        : 00:49:45.616000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (ac3 (native) -> aac (libfdk_aac))
+Press [q] to stop, [?] for help
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a-1.mp4' for writing
+Output #0, hls, to '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a.m3u8':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1280x640 [SAR 1:1 DAR 2:1], q=2-31, 23.98 fps, 23.98 tbr, 16k tbn (default)
+  Stream #0:1: Audio: aac, 48000 Hz, stereo, s16, 256 kb/s (default)
+      Metadata:
+        encoder         : Lavc61.19.101 libfdk_aac
+      Side data:
+        cpb: bitrate max/min/avg: 256000/256000/256000 buffer size: 0 vbv_delay: N/A
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a200.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a201.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a202.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a203.mp4' for writing
+frame=  772 fps=0.0 q=-1.0 size=N/A time=00:00:00.00 bitrate=N/A speed=   0x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a204.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a205.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a206.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a207.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a208.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a209.mp4' for writing
+frame= 1633 fps=1633 q=-1.0 size=N/A time=00:00:35.90 bitrate=N/A speed=35.9x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a210.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a211.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a212.mp4' for writing
+frame= 2052 fps=1368 q=-1.0 size=N/A time=00:00:53.39 bitrate=N/A speed=35.6x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a213.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a214.mp4' for writing
+frame= 2452 fps=1226 q=-1.0 size=N/A time=00:01:10.48 bitrate=N/A speed=35.2x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a215.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a216.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a217.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a218.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a219.mp4' for writing
+frame= 2991 fps=1196 q=-1.0 size=N/A time=00:01:32.73 bitrate=N/A speed=37.1x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a220.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a221.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a222.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a223.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a224.mp4' for writing
+frame= 3714 fps=1238 q=-1.0 size=N/A time=00:02:03.02 bitrate=N/A speed=  41x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a225.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a226.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a227.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a228.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a229.mp4' for writing
+frame= 4537 fps=1296 q=-1.0 size=N/A time=00:02:37.01 bitrate=N/A speed=44.8x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a230.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a231.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a232.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a233.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a234.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a235.mp4' for writing
+frame= 5261 fps=1315 q=-1.0 size=N/A time=00:03:07.62 bitrate=N/A speed=46.9x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a236.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a237.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a238.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a239.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a240.mp4' for writing
+frame= 6069 fps=1348 q=-1.0 size=N/A time=00:03:41.33 bitrate=N/A speed=49.2x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a241.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a242.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a243.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a244.mp4' for writing
+frame= 6722 fps=1344 q=-1.0 size=N/A time=00:04:08.17 bitrate=N/A speed=49.6x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a245.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a246.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a247.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a248.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a249.mp4' for writing
+frame= 7332 fps=1333 q=-1.0 size=N/A time=00:04:33.57 bitrate=N/A speed=49.7x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a250.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a251.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a252.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a253.mp4' for writing
+frame= 7889 fps=1314 q=-1.0 size=N/A time=00:04:57.19 bitrate=N/A speed=49.5x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a254.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a255.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a256.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a257.mp4' for writing
+frame= 8486 fps=1305 q=-1.0 size=N/A time=00:05:22.02 bitrate=N/A speed=49.5x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a258.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a259.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a260.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a261.mp4' for writing
+frame= 9047 fps=1292 q=-1.0 size=N/A time=00:05:45.55 bitrate=N/A speed=49.4x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a262.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a263.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a264.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a265.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a266.mp4' for writing
+frame= 9689 fps=1292 q=-1.0 size=N/A time=00:06:11.92 bitrate=N/A speed=49.6x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a267.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a268.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a269.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a270.mp4' for writing
+frame=10288 fps=1286 q=-1.0 size=N/A time=00:06:36.90 bitrate=N/A speed=49.6x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a271.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a272.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a273.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a274.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a275.mp4' for writing
+frame=11047 fps=1299 q=-1.0 size=N/A time=00:07:08.97 bitrate=N/A speed=50.5x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a276.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a277.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a278.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a279.mp4' for writing
+frame=11689 fps=1298 q=-1.0 size=N/A time=00:07:35.33 bitrate=N/A speed=50.6x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a280.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a281.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a282.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a283.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a284.mp4' for writing
+frame=12514 fps=1317 q=-1.0 size=N/A time=00:08:09.74 bitrate=N/A speed=51.5x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a285.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a286.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a287.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a288.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a289.mp4' for writing
+frame=13095 fps=1309 q=-1.0 size=N/A time=00:08:33.98 bitrate=N/A speed=51.4x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a290.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a291.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a292.mp4' for writing
+frame=13563 fps=1291 q=-1.0 size=N/A time=00:08:53.90 bitrate=N/A speed=50.8x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a293.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a294.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a295.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a296.mp4' for writing
+frame=14041 fps=1276 q=-1.0 size=N/A time=00:09:13.83 bitrate=N/A speed=50.3x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a297.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a298.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a299.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a300.mp4' for writing
+frame=14758 fps=1283 q=-1.0 size=N/A time=00:09:43.33 bitrate=N/A speed=50.7x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a301.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a302.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a303.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a304.mp4' for writing
+frame=15350 fps=1279 q=-1.0 size=N/A time=00:10:08.04 bitrate=N/A speed=50.7x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a305.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a306.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a307.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a308.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a309.mp4' for writing
+frame=15938 fps=1275 q=-1.0 size=N/A time=00:10:32.59 bitrate=N/A speed=50.6x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a310.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a311.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a312.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a313.mp4' for writing
+frame=16586 fps=1276 q=-1.0 size=N/A time=00:10:59.98 bitrate=N/A speed=50.8x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a314.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a315.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a316.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a317.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a318.mp4' for writing
+frame=17282 fps=1280 q=-1.0 size=N/A time=00:11:29.00 bitrate=N/A speed=  51x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a319.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a320.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a321.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a322.mp4' for writing
+frame=17901 fps=1278 q=-1.0 size=N/A time=00:11:54.43 bitrate=N/A speed=  51x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a323.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a324.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a325.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a326.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a327.mp4' for writing
+frame=18511 fps=1276 q=-1.0 size=N/A time=00:12:19.84 bitrate=N/A speed=  51x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a328.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a329.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a330.mp4' for writing
+frame=19065 fps=1271 q=-1.0 size=N/A time=00:12:43.37 bitrate=N/A speed=50.9x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a331.mp4' for writing
+frame=19264 fps=1243 q=-1.0 size=N/A time=00:12:51.69 bitrate=N/A speed=49.8x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a332.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a333.mp4' for writing
+frame=19463 fps=1216 q=-1.0 size=N/A time=00:12:59.98 bitrate=N/A speed=48.7x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a334.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a335.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a336.mp4' for writing
+frame=19993 fps=1211 q=-1.0 size=N/A time=00:13:22.09 bitrate=N/A speed=48.6x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a337.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a338.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a339.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a340.mp4' for writing
+frame=20473 fps=1204 q=-1.0 size=N/A time=00:13:42.10 bitrate=N/A speed=48.3x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a341.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a342.mp4' for writing
+frame=21014 fps=1200 q=-1.0 size=N/A time=00:14:04.24 bitrate=N/A speed=48.2x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a343.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a344.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a345.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a346.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a347.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a348.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a349.mp4' for writing
+frame=21661 fps=1203 q=-1.0 size=N/A time=00:14:31.25 bitrate=N/A speed=48.4x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a350.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a351.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a352.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a353.mp4' for writing
+frame=22198 fps=1200 q=-1.0 size=N/A time=00:14:53.61 bitrate=N/A speed=48.3x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a354.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a355.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a356.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a357.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a358.mp4' for writing
+frame=22949 fps=1208 q=-1.0 size=N/A time=00:15:24.97 bitrate=N/A speed=48.7x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a359.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a360.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a361.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a362.mp4' for writing
+frame=23552 fps=1207 q=-1.0 size=N/A time=00:15:50.54 bitrate=N/A speed=48.7x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a363.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a364.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a365.mp4' for writing
+frame=24034 fps=1201 q=-1.0 size=N/A time=00:16:10.26 bitrate=N/A speed=48.5x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a366.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a367.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a368.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a369.mp4' for writing
+frame=24520 fps=1196 q=-1.0 size=N/A time=00:16:30.89 bitrate=N/A speed=48.3x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a370.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a371.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a372.mp4' for writing
+frame=25061 fps=1193 q=-1.0 size=N/A time=00:16:53.16 bitrate=N/A speed=48.2x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a373.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a374.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a375.mp4' for writing
+frame=25481 fps=1185 q=-1.0 size=N/A time=00:17:10.99 bitrate=N/A speed=47.9x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a376.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a377.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a378.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a379.mp4' for writing
+frame=26044 fps=1184 q=-1.0 size=N/A time=00:17:34.48 bitrate=N/A speed=47.9x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a380.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a381.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a382.mp4' for writing
+frame=26427 fps=1174 q=-1.0 size=N/A time=00:17:50.03 bitrate=N/A speed=47.5x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a383.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a384.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a385.mp4' for writing
+frame=26915 fps=1170 q=-1.0 size=N/A time=00:18:10.79 bitrate=N/A speed=47.4x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a386.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a387.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a388.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a389.mp4' for writing
+frame=27541 fps=1172 q=-1.0 size=N/A time=00:18:36.48 bitrate=N/A speed=47.5x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a390.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a391.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a392.mp4' for writing
+frame=28050 fps=1168 q=-1.0 size=N/A time=00:18:58.13 bitrate=N/A speed=47.4x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a393.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a394.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a395.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a396.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a397.mp4' for writing
+frame=28637 fps=1169 q=-1.0 size=N/A time=00:19:22.60 bitrate=N/A speed=47.4x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a398.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a399.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a400.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a401.mp4' for writing
+frame=29258 fps=1170 q=-1.0 size=N/A time=00:19:48.11 bitrate=N/A speed=47.5x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a402.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a403.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a404.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a405.mp4' for writing
+frame=29849 fps=1170 q=-1.0 size=N/A time=00:20:13.03 bitrate=N/A speed=47.6x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a406.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a407.mp4' for writing
+frame=30362 fps=1167 q=-1.0 size=N/A time=00:20:34.13 bitrate=N/A speed=47.5x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a408.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a409.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a410.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a411.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a412.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a413.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a414.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a415.mp4' for writing
+frame=31092 fps=1173 q=-1.0 size=N/A time=00:21:04.61 bitrate=N/A speed=47.7x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a416.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a417.mp4' for writing
+frame=31647 fps=1172 q=-1.0 size=N/A time=00:21:28.14 bitrate=N/A speed=47.7x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a418.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a419.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a420.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a421.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a422.mp4' for writing
+frame=32281 fps=1174 q=-1.0 size=N/A time=00:21:54.58 bitrate=N/A speed=47.8x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a423.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a424.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a425.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a426.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a427.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a428.mp4' for writing
+frame=33089 fps=1181 q=-1.0 size=N/A time=00:22:27.88 bitrate=N/A speed=48.1x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a429.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a430.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a431.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a432.mp4' for writing
+frame=33813 fps=1186 q=-1.0 size=N/A time=00:22:58.06 bitrate=N/A speed=48.3x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a433.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a434.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a435.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a436.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a437.mp4' for writing
+frame=34347 fps=1184 q=-1.0 size=N/A time=00:23:20.42 bitrate=N/A speed=48.3x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a438.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a439.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a440.mp4' for writing
+frame=35026 fps=1187 q=-1.0 size=N/A time=00:23:48.99 bitrate=N/A speed=48.4x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a441.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a442.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a443.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a444.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a445.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a446.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a447.mp4' for writing
+frame=35706 fps=1190 q=-1.0 size=N/A time=00:24:17.17 bitrate=N/A speed=48.6x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a448.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a449.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a450.mp4' for writing
+frame=36162 fps=1185 q=-1.0 size=N/A time=00:24:36.45 bitrate=N/A speed=48.4x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a451.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a452.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a453.mp4' for writing
+frame=36639 fps=1182 q=-1.0 size=N/A time=00:24:56.36 bitrate=N/A speed=48.3x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a454.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a455.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a456.mp4' for writing
+frame=37330 fps=1185 q=-1.0 size=N/A time=00:25:24.75 bitrate=N/A speed=48.4x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a457.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a458.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a459.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a460.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a461.mp4' for writing
+frame=37830 fps=1182 q=-1.0 size=N/A time=00:25:46.02 bitrate=N/A speed=48.3x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a462.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a463.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a464.mp4' for writing
+frame=38354 fps=1180 q=-1.0 size=N/A time=00:26:07.89 bitrate=N/A speed=48.2x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a465.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a466.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a467.mp4' for writing
+frame=38784 fps=1175 q=-1.0 size=N/A time=00:26:25.57 bitrate=N/A speed=  48x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a468.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a469.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a470.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a471.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a472.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a473.mp4' for writing
+frame=39519 fps=1179 q=-1.0 size=N/A time=00:26:56.08 bitrate=N/A speed=48.2x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a474.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a475.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a476.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a477.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a478.mp4' for writing
+frame=40230 fps=1183 q=-1.0 size=N/A time=00:27:25.93 bitrate=N/A speed=48.4x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a479.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a480.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a481.mp4' for writing
+frame=40770 fps=1181 q=-1.0 size=N/A time=00:27:48.65 bitrate=N/A speed=48.4x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a482.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a483.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a484.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a485.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a486.mp4' for writing
+frame=41354 fps=1181 q=-1.0 size=N/A time=00:28:12.60 bitrate=N/A speed=48.3x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a487.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a488.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a489.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a490.mp4' for writing
+frame=42037 fps=1184 q=-1.0 size=N/A time=00:28:41.51 bitrate=N/A speed=48.5x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a491.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a492.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a493.mp4' for writing
+frame=42510 fps=1181 q=-1.0 size=N/A time=00:29:00.84 bitrate=N/A speed=48.3x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a494.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a495.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a496.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a497.mp4' for writing
+frame=43002 fps=1178 q=-1.0 size=N/A time=00:29:21.74 bitrate=N/A speed=48.3x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a498.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a499.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a500.mp4' for writing
+frame=43598 fps=1178 q=-1.0 size=N/A time=00:29:46.21 bitrate=N/A speed=48.3x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a501.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a502.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a503.mp4' for writing
+frame=44116 fps=1176 q=-1.0 size=N/A time=00:30:08.12 bitrate=N/A speed=48.2x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a504.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a505.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a506.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a507.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a508.mp4' for writing
+frame=44635 fps=1174 q=-1.0 size=N/A time=00:30:29.86 bitrate=N/A speed=48.1x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a509.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a510.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a511.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a512.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a513.mp4' for writing
+frame=45191 fps=1173 q=-1.0 size=N/A time=00:30:52.82 bitrate=N/A speed=48.1x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a514.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a515.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a516.mp4' for writing
+frame=45738 fps=1172 q=-1.0 size=N/A time=00:31:15.69 bitrate=N/A speed=48.1x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a517.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a518.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a519.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a520.mp4' for writing
+frame=46335 fps=1173 q=-1.0 size=N/A time=00:31:40.77 bitrate=N/A speed=48.1x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a521.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a522.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a523.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a524.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a525.mp4' for writing
+frame=47016 fps=1175 q=-1.0 size=N/A time=00:32:09.17 bitrate=N/A speed=48.2x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a526.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a527.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a528.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a529.mp4' for writing
+frame=47541 fps=1174 q=-1.0 size=N/A time=00:32:31.06 bitrate=N/A speed=48.2x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a530.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a531.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a532.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a533.mp4' for writing
+frame=48128 fps=1174 q=-1.0 size=N/A time=00:32:55.31 bitrate=N/A speed=48.2x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a534.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a535.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a536.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a537.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a538.mp4' for writing
+frame=48802 fps=1176 q=-1.0 size=N/A time=00:33:23.26 bitrate=N/A speed=48.3x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a539.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a540.mp4' for writing
+frame=49300 fps=1173 q=-1.0 size=N/A time=00:33:44.42 bitrate=N/A speed=48.2x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a541.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a542.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a543.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a544.mp4' for writing
+frame=49800 fps=1171 q=-1.0 size=N/A time=00:34:05.29 bitrate=N/A speed=48.1x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a545.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a546.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a547.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a548.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a549.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a550.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a551.mp4' for writing
+frame=50795 fps=1181 q=-1.0 size=N/A time=00:34:46.33 bitrate=N/A speed=48.5x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a552.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a553.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a554.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a555.mp4' for writing
+frame=51296 fps=1179 q=-1.0 size=N/A time=00:35:07.58 bitrate=N/A speed=48.4x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a556.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a557.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a558.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a559.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a560.mp4' for writing
+frame=52113 fps=1184 q=-1.0 size=N/A time=00:35:41.33 bitrate=N/A speed=48.7x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a561.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a562.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a563.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a564.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a565.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a566.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a567.mp4' for writing
+frame=52998 fps=1191 q=-1.0 size=N/A time=00:36:18.26 bitrate=N/A speed=48.9x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a568.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a569.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a570.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a571.mp4' for writing
+frame=53663 fps=1192 q=-1.0 size=N/A time=00:36:45.99 bitrate=N/A speed=  49x    
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a572.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a573.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a574.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a575.mp4' for writing
+[hls @ 0x5a8b45193580] Opening '/config/cache/transcodes/663d3ba665a0b2d46d5539dfd86e067a576.mp4' for writing
+[out#0/hls @ 0x5a8b45193080] video:538931KiB audio:70615KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=54175 fps=1193 q=-1.0 Lsize=N/A time=00:37:07.79 bitrate=N/A speed=49.1x    

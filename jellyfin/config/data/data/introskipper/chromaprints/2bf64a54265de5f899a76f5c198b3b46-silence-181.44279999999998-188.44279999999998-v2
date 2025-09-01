@@ -1,0 +1,85 @@
+Input #0, matroska,webm, from '/data/serie/CSI.Las.Vegas.S01.DUB.AZTORRENTS.ORG/CSILV.01x10.by-DB.mkv':
+  Metadata:
+    encoder         : libebml v1.3.0 + libmatroska v1.4.1
+    creation_time   : 2014-11-14T05:44:50.000000Z
+  Duration: 00:45:05.89, start: 0.000000, bitrate: 2193 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 1999807
+        BPS-eng         : 1999807
+        DURATION        : 00:45:05.831000000
+        DURATION-eng    : 00:45:05.831000000
+        NUMBER_OF_FRAMES: 64874
+        NUMBER_OF_FRAMES-eng: 64874
+        NUMBER_OF_BYTES : 676392740
+        NUMBER_OF_BYTES-eng: 676392740
+        _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_DATE_UTC: 2014-11-14 05:44:50
+        _STATISTICS_WRITING_DATE_UTC-eng: 2014-11-14 05:44:50
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(por): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+      Metadata:
+        title           : CSI
+        BPS             : 192000
+        BPS-eng         : 192000
+        DURATION        : 00:45:05.888000000
+        DURATION-eng    : 00:45:05.888000000
+        NUMBER_OF_FRAMES: 84559
+        NUMBER_OF_FRAMES-eng: 84559
+        NUMBER_OF_BYTES : 64941312
+        NUMBER_OF_BYTES-eng: 64941312
+        _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_DATE_UTC: 2014-11-14 05:44:50
+        _STATISTICS_WRITING_DATE_UTC-eng: 2014-11-14 05:44:50
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(por): Subtitle: subrip (srt) (default) (forced)
+      Metadata:
+        title           : CSI
+        BPS             : 28
+        BPS-eng         : 28
+        DURATION        : 00:04:54.980000000
+        DURATION-eng    : 00:04:54.980000000
+        NUMBER_OF_FRAMES: 31
+        NUMBER_OF_FRAMES-eng: 31
+        NUMBER_OF_BYTES : 1037
+        NUMBER_OF_BYTES-eng: 1037
+        _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_DATE_UTC: 2014-11-14 05:44:50
+        _STATISTICS_WRITING_DATE_UTC-eng: 2014-11-14 05:44:50
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (ac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0(por): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+      Metadata:
+        title           : CSI
+        BPS             : 192000
+        BPS-eng         : 192000
+        DURATION        : 00:45:05.888000000
+        DURATION-eng    : 00:45:05.888000000
+        NUMBER_OF_FRAMES: 84559
+        NUMBER_OF_FRAMES-eng: 84559
+        NUMBER_OF_BYTES : 64941312
+        NUMBER_OF_BYTES-eng: 64941312
+        _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_DATE_UTC: 2014-11-14 05:44:50
+        _STATISTICS_WRITING_DATE_UTC-eng: 2014-11-14 05:44:50
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+[silencedetect @ 0x7d6dc8002780] silence_start: 1.539021
+[silencedetect @ 0x7d6dc8002780] silence_end: 5.385229 | silence_duration: 3.846208
+[silencedetect @ 0x7d6dc8002780] silence_start: 5.518312
+[silencedetect @ 0x7d6dc8002780] silence_end: 5.623958 | silence_duration: 0.105646
+[out#0/null @ 0x5cfc9c76c200] video:0KiB audio:1312KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed= 111x    

@@ -1,1 +1,1 @@
-{"StartTimeUtc":"2025-08-24T01:32:57.8094835Z","EndTimeUtc":"2025-08-24T01:32:57.8757229Z","Status":"Completed","Name":"Varredura do segmento de m\u00EDdia","Key":"TaskExtractMediaSegments","Id":"f861734dd71b37f9482b52a820e39013"}
+{"StartTimeUtc":"2025-09-01T13:53:03.665096Z","EndTimeUtc":"2025-09-01T13:53:04.1641085Z","Status":"Completed","Name":"Varredura do segmento de m\u00EDdia","Key":"TaskExtractMediaSegments","Id":"f861734dd71b37f9482b52a820e39013"}

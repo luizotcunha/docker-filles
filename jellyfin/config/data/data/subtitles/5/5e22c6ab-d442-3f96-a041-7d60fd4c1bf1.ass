@@ -1,0 +1,637 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 800
+Timer: 100.0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,sans-serif,52,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,1.73,1.44,2,20,20,20,0
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.68,0:00:17.18,Default,,0,0,0,,DIA 121
+Dialogue: 0,0:00:17.18,0:00:19.81,Default,,0,0,0,,{\i1}Mais uma vez, chegou uma nave maior.{\i0}
+Dialogue: 0,0:00:19.81,0:00:23.98,Default,,0,0,0,,{\an8}Faz hoje quatro meses desde\Nque os extraterrestres nos invadiram.
+Dialogue: 0,0:00:24.73,0:00:28.53,Default,,0,0,0,,{\an8}Quatro longos meses. Os mais difíceis\Nque o nosso mundo já conheceu.
+Dialogue: 0,0:00:28.53,0:00:31.95,Default,,0,0,0,,{\i1}Sofremos. Sacrificámos vidas,{\i0}
+Dialogue: 0,0:00:31.95,0:00:34.41,Default,,0,0,0,,{\i1}terra, entes queridos.{\i0}
+Dialogue: 0,0:00:35.99,0:00:40.20,Default,,0,0,0,,{\i1}E mesmo assim, com milhões de mortos,\Naqui, na Coligação de Defesa Mundial,{\i0}
+Dialogue: 0,0:00:40.21,0:00:44.63,Default,,0,0,0,,{\i1}lutamos por vocês diariamente\Ncom todos os recursos de cada nação.{\i0}
+Dialogue: 0,0:00:44.63,0:00:49.76,Default,,0,0,0,,{\i1}Fazemos tudo o que podemos\Npara entender e vencer o nosso inimigo.{\i0}
+Dialogue: 0,0:00:50.38,0:00:54.80,Default,,0,0,0,,{\i1}Pedimos a vossa ajuda.\NPor favor, cooperem com os militares,{\i0}
+Dialogue: 0,0:00:54.81,0:00:57.86,Default,,0,0,0,,{\i1}cumpram todos os códigos\Ne evacuem áreas contaminadas.{\i0}
+Dialogue: 0,0:00:58.43,0:01:02.73,Default,,0,0,0,,{\i1}Os esporos extraterrestres infetaram o ar\Nem mais de 30 % do nosso planeta.{\i0}
+Dialogue: 0,0:01:02.73,0:01:06.32,Default,,0,0,0,,{\i1}Criámos um abrigo para refugiados\Nde todas as áreas infetadas.{\i0}
+Dialogue: 0,0:01:06.90,0:01:13.07,Default,,0,0,0,,{\i1}Trabalhamos juntos, um mundo,\Numa coligação, para vos dar segurança.{\i0}
+Dialogue: 0,0:01:13.07,0:01:15.36,Default,,0,0,0,,Juntos, venceremos esta guerra.
+Dialogue: 0,0:01:16.03,0:01:19.20,Default,,0,0,0,,Juntos, veremos o outro lado\Ndestes dias sombrios.
+Dialogue: 0,0:01:20.25,0:01:24.46,Default,,0,0,0,,E, quando esse dia nascer,\Nnum céu livre dos nossos invasores,
+Dialogue: 0,0:01:25.46,0:01:29.13,Default,,0,0,0,,será o dia mais brilhante\Nque a nossa espécie alguma vez conheceu.
+Dialogue: 0,0:01:41.44,0:01:43.69,Default,,0,0,0,,{\an8}OSACA, JAPÃO, TERRA
+Dialogue: 0,0:02:40.99,0:02:44.08,Default,,0,0,0,,Corram!
+Dialogue: 0,0:04:17.76,0:04:20.47,Default,,0,0,0,,Não te preocupes,\Nvamos encontrar a tua mamã.
+Dialogue: 0,0:04:55.88,0:04:58.26,Default,,0,0,0,,CDM, Defesa Mundial?
+Dialogue: 0,0:04:58.26,0:04:59.85,Default,,0,0,0,,São da Coligação? Governo?
+Dialogue: 0,0:04:59.84,0:05:01.30,Default,,0,0,0,,Mitsuki Yamato?
+Dialogue: 0,0:05:01.80,0:05:02.88,Default,,0,0,0,,Há pessoas aqui em apuros.
+Dialogue: 0,0:05:02.89,0:05:05.02,Default,,0,0,0,,- Não viemos por causa delas.\N- Larguem-me!
+Dialogue: 0,0:05:05.01,0:05:06.05,Default,,0,0,0,,Que estão a dizer?
+Dialogue: 0,0:05:06.06,0:05:11.23,Default,,0,0,0,,Larguem-me! Que estão a fazer?
+Dialogue: 0,0:05:11.23,0:05:12.98,Default,,0,0,0,,Temos de ajudar toda a gente!
+Dialogue: 0,0:05:12.98,0:05:17.07,Default,,0,0,0,,Vocês são do governo! Ajudem todos!\NO que estão a fazer?
+Dialogue: 0,0:05:17.07,0:05:18.95,Default,,0,0,0,,Larguem-me!
+Dialogue: 0,0:05:20.15,0:05:21.69,Default,,0,0,0,,Larguem-me!
+Dialogue: 0,0:05:23.28,0:05:24.28,Default,,0,0,0,,{\an8}TECNOLOGIA DHARMAX
+Dialogue: 0,0:05:30.12,0:05:31.12,Default,,0,0,0,,Deixem-me descer!
+Dialogue: 0,0:05:31.12,0:05:33.83,Default,,0,0,0,,Larguem-me!
+Dialogue: 0,0:05:35.38,0:05:36.72,Default,,0,0,0,,Deixem-me descer. Deixem-me.
+Dialogue: 0,0:05:36.71,0:05:37.71,Default,,0,0,0,,Larguem-me.
+Dialogue: 0,0:05:37.71,0:05:39.80,Default,,0,0,0,,- Temos ordens...\N- Há pessoas a morrer!
+Dialogue: 0,0:05:39.80,0:05:41.72,Default,,0,0,0,,- Eu compreendo.\N- Tenho de as ajudar.
+Dialogue: 0,0:05:41.72,0:05:43.81,Default,,0,0,0,,Estamos a perder esta guerra.
+Dialogue: 0,0:05:43.80,0:05:45.26,Default,,0,0,0,,Deixem-me descer.
+Dialogue: 0,0:05:45.26,0:05:46.89,Default,,0,0,0,,Deixem-me ir, precisam da nossa ajuda.
+Dialogue: 0,0:05:46.89,0:05:50.06,Default,,0,0,0,,Vamos levar-te\Npara onde nos podes ajudar a vencer.
+Dialogue: 0,0:05:53.35,0:05:56.31,Default,,0,0,0,,Onde podes salvar toda a gente.
+Dialogue: 0,0:06:01.78,0:06:03.87,Default,,0,0,0,,Larguem-me.
+Dialogue: 0,0:06:14.67,0:06:17.17,Default,,0,0,0,,Para onde vamos?
+Dialogue: 0,0:07:27.91,0:07:31.83,Default,,0,0,0,,INVASÃO
+Dialogue: 0,0:07:35.21,0:07:38.84,Default,,0,0,0,,{\i1}... ataques na Índia seguem para oeste,\Npara o Paquistão,{\i0}
+Dialogue: 0,0:07:38.83,0:07:41.46,Default,,0,0,0,,{\an8}{\i1}criando uma crise de refugiados\Nque os grupos de ajuda estão a chamar...{\i0}
+Dialogue: 0,0:07:41.46,0:07:42.59,Default,,0,0,0,,{\an8}COLÚMBIA BRITÂNICA, TERRA
+Dialogue: 0,0:07:42.59,0:07:44.30,Default,,0,0,0,,{\an8}{\i1}... o pior da invasão, até agora.{\i0}
+Dialogue: 0,0:07:44.30,0:07:46.80,Default,,0,0,0,,{\an8}{\i1}A Coligação de Defesa Mundial\Nestá a registar níveis de amoníaco{\i0}
+Dialogue: 0,0:07:46.80,0:07:49.76,Default,,0,0,0,,{\i1}a subirem a um ritmo alarmante\Nà volta da atmosfera,{\i0}
+Dialogue: 0,0:07:49.76,0:07:52.68,Default,,0,0,0,,{\i1}com áreas a aproximarem-se\Nde 200 partes por milhão.{\i0}
+Dialogue: 0,0:07:52.68,0:07:54.85,Default,,0,0,0,,{\i1}Apoiantes do grupo independente,\No Movimento,{\i0}
+Dialogue: 0,0:07:54.85,0:07:57.56,Default,,0,0,0,,{\i1}têm continuado a causar problemas\Nà Coligação.{\i0}
+Dialogue: 0,0:07:57.56,0:08:01.19,Default,,0,0,0,,{\i1}Esta manhã, emboscaram e roubaram rações\Nde uma caravana de abastecimento{\i0}
+Dialogue: 0,0:08:01.19,0:08:04.53,Default,,0,0,0,,{\i1}que se dirigia para um acampamento\Nde sobreviventes na região...{\i0}
+Dialogue: 0,0:08:04.53,0:08:07.41,Default,,0,0,0,,{\i1}- Saques desta natureza aumentaram...{\i0}\N- Tem algum doce?
+Dialogue: 0,0:08:07.40,0:08:09.69,Default,,0,0,0,,{\i1}- ... a falta de comida continua a piorar...{\i0}\N- O quê?
+Dialogue: 0,0:08:09.70,0:08:12.04,Default,,0,0,0,,Gelatina? Gelado?
+Dialogue: 0,0:08:12.03,0:08:16.45,Default,,0,0,0,,Miúda, quase não temos comida.\NDeixámos de receber gelo há um mês.
+Dialogue: 0,0:08:16.46,0:08:18.34,Default,,0,0,0,,{\i1}... dirigem-se\Npara o acampamento mais próximo.{\i0}
+Dialogue: 0,0:08:33.01,0:08:36.43,Default,,0,0,0,,Muito bem, e animais de peluche?
+Dialogue: 0,0:08:36.43,0:08:39.72,Default,,0,0,0,,Tipo um ursinho?\NNem precisa de ser um urso.
+Dialogue: 0,0:08:39.73,0:08:44.15,Default,,0,0,0,,Pode ser uma lontra, uma foca,\Num coelho num porta-chaves...
+Dialogue: 0,0:08:44.15,0:08:46.49,Default,,0,0,0,,Quem te trouxe aqui?
+Dialogue: 0,0:08:46.49,0:08:48.83,Default,,0,0,0,,A minha mamã. Está na casa de banho.
+Dialogue: 0,0:08:50.99,0:08:51.99,Default,,0,0,0,,Casa de banho?
+Dialogue: 0,0:09:03.63,0:09:05.42,Default,,0,0,0,,É preciso chave para a casa de banho.
+Dialogue: 0,0:09:06.51,0:09:07.51,Default,,0,0,0,,Espera aí.
+Dialogue: 0,0:09:08.17,0:09:11.72,Default,,0,0,0,,{\i1}... Dubai e Santiago continuam\Npraticamente intocadas, nesta altura,{\i0}
+Dialogue: 0,0:09:11.72,0:09:14.06,Default,,0,0,0,,{\i1}sugerindo que o clima e o terreno\Npodem ser importantes.{\i0}
+Dialogue: 0,0:09:14.05,0:09:15.43,Default,,0,0,0,,Luke, temos de ir.
+Dialogue: 0,0:09:20.19,0:09:22.36,Default,,0,0,0,,Dezassete, dezasseis...
+Dialogue: 0,0:09:31.36,0:09:32.90,Default,,0,0,0,,Doze, onze,
+Dialogue: 0,0:09:32.91,0:09:34.66,Default,,0,0,0,,dez, nove...
+Dialogue: 0,0:09:34.66,0:09:37.41,Default,,0,0,0,,Tu, aí fora!
+Dialogue: 0,0:09:38.58,0:09:40.42,Default,,0,0,0,,Oito, sete...
+Dialogue: 0,0:09:42.12,0:09:44.37,Default,,0,0,0,,- O Luke?\N- Estava mesmo atrás de mim.
+Dialogue: 0,0:09:49.09,0:09:51.30,Default,,0,0,0,,- Abram o raio da porta!\N- O teu irmão?
+Dialogue: 0,0:09:59.18,0:10:02.47,Default,,0,0,0,,Abram o raio da porta!
+Dialogue: 0,0:10:22.25,0:10:25.96,Default,,0,0,0,,- Luke, que te aconteceu? Estás bem?\N- Mãe, tenho ferramentas. Olha.
+Dialogue: 0,0:10:25.96,0:10:27.84,Default,,0,0,0,,Luke, sabes as regras.
+Dialogue: 0,0:10:27.84,0:10:31.09,Default,,0,0,0,,Quando vão para a porta,\Ntens 17 segundos para sair.
+Dialogue: 0,0:10:31.09,0:10:32.38,Default,,0,0,0,,Demoraste mais de 30.
+Dialogue: 0,0:10:32.38,0:10:35.30,Default,,0,0,0,,Podias ter morrido naqueles segundos.\NPodíamos ter morrido todos.
+Dialogue: 0,0:10:35.30,0:10:36.55,Default,,0,0,0,,Mas não morremos, está bem?
+Dialogue: 0,0:10:36.55,0:10:39.09,Default,,0,0,0,,- E precisamos disto.\N- Luke, tu sabes as regras!
+Dialogue: 0,0:10:39.10,0:10:40.81,Default,,0,0,0,,Dezassete segundos!
+Dialogue: 0,0:10:41.48,0:10:42.48,Default,,0,0,0,,Sim.
+Dialogue: 0,0:10:45.15,0:10:46.24,Default,,0,0,0,,Eu sei as regras.
+Dialogue: 0,0:11:26.10,0:11:28.31,Default,,0,0,0,,Estamos quase a chegar.
+Dialogue: 0,0:11:34.44,0:11:35.98,Default,,0,0,0,,É a nave deles.
+Dialogue: 0,0:11:35.99,0:11:38.45,Default,,0,0,0,,{\an8}FLORESTA AMAZÓNICA, BRASIL
+Dialogue: 0,0:11:38.45,0:11:41.37,Default,,0,0,0,,{\an8}Aquela que abatemos do céu.
+Dialogue: 0,0:11:45.83,0:11:48.17,Default,,0,0,0,,Eu sei o que é.
+Dialogue: 0,0:11:49.79,0:11:51.79,Default,,0,0,0,,{\an8}Ela está a chegar, Sra. Presidente.
+Dialogue: 0,0:11:51.80,0:11:53.22,Default,,0,0,0,,{\an8}{\i1}Espero que desta vez esteja certo.{\i0}
+Dialogue: 0,0:11:53.21,0:11:55.13,Default,,0,0,0,,{\an8}{\i1}Já temos aquela nave\Nhá quase quatro meses.{\i0}
+Dialogue: 0,0:11:55.13,0:11:58.76,Default,,0,0,0,,{\an8}{\i1}E se não conseguir progredir rapidamente,\Na Coligação terá de assumir a operação.{\i0}
+Dialogue: 0,0:11:58.76,0:12:02.47,Default,,0,0,0,,{\an8}Deixe-me lembrá-la de que não haveria\Numa operação sem o meu financiamento.
+Dialogue: 0,0:12:02.47,0:12:06.68,Default,,0,0,0,,Por isso, tecnicamente, pertence-me a mim,\Ne não a uma imitação das Nações Unidas.
+Dialogue: 0,0:12:06.69,0:12:09.19,Default,,0,0,0,,{\an8}{\i1}Isto não é\Num dos seus brinquedos caros, Nikhil.{\i0}
+Dialogue: 0,0:12:09.19,0:12:12.07,Default,,0,0,0,,{\an8}{\i1}E estou a dizer-lhe\No que os líderes mundiais me dizem a mim.{\i0}
+Dialogue: 0,0:12:12.07,0:12:13.20,Default,,0,0,0,,{\an8}{\i1}Precisamos de resultados.{\i0}
+Dialogue: 0,0:12:13.19,0:12:16.32,Default,,0,0,0,,Aquele mapa estava quase 80 % verde,\Nna semana passada.
+Dialogue: 0,0:12:16.32,0:12:17.95,Default,,0,0,0,,Agora mal conseguimos chegar aos 75.
+Dialogue: 0,0:12:17.95,0:12:19.79,Default,,0,0,0,,Há zonas mortas em países inteiros.
+Dialogue: 0,0:12:19.78,0:12:22.07,Default,,0,0,0,,{\i1}A este ritmo, teriam terraformado\Na nossa atmosfera em...{\i0}
+Dialogue: 0,0:12:22.08,0:12:23.83,Default,,0,0,0,,Sim, sei fazer as contas, Sra. Presidente.
+Dialogue: 0,0:12:23.83,0:12:27.88,Default,,0,0,0,,E pode dizer aos restantes líderes\Nque os resultados estão a caminho.
+Dialogue: 0,0:12:27.87,0:12:29.21,Default,,0,0,0,,Tchauzinho.
+Dialogue: 0,0:13:00.28,0:13:01.28,Default,,0,0,0,,Por aqui, por favor.
+Dialogue: 0,0:13:10.79,0:13:12.92,Default,,0,0,0,,Bem-vinda.
+Dialogue: 0,0:13:12.92,0:13:15.76,Default,,0,0,0,,Nem sei dizer o quão estou entusiasmado\Npor finalmente te ter aqui.
+Dialogue: 0,0:13:15.75,0:13:16.96,Default,,0,0,0,,Falas inglês, certo?
+Dialogue: 0,0:13:17.46,0:13:20.17,Default,,0,0,0,,Temos tentado localizar-te\Nhá mais de um mês.
+Dialogue: 0,0:13:20.18,0:13:22.85,Default,,0,0,0,,Pensámos que te tínhamos encontrado\Nem Kanazawa, mas, puf,
+Dialogue: 0,0:13:22.85,0:13:24.52,Default,,0,0,0,,já tinhas desaparecido quando chegámos.
+Dialogue: 0,0:13:24.51,0:13:27.18,Default,,0,0,0,,Todos tinham desaparecido.\NTodos menos eles.
+Dialogue: 0,0:13:27.18,0:13:30.18,Default,,0,0,0,,Certo. Queres uma bebida?\NAlguma coisa para comer?
+Dialogue: 0,0:13:30.19,0:13:33.57,Default,,0,0,0,,Tenho um {\i1}chef{\i0} maravilhoso. Sabe fazer\Ncomida asiática. Sabe fazer tudo.
+Dialogue: 0,0:13:34.11,0:13:35.44,Default,,0,0,0,,Que raio estou aqui a fazer?
+Dialogue: 0,0:13:35.44,0:13:37.57,Default,,0,0,0,,Direta ao assunto.
+Dialogue: 0,0:13:37.57,0:13:39.03,Default,,0,0,0,,Gosto disso. Muito bem.
+Dialogue: 0,0:13:40.03,0:13:42.28,Default,,0,0,0,,Vamos deixar as cordialidades\Nde lado, está bem?
+Dialogue: 0,0:13:43.62,0:13:44.79,Default,,0,0,0,,Chamo-me Nikhil Kapur.
+Dialogue: 0,0:13:44.78,0:13:45.87,Default,,0,0,0,,Eu sei quem és.
+Dialogue: 0,0:13:47.70,0:13:48.91,Default,,0,0,0,,Toda a gente sabe quem és.
+Dialogue: 0,0:13:50.25,0:13:51.63,Default,,0,0,0,,Certo.
+Dialogue: 0,0:13:51.62,0:13:54.42,Default,,0,0,0,,Às vezes, esqueço-me\Nde que havia um mundo antes de tudo isto.
+Dialogue: 0,0:13:55.42,0:13:56.59,Default,,0,0,0,,Na verdade, nunca me esqueço.
+Dialogue: 0,0:13:56.59,0:13:58.09,Default,,0,0,0,,Só estava a ser humilde.
+Dialogue: 0,0:13:59.13,0:14:01.51,Default,,0,0,0,,Mas não temos tempo\Npara falsas modéstias, pois não?
+Dialogue: 0,0:14:02.01,0:14:05.39,Default,,0,0,0,,Estás aqui porque aquilo está aqui.
+Dialogue: 0,0:14:05.93,0:14:08.43,Default,,0,0,0,,E aquilo está aqui por tua causa.
+Dialogue: 0,0:14:09.18,0:14:11.56,Default,,0,0,0,,Foram os teus códigos\Nque estabeleceram contacto com a nave.
+Dialogue: 0,0:14:12.98,0:14:15.77,Default,,0,0,0,,A única comunicação\Nque alguém fez com o inimigo.
+Dialogue: 0,0:14:17.15,0:14:19.07,Default,,0,0,0,,As tuas coordenadas permitiram...
+Dialogue: 0,0:14:20.19,0:14:22.03,Default,,0,0,0,,... abater aquela nave do céu.
+Dialogue: 0,0:14:24.78,0:14:26.70,Default,,0,0,0,,Deste-nos a única vitória nesta guerra.
+Dialogue: 0,0:14:30.00,0:14:31.00,Default,,0,0,0,,Não foi uma vitória.
+Dialogue: 0,0:14:32.58,0:14:34.08,Default,,0,0,0,,Só piorou as coisas.
+Dialogue: 0,0:14:37.46,0:14:40.59,Default,,0,0,0,,Trouxeste-me do outro lado do mundo\Npara olhar para uma nave morta?
+Dialogue: 0,0:14:44.30,0:14:45.47,Default,,0,0,0,,É isso que pensas?
+Dialogue: 0,0:14:48.06,0:14:49.06,Default,,0,0,0,,Que está morta?
+Dialogue: 0,0:14:51.18,0:14:52.64,Default,,0,0,0,,Já comunicaste com ela antes.
+Dialogue: 0,0:14:53.77,0:14:55.61,Default,,0,0,0,,Queremos que comuniques outra vez.
+Dialogue: 0,0:14:57.31,0:14:58.31,Default,,0,0,0,,Nós tentámos.
+Dialogue: 0,0:14:58.32,0:15:02.24,Default,,0,0,0,,Tivemos das mentes mais brilhantes\Ndentro e fora dela.
+Dialogue: 0,0:15:02.24,0:15:05.87,Default,,0,0,0,,E mesmo assim,\Nsó há uma pessoa que estabeleceu contacto.
+Dialogue: 0,0:15:07.74,0:15:08.74,Default,,0,0,0,,Tu.
+Dialogue: 0,0:15:11.12,0:15:15.63,Default,,0,0,0,,Contacto. Comunicação. Ligação.
+Dialogue: 0,0:15:15.62,0:15:18.71,Default,,0,0,0,,É a única oportunidade que teremos\Npara saber o que querem.
+Dialogue: 0,0:15:19.38,0:15:20.38,Default,,0,0,0,,Porque estão aqui.
+Dialogue: 0,0:15:21.05,0:15:22.47,Default,,0,0,0,,E como os deter?
+Dialogue: 0,0:15:26.30,0:15:30.05,Default,,0,0,0,,Da última vez que trabalhei\Ncom o exército, mentiram-me.
+Dialogue: 0,0:15:31.10,0:15:32.10,Default,,0,0,0,,Usaram-me.
+Dialogue: 0,0:15:34.56,0:15:35.69,Default,,0,0,0,,Porque confiaria em ti?
+Dialogue: 0,0:15:36.19,0:15:39.40,Default,,0,0,0,,Porque eu não sou o exército,\Ne também não confio neles.
+Dialogue: 0,0:15:40.69,0:15:43.73,Default,,0,0,0,,Trabalhei fora do sistema\Ntoda a minha vida
+Dialogue: 0,0:15:43.74,0:15:46.95,Default,,0,0,0,,e a única regra que sempre segui foi:
+Dialogue: 0,0:15:49.07,0:15:50.86,Default,,0,0,0,,"Certifica-te\Nde que infringes sempre uma."
+Dialogue: 0,0:15:58.21,0:16:00.88,Default,,0,0,0,,O que querias dizer\Nquando disseste que não está morta?
+Dialogue: 0,0:16:03.26,0:16:04.64,Default,,0,0,0,,Vai lá dentro. Vê por ti mesma.
+Dialogue: 0,0:16:05.55,0:16:07.84,Default,,0,0,0,,Só vamos precisar\Nde te fazer uns testes primeiro.
+Dialogue: 0,0:16:07.84,0:16:09.63,Default,,0,0,0,,- Que tipo de testes?\N- O normal.
+Dialogue: 0,0:16:09.64,0:16:13.27,Default,,0,0,0,,Estudar a tua psicologia e fisiologia,\Npara o caso de acontecer alguma coisa.
+Dialogue: 0,0:16:13.27,0:16:16.11,Default,,0,0,0,,Na verdade, é uma formalidade,\Npara tua própria segurança.
+Dialogue: 0,0:16:18.98,0:16:19.98,Default,,0,0,0,,O que há lá dentro?
+Dialogue: 0,0:16:22.36,0:16:25.61,Default,,0,0,0,,Bem, se conseguires responder\Na essa pergunta, Mitsuki Yamato,
+Dialogue: 0,0:16:26.57,0:16:29.62,Default,,0,0,0,,podemos mesmo ter uma hipótese\Nde vencer esta guerra.
+Dialogue: 0,0:16:44.55,0:16:47.51,Default,,0,0,0,,Que estão a fazer?\NDisse para fazerem as malas. Vamos!
+Dialogue: 0,0:16:47.51,0:16:50.85,Default,,0,0,0,,Gosto de estar aqui.\NTínhamos água canalizada, para variar.
+Dialogue: 0,0:16:50.84,0:16:53.64,Default,,0,0,0,,E colchões,\Nmesmo que um pouco malcheirosos.
+Dialogue: 0,0:16:53.64,0:16:55.60,Default,,0,0,0,,São dois votos contra um. Ficamos.
+Dialogue: 0,0:16:55.60,0:16:57.69,Default,,0,0,0,,Sou vossa mãe. Não é uma democracia.
+Dialogue: 0,0:16:57.68,0:17:01.56,Default,,0,0,0,,Ainda nem passaram 48 horas. Não estás\Na seguir as tuas próprias regras.
+Dialogue: 0,0:17:01.56,0:17:04.56,Default,,0,0,0,,Não podemos ficar porque infringiste\Nas regras. Agora é demasiado perigoso.
+Dialogue: 0,0:17:05.07,0:17:07.32,Default,,0,0,0,,E se aquele homem no posto\Nchamou as autoridades?
+Dialogue: 0,0:17:07.32,0:17:09.99,Default,,0,0,0,,E se houver pessoas à nossa procura?\NTemos de continuar a andar.
+Dialogue: 0,0:17:09.99,0:17:11.66,Default,,0,0,0,,Estou farto de andar sempre a fugir.
+Dialogue: 0,0:17:11.66,0:17:14.04,Default,,0,0,0,,Se continuarmos, vamos dar ao mar.
+Dialogue: 0,0:17:14.03,0:17:16.66,Default,,0,0,0,,Já não vamos para Oeste.\NAgora vamos para Norte,
+Dialogue: 0,0:17:16.66,0:17:19.83,Default,,0,0,0,,para o cimo do continente,\Naté onde as estradas nos levarem.
+Dialogue: 0,0:17:19.83,0:17:22.08,Default,,0,0,0,,Ninguém vive tão longe,\Nmesmo antes da invasão.
+Dialogue: 0,0:17:22.08,0:17:24.25,Default,,0,0,0,,Exatamente. É esse o objetivo.\NEstaremos a salvo.
+Dialogue: 0,0:17:24.25,0:17:26.80,Default,,0,0,0,,De extraterrestres ou de humanos?
+Dialogue: 0,0:17:33.22,0:17:35.56,Default,,0,0,0,,Não foram os extraterrestres\Nque levaram o teu pai.
+Dialogue: 0,0:17:36.35,0:17:39.69,Default,,0,0,0,,Por favor, arruma as tuas coisas. Vá lá.
+Dialogue: 0,0:17:56.70,0:17:57.70,Default,,0,0,0,,Merda.
+Dialogue: 0,0:17:58.83,0:18:00.04,Default,,0,0,0,,Estás à procura disto?
+Dialogue: 0,0:18:03.38,0:18:06.05,Default,,0,0,0,,Sabes que não expomos isso, nunca.
+Dialogue: 0,0:18:07.21,0:18:09.13,Default,,0,0,0,,Luke, dá-me isso.
+Dialogue: 0,0:18:09.13,0:18:12.26,Default,,0,0,0,,Fui eu que o encontrei. Vai manter-nos\Na salvo, por isso, podemos ficar aqui.
+Dialogue: 0,0:18:12.26,0:18:14.39,Default,,0,0,0,,Sou eu que nos mantenho a salvo, Luke.
+Dialogue: 0,0:18:14.39,0:18:18.02,Default,,0,0,0,,Luke, eu disse para me dares isso.\NLuke, tens de confiar em mim.
+Dialogue: 0,0:18:18.02,0:18:20.06,Default,,0,0,0,,- Tens de confiar...\N- Na tua vozinha interior?
+Dialogue: 0,0:18:20.06,0:18:23.02,Default,,0,0,0,,Essa vozinha interior\Nmanteve-nos vivos este tempo todo.
+Dialogue: 0,0:18:23.02,0:18:25.56,Default,,0,0,0,,O mundo inteiro lá fora\Nestá a desmoronar-se.
+Dialogue: 0,0:18:25.56,0:18:27.85,Default,,0,0,0,,Tu, a tua irmã,\Nesta família é o meu mundo.
+Dialogue: 0,0:18:27.86,0:18:30.40,Default,,0,0,0,,Faria tudo e mais alguma coisa\Npara o manter seguro.
+Dialogue: 0,0:18:30.40,0:18:32.86,Default,,0,0,0,,Sabes, também tenho uma voz interior.\NIsso não importa?
+Dialogue: 0,0:18:32.86,0:18:34.20,Default,,0,0,0,,Sim, importa. Importa.
+Dialogue: 0,0:18:34.20,0:18:37.41,Default,,0,0,0,,Quando a tua vozinha souber conduzir,\Nsuturar uma ferida no escuro,
+Dialogue: 0,0:18:37.41,0:18:40.87,Default,,0,0,0,,fazer uma refeição com restos de ração,\Ntomar conta da tua irmã.
+Dialogue: 0,0:18:42.66,0:18:46.92,Default,,0,0,0,,Não estou só a proteger-te.\NEstou a preparar-te, para o caso de...
+Dialogue: 0,0:18:46.92,0:18:48.00,Default,,0,0,0,,Para o caso de quê?
+Dialogue: 0,0:18:49.00,0:18:54.46,Default,,0,0,0,,Luke, dá-lhe isso. Quero ir agora.\NEstá bem? Então, são dois votos contra um.
+Dialogue: 0,0:18:57.80,0:18:59.55,Default,,0,0,0,,E se eu quiser ficar aqui sozinho?
+Dialogue: 0,0:18:59.56,0:19:01.85,Default,,0,0,0,,Não é uma opção.
+Dialogue: 0,0:19:02.39,0:19:04.52,Default,,0,0,0,,Aonde vais, eu vou. Aonde eu vou, tu vais.
+Dialogue: 0,0:19:04.52,0:19:07.02,Default,,0,0,0,,Vamos juntos. É a nossa primeira regra.
+Dialogue: 0,0:19:22.54,0:19:23.62,Default,,0,0,0,,Obrigada.
+Dialogue: 0,0:19:27.71,0:19:30.05,Default,,0,0,0,,Vem cá.
+Dialogue: 0,0:19:38.05,0:19:39.34,Default,,0,0,0,,Que estás a medir?
+Dialogue: 0,0:19:40.14,0:19:42.98,Default,,0,0,0,,O EEG lê o somatório\Ndos sinais excitatórios
+Dialogue: 0,0:19:42.98,0:19:46.48,Default,,0,0,0,,e potenciais inibitórios\Ne a sua constante mudança.
+Dialogue: 0,0:19:47.06,0:19:48.06,Default,,0,0,0,,És médica?
+Dialogue: 0,0:19:48.61,0:19:50.15,Default,,0,0,0,,Cientista cognitiva.
+Dialogue: 0,0:19:50.15,0:19:52.44,Default,,0,0,0,,{\an8}Responderei a todas as perguntas\Napós o teste.
+Dialogue: 0,0:19:54.61,0:19:56.03,Default,,0,0,0,,Endō Shūsaku.
+Dialogue: 0,0:19:57.36,0:19:58.61,Default,,0,0,0,,Enchi Fumiko.
+Dialogue: 0,0:20:00.87,0:20:04.12,Default,,0,0,0,,Callas. Clinton.
+Dialogue: 0,0:20:04.12,0:20:06.50,Default,,0,0,0,,Com que idade terminaste o curso superior?
+Dialogue: 0,0:20:06.50,0:20:08.00,Default,,0,0,0,,Vinte e dois.
+Dialogue: 0,0:20:09.25,0:20:10.25,Default,,0,0,0,,O Kremlin.
+Dialogue: 0,0:20:12.17,0:20:13.17,Default,,0,0,0,,Mandela.
+Dialogue: 0,0:20:17.01,0:20:18.51,Default,,0,0,0,,Não sei o que é isso.
+Dialogue: 0,0:20:18.51,0:20:20.60,Default,,0,0,0,,A primeira vez que te apaixonaste?
+Dialogue: 0,0:20:24.89,0:20:26.31,Default,,0,0,0,,A primeira vez que te apaixonaste?
+Dialogue: 0,0:20:28.15,0:20:29.15,Default,,0,0,0,,Há três anos.
+Dialogue: 0,0:20:29.94,0:20:31.69,Default,,0,0,0,,Nome do primeiro amor?
+Dialogue: 0,0:20:34.74,0:20:36.87,Default,,0,0,0,,- Tens de me dizer o nome da pessoa.\N- Porquê?
+Dialogue: 0,0:20:37.61,0:20:39.32,Default,,0,0,0,,Estamos a criar uma base de memória.
+Dialogue: 0,0:20:39.32,0:20:40.40,Default,,0,0,0,,Porquê?
+Dialogue: 0,0:20:40.99,0:20:42.16,Default,,0,0,0,,Explicarei mais tarde.
+Dialogue: 0,0:20:43.66,0:20:44.66,Default,,0,0,0,,Qual era o nome?
+Dialogue: 0,0:20:48.29,0:20:49.29,Default,,0,0,0,,Hinata.
+Dialogue: 0,0:20:50.42,0:20:51.71,Default,,0,0,0,,A Hinata regressou ao Japão?
+Dialogue: 0,0:20:52.21,0:20:53.21,Default,,0,0,0,,Não.
+Dialogue: 0,0:20:57.38,0:20:58.59,Default,,0,0,0,,Imagina que é a tua filha.
+Dialogue: 0,0:20:58.59,0:21:00.30,Default,,0,0,0,,Situação de vida ou morte.
+Dialogue: 0,0:21:00.80,0:21:04.93,Default,,0,0,0,,Se tivesses de a salvar a ela ou à Hinata,\Nquem escolherias?
+Dialogue: 0,0:21:05.89,0:21:07.93,Default,,0,0,0,,O teu amor ou a bebé?
+Dialogue: 0,0:21:09.81,0:21:10.81,Default,,0,0,0,,Amor.
+Dialogue: 0,0:21:14.32,0:21:16.91,Default,,0,0,0,,São sons gravados\Ndurante o colapso de um edifício.
+Dialogue: 0,0:21:16.90,0:21:20.32,Default,,0,0,0,,Se tivesses de salvar o teu amor\Nou os teus pais, quem escolherias?
+Dialogue: 0,0:21:21.53,0:21:22.53,Default,,0,0,0,,Amor.
+Dialogue: 0,0:21:24.33,0:21:27.21,Default,,0,0,0,,- Uma fila de inocentes...\N- Amor. Podemos seguir em frente?
+Dialogue: 0,0:21:33.21,0:21:36.38,Default,,0,0,0,,- Quem está contigo na foto?\N- Primeira colega de quarto na faculdade.
+Dialogue: 0,0:21:36.88,0:21:38.05,Default,,0,0,0,,A Ichiko.
+Dialogue: 0,0:21:53.94,0:21:56.11,Default,,0,0,0,,Esta Hinata?
+Dialogue: 0,0:21:58.19,0:21:59.44,Default,,0,0,0,,A astronauta?
+Dialogue: 0,0:22:00.03,0:22:02.99,Default,,0,0,0,,Foi por causa dela que tentaste\Nestabelecer contacto com a nave?
+Dialogue: 0,0:22:06.37,0:22:07.87,Default,,0,0,0,,- Foi por causa dela que...\N- Sim.
+Dialogue: 0,0:22:08.54,0:22:10.83,Default,,0,0,0,,Acreditavas que a Hinata\Nestava viva naquela nave?
+Dialogue: 0,0:22:10.83,0:22:12.00,Default,,0,0,0,,Qual é o objetivo disto?
+Dialogue: 0,0:22:12.00,0:22:14.92,Default,,0,0,0,,Sentes-te responsável por matar a Hinata
+Dialogue: 0,0:22:14.92,0:22:16.92,Default,,0,0,0,,quando a nave foi abatida do céu?
+Dialogue: 0,0:22:20.76,0:22:24.18,Default,,0,0,0,,- Consideras-te responsável...\N- Ouvi a pergunta. Qual é o objetivo?
+Dialogue: 0,0:22:24.18,0:22:26.93,Default,,0,0,0,,- Consideras-te responsável...\N- Isto não tem nada que ver com...
+Dialogue: 0,0:22:26.93,0:22:28.39,Default,,0,0,0,,Preciso que respondas.
+Dialogue: 0,0:22:28.39,0:22:32.02,Default,,0,0,0,,Consideras-te responsável\Npela morte de Hinata Murai?
+Dialogue: 0,0:22:33.52,0:22:34.61,Default,,0,0,0,,Vai-te foder.
+Dialogue: 0,0:22:35.48,0:22:36.52,Default,,0,0,0,,É essa a tua resposta?
+Dialogue: 0,0:23:28.78,0:23:30.03,Default,,0,0,0,,"Amêndoa."
+Dialogue: 0,0:23:36.67,0:23:39.05,Default,,0,0,0,,É a nossa palavra-chave\Npara quando estivermos em perigo.
+Dialogue: 0,0:23:44.51,0:23:46.55,Default,,0,0,0,,Não quero aprender mais farsi.
+Dialogue: 0,0:23:47.18,0:23:48.35,Default,,0,0,0,,Antes, não era preciso.
+Dialogue: 0,0:23:48.35,0:23:50.14,Default,,0,0,0,,- Agora é.\N- Porquê?
+Dialogue: 0,0:23:50.76,0:23:52.39,Default,,0,0,0,,Pode salvar-nos a vida, um dia.
+Dialogue: 0,0:23:56.44,0:23:57.44,Default,,0,0,0,,Não sou bom nisso.
+Dialogue: 0,0:24:00.32,0:24:01.53,Default,,0,0,0,,É por isso que se pratica.
+Dialogue: 0,0:24:06.15,0:24:07.24,Default,,0,0,0,,É isso.
+Dialogue: 0,0:24:12.12,0:24:13.12,Default,,0,0,0,,Muito bem.
+Dialogue: 0,0:24:13.12,0:24:16.29,Default,,0,0,0,,Vou entrar e perguntar\Nonde fica a próxima estação de serviço.
+Dialogue: 0,0:24:16.29,0:24:17.71,Default,,0,0,0,,Vocês ficam aqui, está bem?
+Dialogue: 0,0:24:17.71,0:24:19.13,Default,,0,0,0,,Tenho fome, mamã.
+Dialogue: 0,0:24:19.13,0:24:20.67,Default,,0,0,0,,Vou perguntar se têm comida.
+Dialogue: 0,0:24:22.09,0:24:23.80,Default,,0,0,0,,Ou podíamos pedir alguma àqueles.
+Dialogue: 0,0:24:33.18,0:24:35.81,Default,,0,0,0,,Mantemo-nos longe dos militares.
+Dialogue: 0,0:24:36.60,0:24:38.06,Default,,0,0,0,,- Tu sabes as...\N- As regras.
+Dialogue: 0,0:24:39.10,0:24:40.10,Default,,0,0,0,,Sim.
+Dialogue: 0,0:24:44.11,0:24:45.11,Default,,0,0,0,,Quem é que temos?
+Dialogue: 0,0:24:46.53,0:24:47.53,Default,,0,0,0,,Uns aos outros.
+Dialogue: 0,0:24:48.78,0:24:49.78,Default,,0,0,0,,De que precisamos?
+Dialogue: 0,0:24:49.78,0:24:51.53,Default,,0,0,0,,- De mais nada.\N- De mais nada.
+Dialogue: 0,0:24:51.53,0:24:52.62,Default,,0,0,0,,É isso.
+Dialogue: 0,0:24:53.45,0:24:54.45,Default,,0,0,0,,Muito bem.
+Dialogue: 0,0:24:57.33,0:24:58.75,Default,,0,0,0,,Eu volto já.
+Dialogue: 0,0:25:24.69,0:25:26.65,Default,,0,0,0,,COMBUSTÍVEL
+Dialogue: 0,0:25:31.87,0:25:32.87,Default,,0,0,0,,Combustível.
+Dialogue: 0,0:25:35.08,0:25:36.08,Default,,0,0,0,,É gasolina.
+Dialogue: 0,0:25:40.83,0:25:43.75,Default,,0,0,0,,Vamos jogar um jogo, o "Eu vejo".
+Dialogue: 0,0:25:44.92,0:25:48.72,Default,,0,0,0,,Eu vejo com os meus olhinhos\Nalgo que começa com um G.
+Dialogue: 0,0:25:49.72,0:25:51.81,Default,,0,0,0,,Luke, não vás, por favor.
+Dialogue: 0,0:25:51.80,0:25:52.88,Default,,0,0,0,,Volto já.
+Dialogue: 0,0:25:54.01,0:25:56.30,Default,,0,0,0,,- A mãe disse para ficares...\N- Eu ouvi-a, Sarah.
+Dialogue: 0,0:25:57.64,0:25:59.27,Default,,0,0,0,,Prometo que já volto.
+Dialogue: 0,0:26:24.33,0:26:26.67,Default,,0,0,0,,- Quem quer outra?\N- Eu aceito uma.
+Dialogue: 0,0:27:09.88,0:27:11.92,Default,,0,0,0,,Agora. Vai, agora.
+Dialogue: 0,0:27:46.21,0:27:48.13,Default,,0,0,0,,Miúdo! Que estás a fazer com isso?
+Dialogue: 0,0:28:00.26,0:28:01.26,Default,,0,0,0,,Mãe.
+Dialogue: 0,0:28:03.56,0:28:04.56,Default,,0,0,0,,Mãe.
+Dialogue: 0,0:28:12.53,0:28:13.95,Default,,0,0,0,,- Olá.\N- Mamã, não vás!
+Dialogue: 0,0:28:13.94,0:28:15.94,Default,,0,0,0,,Desculpem. Sou a mãe dele.
+Dialogue: 0,0:28:15.95,0:28:18.20,Default,,0,0,0,,Ficámos sem gasolina.
+Dialogue: 0,0:28:18.20,0:28:20.45,Default,,0,0,0,,Fui à loja perguntar\Nqual era a próxima estação de serviço.
+Dialogue: 0,0:28:20.45,0:28:26.29,Default,,0,0,0,,E ele claramente fez algo desesperado\Ne estúpido, mas ele é só um miúdo
+Dialogue: 0,0:28:26.29,0:28:27.79,Default,,0,0,0,,e estamos muito longe de casa.
+Dialogue: 0,0:28:28.46,0:28:30.05,Default,,0,0,0,,Sam, pousa os bidões.
+Dialogue: 0,0:28:31.55,0:28:34.89,Default,,0,0,0,,Devolve-os a estas boas pessoas\Nque nos mantêm seguros
+Dialogue: 0,0:28:34.88,0:28:36.21,Default,,0,0,0,,e pede desculpa.
+Dialogue: 0,0:28:36.22,0:28:37.31,Default,,0,0,0,,Desculpem.
+Dialogue: 0,0:28:37.30,0:28:38.80,Default,,0,0,0,,Estão a ver, ele pede desculpa.
+Dialogue: 0,0:28:39.55,0:28:44.10,Default,,0,0,0,,Os miúdos cometem erros, mas garanto-vos,\Nele não vai voltar a cometer este.
+Dialogue: 0,0:28:44.10,0:28:46.56,Default,,0,0,0,,Por acaso, não está\Ncom o Movimento, pois não?
+Dialogue: 0,0:28:47.06,0:28:48.15,Default,,0,0,0,,O quê?
+Dialogue: 0,0:28:48.65,0:28:52.28,Default,,0,0,0,,Não sei do que está a falar.\NSomos uma família. Ele é só um miúdo.
+Dialogue: 0,0:28:52.77,0:28:54.77,Default,,0,0,0,,Então, não se importa\Nque revistemos o carro.
+Dialogue: 0,0:28:54.78,0:28:56.87,Default,,0,0,0,,Como disse, mantemos as pessoas seguras.
+Dialogue: 0,0:28:58.45,0:29:00.04,Default,,0,0,0,,Só vão assustar os miúdos.
+Dialogue: 0,0:29:00.03,0:29:02.99,Default,,0,0,0,,O seu filho devia ter pensado nisso antes\Nde tentar roubar propriedade do governo,
+Dialogue: 0,0:29:02.99,0:29:04.07,Default,,0,0,0,,senhora.
+Dialogue: 0,0:29:05.58,0:29:06.92,Default,,0,0,0,,- Mãos ao alto.\N- O quê?
+Dialogue: 0,0:29:06.91,0:29:09.66,Default,,0,0,0,,Pedi para levantarem as mãos\Npara verificar se têm armas.
+Dialogue: 0,0:29:09.67,0:29:11.92,Default,,0,0,0,,- Sou uma mãe.\N- Ficaria surpreendida com o que já vimos.
+Dialogue: 0,0:29:11.92,0:29:15.38,Default,,0,0,0,,- Não, não ficaria.\N- Arma! Tenho uma arma, aqui.
+Dialogue: 0,0:29:20.09,0:29:21.88,Default,,0,0,0,,- Revistem o carro.\N- Sim, senhor.
+Dialogue: 0,0:29:22.47,0:29:25.01,Default,,0,0,0,,A arma era para proteção,\Npara defender a minha família.
+Dialogue: 0,0:29:25.02,0:29:26.27,Default,,0,0,0,,Por favor, deixem-nos ir.
+Dialogue: 0,0:29:26.27,0:29:28.06,Default,,0,0,0,,- Sam, pede desculpa.\N- Desculpem.
+Dialogue: 0,0:29:28.06,0:29:29.81,Default,,0,0,0,,- Ele já disse isso.\N- Só...
+Dialogue: 0,0:29:31.02,0:29:32.15,Default,,0,0,0,,Mamã!
+Dialogue: 0,0:29:32.15,0:29:34.32,Default,,0,0,0,,- Mamã!\N- Não lhe toquem!
+Dialogue: 0,0:29:34.32,0:29:37.16,Default,,0,0,0,,Ouçam, levem a arma.\NFiquem com ela, está bem?
+Dialogue: 0,0:29:37.15,0:29:38.61,Default,,0,0,0,,Deixem-nos ir, imploro-vos.
+Dialogue: 0,0:29:38.61,0:29:40.70,Default,,0,0,0,,Somos uma família a tentar sobreviver!
+Dialogue: 0,0:29:41.20,0:29:43.74,Default,,0,0,0,,Desculpem. A culpa é minha.\NPor favor, só... Desculpem.
+Dialogue: 0,0:29:43.74,0:29:45.95,Default,,0,0,0,,- Capitão!\N- Por favor, não nos magoem.
+Dialogue: 0,0:29:45.95,0:29:47.66,Default,,0,0,0,,Deixem-nos ir. Está bem?
+Dialogue: 0,0:29:47.66,0:29:48.79,Default,,0,0,0,,Por favor, parem.
+Dialogue: 0,0:29:49.46,0:29:50.46,Default,,0,0,0,,Por favor.
+Dialogue: 0,0:29:55.46,0:29:57.34,Default,,0,0,0,,- O que é isto?\N- Não sei.
+Dialogue: 0,0:30:01.09,0:30:02.26,Default,,0,0,0,,Como se chama?
+Dialogue: 0,0:30:04.68,0:30:06.06,Default,,0,0,0,,Ana Lewis.
+Dialogue: 0,0:30:09.10,0:30:10.85,Default,,0,0,0,,Tragam o medidor de campo eletromagnético.
+Dialogue: 0,0:30:11.40,0:30:12.40,Default,,0,0,0,,Sim, senhor.
+Dialogue: 0,0:30:14.44,0:30:16.69,Default,,0,0,0,,Andamos à procura de muitas coisas,\Nhoje em dia.
+Dialogue: 0,0:30:16.69,0:30:19.94,Default,,0,0,0,,Mas uma delas é uma família com algo\Nque o governo pensa que pode ser uma arma
+Dialogue: 0,0:30:19.95,0:30:21.24,Default,,0,0,0,,contra os extraterrestres.
+Dialogue: 0,0:30:21.24,0:30:23.37,Default,,0,0,0,,Não sei do que está a falar.
+Dialogue: 0,0:30:23.87,0:30:25.50,Default,,0,0,0,,É só um pedaço de metal.
+Dialogue: 0,0:30:33.58,0:30:34.79,Default,,0,0,0,,Capitão.
+Dialogue: 0,0:30:37.92,0:30:40.34,Default,,0,0,0,,PROCURA-SE PARA INTERROGATÓRIO
+Dialogue: 0,0:30:40.34,0:30:41.63,Default,,0,0,0,,Aneesha.
+Dialogue: 0,0:30:44.55,0:30:45.55,Default,,0,0,0,,Aneesha Malik.
+Dialogue: 0,0:30:50.60,0:30:53.14,Default,,0,0,0,,Carreguem-nos e a todos os seus pertences\Nna carrinha.
+Dialogue: 0,0:30:54.40,0:30:55.94,Default,,0,0,0,,Está bem. Sejam meigos com ela.
+Dialogue: 0,0:31:06.12,0:31:07.33,Default,,0,0,0,,Vem cá.
+Dialogue: 0,0:31:17.17,0:31:18.46,Default,,0,0,0,,Formar!
+Dialogue: 0,0:31:18.46,0:31:19.63,Default,,0,0,0,,Olá.
+Dialogue: 0,0:31:19.63,0:31:21.42,Default,,0,0,0,,Toca a mexer!
+Dialogue: 0,0:31:21.42,0:31:23.63,Default,,0,0,0,,Vamos lá. Rápido.
+Dialogue: 0,0:31:23.63,0:31:25.30,Default,,0,0,0,,Não é preciso ter medo.
+Dialogue: 0,0:31:25.30,0:31:27.05,Default,,0,0,0,,Toca a mexer. Vamos lá!
+Dialogue: 0,0:31:27.05,0:31:28.43,Default,,0,0,0,,Pelo menos, não de mim.
+Dialogue: 0,0:31:28.93,0:31:30.14,Default,,0,0,0,,Vamos lá!
+Dialogue: 0,0:31:35.44,0:31:37.57,Default,,0,0,0,,Ela chumbou no teste.
+Dialogue: 0,0:31:37.56,0:31:38.65,Default,,0,0,0,,Pessimamente.
+Dialogue: 0,0:31:39.44,0:31:41.28,Default,,0,0,0,,Emociona-se muito facilmente,
+Dialogue: 0,0:31:41.28,0:31:44.12,Default,,0,0,0,,entra em modo de luta ou fuga\Nnuma questão de nanossegundos
+Dialogue: 0,0:31:44.61,0:31:47.03,Default,,0,0,0,,e o seu tempo de resposta\Né o mais rápido que já vi.
+Dialogue: 0,0:31:47.03,0:31:48.87,Default,,0,0,0,,Também é a mais imprudente.
+Dialogue: 0,0:31:48.87,0:31:52.33,Default,,0,0,0,,Bem, acho que nos dava jeito\Num pouco de imprudência, nesta altura.
+Dialogue: 0,0:31:53.96,0:31:56.59,Default,,0,0,0,,O progresso requer um pensamento radical.
+Dialogue: 0,0:31:57.92,0:31:59.21,Default,,0,0,0,,Seja como for,
+Dialogue: 0,0:31:59.21,0:32:02.67,Default,,0,0,0,,sabes o que aconteceu aos cientistas\Ncom referências estáveis que lá foram.
+Dialogue: 0,0:32:02.67,0:32:04.38,Default,,0,0,0,,Sim, não nos deram nada.
+Dialogue: 0,0:32:04.93,0:32:06.77,Default,,0,0,0,,Estou a falar do que lhes aconteceu.
+Dialogue: 0,0:32:06.76,0:32:08.39,Default,,0,0,0,,Eu sei do que estás a falar.
+Dialogue: 0,0:32:09.56,0:32:12.52,Default,,0,0,0,,Mas ela pode ser a minha melhor hipótese\Nde salvar a espécie.
+Dialogue: 0,0:32:13.35,0:32:14.43,Default,,0,0,0,,A tua melhor hipótese?
+Dialogue: 0,0:32:15.23,0:32:16.36,Default,,0,0,0,,Muito bem.
+Dialogue: 0,0:32:16.35,0:32:19.35,Default,,0,0,0,,Não te pago para me psicanalisares.
+Dialogue: 0,0:32:19.36,0:32:20.74,Default,,0,0,0,,Guarda isso para o trabalho.
+Dialogue: 0,0:32:22.07,0:32:25.41,Default,,0,0,0,,É por causa dela\Nque aquela coisa está aqui, na Amazónia,
+Dialogue: 0,0:32:26.03,0:32:27.32,Default,,0,0,0,,em vez de no espaço.
+Dialogue: 0,0:32:27.32,0:32:30.07,Default,,0,0,0,,Coisa que ela não encara\Ncomo a mesma vitória que tu.
+Dialogue: 0,0:32:30.87,0:32:34.42,Default,,0,0,0,,Nikhil, esta mulher não estava\Nsimplesmente no terreno a salvar vidas.
+Dialogue: 0,0:32:35.21,0:32:37.55,Default,,0,0,0,,Andava lá para se redimir\Npor ter tirado uma.
+Dialogue: 0,0:32:39.21,0:32:42.17,Default,,0,0,0,,Está a agir\Ncom base num sentimento de raiva e culpa,
+Dialogue: 0,0:32:42.17,0:32:44.55,Default,,0,0,0,,que são dois\Ndos fatores de motivação mais voláteis.
+Dialogue: 0,0:32:44.55,0:32:48.30,Default,,0,0,0,,Se a colocares naquela nave, não há\Ncomo prever como vai agir ou reagir.
+Dialogue: 0,0:32:49.72,0:32:52.68,Default,,0,0,0,,Não te preocupas com ela?\NPensa na missão.
+Dialogue: 0,0:32:53.93,0:32:55.06,Default,,0,0,0,,Na tua missão.
+Dialogue: 0,0:32:57.31,0:32:59.10,Default,,0,0,0,,Muito bem, vamos dizer-lhe.
+Dialogue: 0,0:33:25.63,0:33:29.43,Default,,0,0,0,,Então, a Dra. Castillo\Ndiz que chumbaste nos testes.
+Dialogue: 0,0:33:29.43,0:33:31.68,Default,,0,0,0,,Pelo menos\Nnos que te deste ao trabalho de fazer.
+Dialogue: 0,0:33:31.68,0:33:35.35,Default,,0,0,0,,Ela diz que não és psicologicamente\Nestável o suficiente para entrar na nave,
+Dialogue: 0,0:33:35.35,0:33:38.31,Default,,0,0,0,,e é por isso que a Dra. Castillo\Nirá acompanhar-te até à nave.
+Dialogue: 0,0:33:38.31,0:33:39.77,Default,,0,0,0,,- O quê?\N- Não.
+Dialogue: 0,0:33:39.77,0:33:42.61,Default,,0,0,0,,Sim. Eu sei que vocês tiveram\Num começo difícil.
+Dialogue: 0,0:33:42.61,0:33:44.11,Default,,0,0,0,,Desentenderam-se um pouco, não foi?
+Dialogue: 0,0:33:44.11,0:33:48.11,Default,,0,0,0,,Portanto, podem não se sentir\Ntodas calorosas e confortáveis com isto,
+Dialogue: 0,0:33:48.11,0:33:51.20,Default,,0,0,0,,mas creio que não nos devemos importar\Ncom o que as pessoas sentem.
+Dialogue: 0,0:33:51.70,0:33:53.54,Default,,0,0,0,,Os sentimentos atrapalham.
+Dialogue: 0,0:33:54.16,0:33:56.96,Default,,0,0,0,,É realmente uma das grandes falhas\Nda nossa espécie
+Dialogue: 0,0:33:57.45,0:33:59.87,Default,,0,0,0,,e pode ser a razão pela qual\Nestamos a perder esta guerra.
+Dialogue: 0,0:33:59.87,0:34:03.75,Default,,0,0,0,,Então, com isso em mente, estou a pedir...\NBem, na verdade, a dizer-vos
+Dialogue: 0,0:34:03.75,0:34:07.80,Default,,0,0,0,,para deixarem de lado\Nquaisquer sentimentos que tenham.
+Dialogue: 0,0:34:08.42,0:34:13.51,Default,,0,0,0,,Entrem naquela nave para ver\Nse consegues fazer magia novamente.
+Dialogue: 0,0:34:15.14,0:34:17.06,Default,,0,0,0,,Entraste na mente coletiva deles uma vez.
+Dialogue: 0,0:34:18.10,0:34:19.85,Default,,0,0,0,,Aposto que o consegues fazer de novo.
+Dialogue: 0,0:34:19.85,0:34:25.11,Default,,0,0,0,,E para ajudar a cobrir essa aposta, a Maya\Nestará lá para monitorizar a tua mente.
+Dialogue: 0,0:34:25.61,0:34:26.70,Default,,0,0,0,,Não preciso de uma monitora.
+Dialogue: 0,0:34:26.69,0:34:27.77,Default,,0,0,0,,Precisas, sim.
+Dialogue: 0,0:34:28.49,0:34:31.83,Default,,0,0,0,,O trabalho da Maya é mapear\Nvestígios de consciência dentro da nave.
+Dialogue: 0,0:34:31.82,0:34:35.82,Default,,0,0,0,,Ela pode mapear a tua consciência\Ne certificar-se de que te manténs estável.
+Dialogue: 0,0:34:35.83,0:34:37.54,Default,,0,0,0,,Ou tão estável como a tua referência,
+Dialogue: 0,0:34:37.54,0:34:40.21,Default,,0,0,0,,que, como já estabelecemos,\Nnão é muito estável.
+Dialogue: 0,0:34:40.21,0:34:41.67,Default,,0,0,0,,Ótimo. Então, está decidido.
+Dialogue: 0,0:34:41.67,0:34:44.67,Default,,0,0,0,,Então, ficamos aqui\Nenquanto o mundo está a arder?
+Dialogue: 0,0:34:45.17,0:34:48.22,Default,,0,0,0,,Ou vamos equipar-te\Npara ajudares a salvá-lo?
+Dialogue: 0,0:35:00.06,0:35:01.44,Default,,0,0,0,,Cuidado com o que pisas.
+Dialogue: 0,0:35:11.99,0:35:13.91,Default,,0,0,0,,O fato está adaptado\Naos teus dados biométricos.
+Dialogue: 0,0:35:14.91,0:35:16.83,Default,,0,0,0,,Estarei sempre a monitorizar\Nos teus sinais vitais.
+Dialogue: 0,0:35:18.54,0:35:21.46,Default,,0,0,0,,Se detetares alguma anomalia,\Naborta a missão.
+Dialogue: 0,0:35:54.78,0:35:57.57,Default,,0,0,0,,As notícias espalham-se rapidamente.\NSabem que vais entrar.
+Dialogue: 0,0:36:00.49,0:36:01.53,Default,,0,0,0,,Maya.
+Dialogue: 0,0:36:02.33,0:36:03.83,Default,,0,0,0,,Estás bem?
+Dialogue: 0,0:36:03.83,0:36:05.67,Default,,0,0,0,,Mandámos as amostras\Npara o laboratório, sim?
+Dialogue: 0,0:36:05.67,0:36:06.75,Default,,0,0,0,,Obrigada.
+Dialogue: 0,0:36:06.75,0:36:09.21,Default,,0,0,0,,Mitsuki Yamato, é o Tomas,\No responsável químico
+Dialogue: 0,0:36:09.21,0:36:11.05,Default,,0,0,0,,e coletor de amostras principal.
+Dialogue: 0,0:36:11.05,0:36:13.01,Default,,0,0,0,,Bem-vinda à barriga da baleia.
+Dialogue: 0,0:36:16.39,0:36:18.77,Default,,0,0,0,,As paredes têm\Ncaminhos neurais microscópicos.
+Dialogue: 0,0:36:19.26,0:36:21.43,Default,,0,0,0,,A nave é como um membro operacional,
+Dialogue: 0,0:36:22.64,0:36:24.73,Default,,0,0,0,,e é por isso que podemos estudar\Ncomo transmite dados.
+Dialogue: 0,0:36:24.73,0:36:26.32,Default,,0,0,0,,Ela vai entrar?
+Dialogue: 0,0:36:26.31,0:36:28.44,Default,,0,0,0,,O Nikhil aprovou.
+Dialogue: 0,0:36:30.36,0:36:33.70,Default,,0,0,0,,É o mundo dele\Ne nós só vivemos ou morremos nele.
+Dialogue: 0,0:36:34.44,0:36:35.69,Default,,0,0,0,,Por aqui.
+Dialogue: 0,0:36:58.34,0:36:59.51,Default,,0,0,0,,O que é isto?
+Dialogue: 0,0:37:02.31,0:37:03.56,Default,,0,0,0,,Naves de entrega.
+Dialogue: 0,0:37:04.18,0:37:06.72,Default,,0,0,0,,Foi como a primeira vaga\Nde extraterrestres veio para a Terra.
+Dialogue: 0,0:37:07.81,0:37:08.81,Default,,0,0,0,,Camuflados.
+Dialogue: 0,0:37:09.73,0:37:11.52,Default,,0,0,0,,Foi por isso que nunca os vimos chegar.
+Dialogue: 0,0:37:12.73,0:37:14.48,Default,,0,0,0,,Continuamos a não os ver chegar.
+Dialogue: 0,0:37:17.86,0:37:19.61,Default,,0,0,0,,Esperamos que possas ajudar com isso.
+Dialogue: 0,0:37:37.01,0:37:38.64,Default,,0,0,0,,Já agora, o meu nome é Clark.
+Dialogue: 0,0:37:43.89,0:37:45.06,Default,,0,0,0,,E o vosso?
+Dialogue: 0,0:37:45.56,0:37:47.85,Default,,0,0,0,,Não falamos com estranhos.
+Dialogue: 0,0:37:48.44,0:37:50.61,Default,,0,0,0,,Não sou um estranho.\NAcabei de dizer o meu nome.
+Dialogue: 0,0:37:57.53,0:37:58.86,Default,,0,0,0,,Para onde nos levam?
+Dialogue: 0,0:38:02.20,0:38:04.12,Default,,0,0,0,,Não para muito longe, garanto.
+Dialogue: 0,0:38:07.66,0:38:09.75,Default,,0,0,0,,Está muito calmo para um homem algemado.
+Dialogue: 0,0:38:10.71,0:38:13.09,Default,,0,0,0,,A prisão mais difícil de escapar\Né a nossa própria mente.
+Dialogue: 0,0:38:17.13,0:38:19.01,Default,,0,0,0,,Desculpe. Eu era...
+Dialogue: 0,0:38:19.93,0:38:21.85,Default,,0,0,0,,... professor de Inglês, antigamente.
+Dialogue: 0,0:38:22.72,0:38:23.72,Default,,0,0,0,,Mãe?
+Dialogue: 0,0:38:25.39,0:38:26.68,Default,,0,0,0,,O que é que faz agora?
+Dialogue: 0,0:38:26.68,0:38:27.76,Default,,0,0,0,,O mesmo que você.
+Dialogue: 0,0:38:28.31,0:38:29.35,Default,,0,0,0,,Sou sobrevivente.
+Dialogue: 0,0:38:30.52,0:38:33.15,Default,,0,0,0,,E se quer continuar assim,\Nsugiro que confie em mim.
+Dialogue: 0,0:38:36.73,0:38:37.86,Default,,0,0,0,,Porquê?
+Dialogue: 0,0:38:37.86,0:38:40.74,Default,,0,0,0,,A definição de confiança\Nrequer que abdique dessa palavra.
+Dialogue: 0,0:38:42.91,0:38:45.20,Default,,0,0,0,,Mas acho que se pode dizer\Nque a resposta é...
+Dialogue: 0,0:38:47.37,0:38:48.96,Default,,0,0,0,,... porque não sou bem um prisioneiro.
+Dialogue: 0,0:38:54.13,0:38:55.84,Default,,0,0,0,,Nem tudo é o que parece.
+Dialogue: 0,0:39:16.23,0:39:17.77,Default,,0,0,0,,Vamos. Ela parece magoada.
+Dialogue: 0,0:39:17.77,0:39:20.48,Default,,0,0,0,,- Miúda, estás bem?\N- Que te aconteceu?
+Dialogue: 0,0:39:20.49,0:39:22.24,Default,,0,0,0,,Vais ficar bem.
+Dialogue: 0,0:39:24.28,0:39:25.28,Default,,0,0,0,,Está tudo bem.
+Dialogue: 0,0:39:29.49,0:39:30.91,Default,,0,0,0,,Pronto.
+Dialogue: 0,0:39:30.91,0:39:33.41,Default,,0,0,0,,Para baixo. Baixem-se!
+Dialogue: 0,0:39:34.92,0:39:37.42,Default,,0,0,0,,- Fora da carrinha!\N- No chão!
+Dialogue: 0,0:39:38.84,0:39:40.01,Default,,0,0,0,,O que se passa?
+Dialogue: 0,0:39:40.01,0:39:41.93,Default,,0,0,0,,Mantenham a calma e fiquem atrás de mim.
+Dialogue: 0,0:39:45.84,0:39:50.35,Default,,0,0,0,,- Sim. Não se mexam!\N- No chão, para baixo!
+Dialogue: 0,0:39:51.77,0:39:53.90,Default,,0,0,0,,Dá-nos as braçadeiras.
+Dialogue: 0,0:39:56.23,0:39:58.36,Default,,0,0,0,,Fá-lo! Agora!
+Dialogue: 0,0:40:01.24,0:40:02.78,Default,,0,0,0,,Estás comigo. Vais ficar bem.
+Dialogue: 0,0:40:07.74,0:40:09.20,Default,,0,0,0,,Tapem os ouvidos.
+Dialogue: 0,0:40:15.21,0:40:17.63,Default,,0,0,0,,Cuidado! Vai rebentar!
+Dialogue: 0,0:40:25.55,0:40:27.26,Default,,0,0,0,,Venham connosco. Vamos lá.
+Dialogue: 0,0:40:29.51,0:40:30.59,Default,,0,0,0,,Confiem em mim.
+Dialogue: 0,0:40:43.15,0:40:44.15,Default,,0,0,0,,Pediram ajuda!
+Dialogue: 0,0:40:47.28,0:40:48.57,Default,,0,0,0,,Temos de sair daqui!
+Dialogue: 0,0:40:50.45,0:40:51.45,Default,,0,0,0,,Agora ou nunca.
+Dialogue: 0,0:40:52.58,0:40:53.79,Default,,0,0,0,,Mãe.
+Dialogue: 0,0:40:56.16,0:40:58.12,Default,,0,0,0,,Temos de recuperar as coisas\Nque nos tiraram.
+Dialogue: 0,0:40:58.13,0:41:00.01,Default,,0,0,0,,Tragam as coisas deles. Tudo.
+Dialogue: 0,0:41:00.00,0:41:01.42,Default,,0,0,0,,Vamos lá.
+Dialogue: 0,0:41:06.63,0:41:09.93,Default,,0,0,0,,À caça! Entrem na carrinha.
+Dialogue: 0,0:41:09.93,0:41:11.81,Default,,0,0,0,,- Saiam.\N- Rápido!
+Dialogue: 0,0:41:11.81,0:41:14.27,Default,,0,0,0,,Muito bem, vamos lá. Vão!
+Dialogue: 0,0:41:21.48,0:41:22.77,Default,,0,0,0,,Formar!
+Dialogue: 0,0:41:26.11,0:41:28.03,Default,,0,0,0,,Travamos uma guerra\Ncontra o mesmo inimigo.
+Dialogue: 0,0:41:28.70,0:41:31.91,Default,,0,0,0,,Se começarem a agir como tal, talvez\Nseja uma guerra que possamos ganhar.
+Dialogue: 0,0:41:32.70,0:41:33.99,Default,,0,0,0,,Levem os sacos!
+Dialogue: 0,0:41:33.99,0:41:36.08,Default,,0,0,0,,Deixem-lhes os casacos.\NMantêm-nos quentes.
+Dialogue: 0,0:41:39.33,0:41:41.75,Default,,0,0,0,,Vamos lá!
+Dialogue: 0,0:41:41.75,0:41:43.59,Default,,0,0,0,,Sim, aquele ali à frente.
+Dialogue: 0,0:41:45.26,0:41:46.64,Default,,0,0,0,,Façam as verificações finais.
+Dialogue: 0,0:41:48.63,0:41:50.47,Default,,0,0,0,,- Vamos!\N- Vamos!
+Dialogue: 0,0:41:54.35,0:41:56.23,Default,,0,0,0,,Bom trabalho. Vamos.
+Dialogue: 0,0:41:59.23,0:42:00.23,Default,,0,0,0,,Muito bem, vamos lá!
+Dialogue: 0,0:42:00.23,0:42:01.69,Default,,0,0,0,,- Ryder.\N- Pai.
+Dialogue: 0,0:42:02.73,0:42:03.73,Default,,0,0,0,,Bom trabalho.
+Dialogue: 0,0:42:04.65,0:42:06.03,Default,,0,0,0,,Carreguem, aqui.
+Dialogue: 0,0:42:06.90,0:42:08.24,Default,,0,0,0,,Arrumem tudo.
+Dialogue: 0,0:42:08.24,0:42:09.32,Default,,0,0,0,,Estás bem?
+Dialogue: 0,0:42:09.32,0:42:10.70,Default,,0,0,0,,Arrumem tudo!
+Dialogue: 0,0:42:10.70,0:42:12.66,Default,,0,0,0,,O {\i1}ketchup{\i0} faz maravilhas.
+Dialogue: 0,0:42:20.96,0:42:21.96,Default,,0,0,0,,Vamos lá!
+Dialogue: 0,0:42:22.92,0:42:23.92,Default,,0,0,0,,Como eu disse,
+Dialogue: 0,0:42:24.63,0:42:26.17,Default,,0,0,0,,nem tudo é o que parece.
+Dialogue: 0,0:42:50.95,0:42:52.03,Default,,0,0,0,,Cá estamos nós.
+Dialogue: 0,0:43:11.30,0:43:15.22,Default,,0,0,0,,VARIAÇÃO
+Dialogue: 0,0:43:19.85,0:43:22.52,Default,,0,0,0,,Sim. Aquilo é maior do que o Canadá.
+Dialogue: 0,0:43:31.95,0:43:32.95,Default,,0,0,0,,Viste?
+Dialogue: 0,0:43:37.74,0:43:38.99,Default,,0,0,0,,Tens transmissão em direto?
+Dialogue: 0,0:43:39.79,0:43:41.92,Default,,0,0,0,,Não, distorce a imagem.
+Dialogue: 0,0:43:48.38,0:43:49.63,Default,,0,0,0,,O que há lá dentro?
+Dialogue: 0,0:43:50.46,0:43:52.30,Default,,0,0,0,,Uma enorme fonte de energia.
+Dialogue: 0,0:43:53.30,0:43:55.68,Default,,0,0,0,,Mas não conseguimos passar por ela\Npara descobrir o que é.
+Dialogue: 0,0:43:57.51,0:43:58.80,Default,,0,0,0,,Ela?
+Dialogue: 0,0:44:02.35,0:44:03.48,Default,,0,0,0,,Segue-me.
+Dialogue: 0,0:44:39.22,0:44:42.31,Default,,0,0,0,,Fica a saber que todos os que entraram\Nnesta sala sofreram perda de memória.
+Dialogue: 0,0:44:42.89,0:44:46.39,Default,,0,0,0,,E a última pessoa a entrar\Nsofreu graves danos neurológicos.
+Dialogue: 0,0:44:48.23,0:44:49.73,Default,,0,0,0,,Que tipo de danos?
+Dialogue: 0,0:44:50.27,0:44:51.40,Default,,0,0,0,,Ainda não sei.
+Dialogue: 0,0:44:52.11,0:44:53.95,Default,,0,0,0,,Ainda não recuperou a consciência.
+Dialogue: 0,0:45:00.08,0:45:02.12,Default,,0,0,0,,Não estava a tentar magoar-te\Ncom aquele teste.
+Dialogue: 0,0:45:03.29,0:45:04.79,Default,,0,0,0,,Estava a tentar ajudar-te.
+Dialogue: 0,0:45:13.21,0:45:14.75,Default,,0,0,0,,De certeza que queres fazer isto?
+Dialogue: 0,0:45:16.80,0:45:17.80,Default,,0,0,0,,Sim.
+Dialogue: 0,0:45:19.85,0:45:21.48,Default,,0,0,0,,O protocolo é 15 minutos e sais.
+Dialogue: 0,0:45:21.47,0:45:23.51,Default,,0,0,0,,Verifico as funções cerebrais\Na cada dois minutos.
+Dialogue: 0,0:45:24.85,0:45:25.85,Default,,0,0,0,,Entendido.
+Dialogue: 0,0:45:26.44,0:45:28.73,Default,,0,0,0,,Não posso garantir\Nque não esquecerás o rosto da tua mãe
+Dialogue: 0,0:45:28.73,0:45:30.82,Default,,0,0,0,,ou o sabor da tua comida favorita.
+Dialogue: 0,0:45:31.32,0:45:32.45,Default,,0,0,0,,Já disse que entendi.
+Dialogue: 0,0:45:34.36,0:45:35.65,Default,,0,0,0,,Está bem.
+Dialogue: 0,0:45:46.79,0:45:47.88,Default,,0,0,0,,Cabo de ligação.
+Dialogue: 0,0:45:48.87,0:45:50.46,Default,,0,0,0,,{\i1}Cabo conectado.{\i0}
+Dialogue: 0,0:45:50.46,0:45:53.30,Default,,0,0,0,,Carrega aqui se precisares\Nde uma extração de emergência.
+Dialogue: 0,0:45:53.30,0:45:54.84,Default,,0,0,0,,No caso de não conseguires falar.
+Dialogue: 0,0:45:57.38,0:45:58.55,Default,,0,0,0,,Capacete.
+Dialogue: 0,0:46:19.36,0:46:20.82,Default,,0,0,0,,Hora do espetáculo.
+Dialogue: 0,0:46:29.29,0:46:31.29,Default,,0,0,0,,Porque não nos diz para onde vamos?
+Dialogue: 0,0:46:31.29,0:46:34.54,Default,,0,0,0,,Já vos disse.\NPara um lugar seguro, quente.
+Dialogue: 0,0:46:35.34,0:46:36.59,Default,,0,0,0,,Comer alguma coisa e dormir.
+Dialogue: 0,0:46:37.88,0:46:38.88,Default,,0,0,0,,Depois, continuamos.
+Dialogue: 0,0:46:38.88,0:46:41.26,Default,,0,0,0,,Obrigada, mas vamos pegar\Nnas nossas coisas e partir.
+Dialogue: 0,0:46:42.05,0:46:43.51,Default,,0,0,0,,Isso não seria prudente.
+Dialogue: 0,0:46:44.30,0:46:46.64,Default,,0,0,0,,Por outro lado, estavam na traseira\Ndaquela carrinha militar.
+Dialogue: 0,0:46:47.14,0:46:48.52,Default,,0,0,0,,Eu sei quem vocês são.
+Dialogue: 0,0:46:50.60,0:46:52.14,Default,,0,0,0,,As cores laranjas.
+Dialogue: 0,0:46:53.56,0:46:55.60,Default,,0,0,0,,Autodenominam-se "o Movimento".
+Dialogue: 0,0:46:57.07,0:46:58.61,Default,,0,0,0,,- Anarquistas.\N- Ativistas.
+Dialogue: 0,0:46:58.61,0:47:01.53,Default,,0,0,0,,Não queremos problemas.\NSó queremos as nossas coisas.
+Dialogue: 0,0:47:04.45,0:47:06.91,Default,,0,0,0,,- Está frio lá fora, mãe.\N- Não importa.
+Dialogue: 0,0:47:08.41,0:47:09.87,Default,,0,0,0,,Mãe, tenho fome.
+Dialogue: 0,0:47:10.75,0:47:12.17,Default,,0,0,0,,Estamos a chegar.
+Dialogue: 0,0:47:21.38,0:47:22.80,Default,,0,0,0,,O portão!
+Dialogue: 0,0:47:27.68,0:47:28.89,Default,,0,0,0,,Vamos lá!
+Dialogue: 0,0:47:43.32,0:47:44.53,Default,,0,0,0,,Alto!
+Dialogue: 0,0:48:02.22,0:48:03.89,Default,,0,0,0,,É o único lugar quente em quilómetros.
+Dialogue: 0,0:48:04.89,0:48:07.31,Default,,0,0,0,,Sei disso porque explorámos\Nos próximos 50 quilómetros.
+Dialogue: 0,0:48:07.30,0:48:08.84,Default,,0,0,0,,É o que fazemos.
+Dialogue: 0,0:48:09.35,0:48:12.10,Default,,0,0,0,,Ajudamos pessoas.\NMantemo-las em segurança.
+Dialogue: 0,0:48:13.77,0:48:15.15,Default,,0,0,0,,Pessoas como vocês.
+Dialogue: 0,0:48:16.06,0:48:18.48,Default,,0,0,0,,Aqui têm. Todas as vossas coisas.
+Dialogue: 0,0:48:21.53,0:48:23.95,Default,,0,0,0,,- Obrigada.\N- Podem ter uma boa noite de sono
+Dialogue: 0,0:48:23.95,0:48:27.29,Default,,0,0,0,,e levamo-los ao campo de refugiados\Nmais próximo, de manhã. Que tal?
+Dialogue: 0,0:48:27.28,0:48:29.12,Default,,0,0,0,,Aquilo é chocolate quente?
+Dialogue: 0,0:48:29.62,0:48:31.79,Default,,0,0,0,,Sim, é chocolate quente. Queres um pouco?
+Dialogue: 0,0:48:38.59,0:48:42.05,Default,,0,0,0,,É daquelas pessoas que acha mais seguro\Nnão criar ligações.
+Dialogue: 0,0:48:42.05,0:48:43.51,Default,,0,0,0,,A verdade é o contrário.
+Dialogue: 0,0:48:45.38,0:48:47.59,Default,,0,0,0,,As ligações são a única coisa\Nque nos mantém vivos.
+Dialogue: 0,0:48:57.31,0:48:59.52,Default,,0,0,0,,Vai buscar chocolate quente. Vai.
+Dialogue: 0,0:49:40.31,0:49:41.52,Default,,0,0,0,,Cá vamos nós.
+Dialogue: 0,0:50:03.55,0:50:05.30,Default,,0,0,0,,{\i1}Yamato, como estás?{\i0}
+Dialogue: 0,0:50:05.30,0:50:09.35,Default,,0,0,0,,{\i1}Número de telemóvel. Colega de quarto\Nda faculdade. Cor dos meus olhos?{\i0}
+Dialogue: 0,0:50:10.43,0:50:15.02,Default,,0,0,0,,É 02-555-0876.
+Dialogue: 0,0:50:15.02,0:50:16.36,Default,,0,0,0,,Ichiko. Verdes.
+Dialogue: 0,0:50:16.35,0:50:19.06,Default,,0,0,0,,{\i1}Boa. Estás a ir muito bem.{\i0}
+Dialogue: 0,0:50:20.65,0:50:23.07,Default,,0,0,0,,{\i1}A rastrear atividade neurológica\Nem toda a nave.{\i0}
+Dialogue: 0,0:50:23.77,0:50:27.40,Default,,0,0,0,,{\i1}Todas as frequências que pediste estão\Ncarregadas no teu interface de pulso.{\i0}
+Dialogue: 0,0:50:46.76,0:50:48.18,Default,,0,0,0,,Está a responder-lhe.
+Dialogue: 0,0:50:51.13,0:50:52.13,Default,,0,0,0,,Isto é de loucos.
+Dialogue: 0,0:50:54.10,0:50:56.48,Default,,0,0,0,,Mas que raio?
+Dialogue: 0,0:51:43.19,0:51:44.27,Default,,0,0,0,,Que raio se passa?
+Dialogue: 0,0:51:46.40,0:51:48.53,Default,,0,0,0,,- Está quase na hora de a tirar de lá.\N- Não.
+Dialogue: 0,0:51:48.53,0:51:50.41,Default,,0,0,0,,Quinze minutos e sai. É o protocolo.
+Dialogue: 0,0:51:50.90,0:51:52.36,Default,,0,0,0,,Que se lixe o protocolo.
+Dialogue: 0,0:51:52.91,0:51:56.04,Default,,0,0,0,,Se cortarmos esta ligação agora,\Npodemos nunca mais a recuperar.
+Dialogue: 0,0:51:56.03,0:51:57.24,Default,,0,0,0,,Não sabes isso.
+Dialogue: 0,0:51:57.24,0:51:59.41,Default,,0,0,0,,Se a deixarmos lá,\Npodemos não a recuperar.
+Dialogue: 0,0:51:59.41,0:52:01.04,Default,,0,0,0,,Sim, esse é um risco aceitável.
+Dialogue: 0,0:52:01.75,0:52:05.05,Default,,0,0,0,,- O risco não é teu.\N- Ela fica lá até que a ligação falhe
+Dialogue: 0,0:52:05.54,0:52:06.71,Default,,0,0,0,,ou ela falhe.
+Dialogue: 0,0:52:21.31,0:52:23.73,Default,,0,0,0,,Vamos experimentar isto.
+Dialogue: 0,0:53:15.15,0:53:16.28,Default,,0,0,0,,Aquilo é...
+Dialogue: 0,0:54:38.20,0:54:39.33,Default,,0,0,0,,Luke.
+Dialogue: 0,0:54:40.66,0:54:41.66,Default,,0,0,0,,Luke.
+Dialogue: 0,0:54:45.74,0:54:46.95,Default,,0,0,0,,Luke, o que foi?
+Dialogue: 0,0:54:47.62,0:54:48.96,Default,,0,0,0,,Estão a ouvir isto?
+Dialogue: 0,0:54:54.84,0:54:56.34,Default,,0,0,0,,A ouvir o quê?
+Dialogue: 0,0:54:57.97,0:54:58.97,Default,,0,0,0,,Este...
+Dialogue: 0,0:55:01.64,0:55:02.77,Default,,0,0,0,,... cantarolar.
+Dialogue: 0,0:55:32.88,0:55:34.42,Default,,0,0,0,,Que se passa?
+Dialogue: 0,0:55:34.42,0:55:36.13,Default,,0,0,0,,Começou há uns momentos.
+Dialogue: 0,0:55:36.13,0:55:38.59,Default,,0,0,0,,Pensei que fosse apenas mais um tremor,\Ncomo os outros.
+Dialogue: 0,0:55:38.59,0:55:40.05,Default,,0,0,0,,Mas os outros eram aleatórios.
+Dialogue: 0,0:55:55.44,0:55:58.23,Default,,0,0,0,,Este tremor é rítmico. Tem um padrão.
+Dialogue: 0,0:56:00.94,0:56:03.32,Default,,0,0,0,,É diferente, desta vez.
+Dialogue: 0,0:56:03.99,0:56:06.37,Default,,0,0,0,,Algo mudou.
+Dialogue: 0,0:57:46.93,0:57:48.93,Default,,0,0,0,,Legendas: Teresa Moreira

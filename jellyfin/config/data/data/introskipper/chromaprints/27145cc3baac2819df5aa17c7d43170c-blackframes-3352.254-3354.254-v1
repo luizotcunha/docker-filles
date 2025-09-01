@@ -1,0 +1,85 @@
+Input #0, matroska,webm, from '/data/serie/Daredevil.Born.Again.S01E01-02.1080p.WEB-DL.DUAL.5.1/Daredevil.Born.Again.S01E01.1080p.WEB-DL.DUAL.5.1.mkv':
+  Metadata:
+    title           : 1x01 - COMANDO.TO
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+  Duration: 00:58:33.50, start: 0.000000, bitrate: 5767 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 24 fps, 24 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 4741075
+        DURATION        : 00:58:33.459000000
+        NUMBER_OF_FRAMES: 84323
+        NUMBER_OF_BYTES : 2082196694
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('Legends') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(por): Audio: eac3, 48000 Hz, 5.1(side), fltp, 256 kb/s (default)
+      Metadata:
+        title           : PT-BR 5.1
+        BPS             : 256000
+        DURATION        : 00:58:33.504000000
+        NUMBER_OF_FRAMES: 109797
+        NUMBER_OF_BYTES : 112432128
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('Legends') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 768 kb/s
+      Metadata:
+        title           : INGLÊS 5.1
+        BPS             : 768000
+        DURATION        : 00:58:33.504000000
+        NUMBER_OF_FRAMES: 109797
+        NUMBER_OF_BYTES : 337296384
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('Legends') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(por): Subtitle: subrip (srt) (default) (forced)
+      Metadata:
+        title           : FORÇADA PT-BR
+        BPS             : 0
+        DURATION        : 00:49:03.291000000
+        NUMBER_OF_FRAMES: 8
+        NUMBER_OF_BYTES : 269
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('Legends') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : COMPLETA PT-BR
+        BPS             : 60
+        DURATION        : 00:57:49.042000000
+        NUMBER_OF_FRAMES: 690
+        NUMBER_OF_BYTES : 26064
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('Legends') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : Brazilian (SDH)
+        BPS             : 74
+        DURATION        : 00:55:37.000000000
+        NUMBER_OF_FRAMES: 951
+        NUMBER_OF_BYTES : 31254
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('Legends') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : SDH
+        BPS             : 76
+        DURATION        : 00:58:26.125000000
+        NUMBER_OF_FRAMES: 888
+        NUMBER_OF_BYTES : 33699
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('Legends') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 1x01 - COMANDO.TO
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        BPS             : 4741075
+        DURATION        : 00:58:33.459000000
+        NUMBER_OF_FRAMES: 84323
+        NUMBER_OF_BYTES : 2082196694
+        _STATISTICS_WRITING_APP: mkvmerge v88.0 ('Legends') 64-bit
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[out#0/null @ 0x6403434607c0] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=17.4x    

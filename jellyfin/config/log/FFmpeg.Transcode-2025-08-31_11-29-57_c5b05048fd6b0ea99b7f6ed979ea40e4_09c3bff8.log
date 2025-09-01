@@ -1,0 +1,94 @@
+{"Protocol":0,"Id":"c5b05048fd6b0ea99b7f6ed979ea40e4","Path":"/data/serie/Invasion.S01e09.720p.WEB-DL. DUAL/Invasion.S01e09.720p.WEB-DL. DUAL.mkv","EncoderPath":null,"EncoderProtocol":null,"Type":0,"Container":"mkv","Size":1161760295,"Name":"Invasion.S01e09.720p.WEB-DL. DUAL","IsRemote":false,"ETag":"90a7234f5df5d90d907425cead73518e","RunTimeTicks":34802560000,"ReadAtNativeFramerate":false,"IgnoreDts":false,"IgnoreIndex":false,"GenPtsInput":false,"SupportsTranscoding":true,"SupportsDirectStream":true,"SupportsDirectPlay":true,"IsInfiniteStream":false,"UseMostCompatibleTranscodingProfile":false,"RequiresOpening":false,"OpenToken":null,"RequiresClosing":false,"LiveStreamId":null,"BufferMs":null,"RequiresLooping":false,"SupportsProbing":true,"VideoType":0,"IsoType":null,"Video3DFormat":null,"MediaStreams":[{"Codec":"h264","CodecTag":null,"Language":null,"ColorRange":null,"ColorSpace":"bt709","ColorTransfer":"bt709","ColorPrimaries":"bt709","DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":null,"VideoRange":1,"VideoRangeType":1,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":null,"LocalizedForced":null,"LocalizedExternal":null,"LocalizedHearingImpaired":null,"DisplayTitle":"720p H264 SDR","NalLengthSize":"4","IsInterlaced":false,"IsAVC":true,"ChannelLayout":null,"BitRate":2670516,"BitDepth":8,"RefFrames":1,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Height":640,"Width":1280,"AverageFrameRate":23.976025,"RealFrameRate":23.976025,"ReferenceFrameRate":23.976025,"Profile":"High","Type":1,"AspectRatio":"2:1","Index":0,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":"yuv420p","Level":41,"IsAnamorphic":false},{"Codec":"ac3","CodecTag":null,"Language":"por","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Brazilian","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Padr\u00E3o","LocalizedForced":null,"LocalizedExternal":"Externo","LocalizedHearingImpaired":null,"DisplayTitle":"Brazilian - Portuguese - Dolby Digital - 5.1 - Padr\u00E3o","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"5.1","BitRate":384000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":6,"SampleRate":48000,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":1,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ac3","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"English","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Padr\u00E3o","LocalizedForced":null,"LocalizedExternal":"Externo","LocalizedHearingImpaired":null,"DisplayTitle":"English - Dolby Digital - 5.1","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"5.1","BitRate":384000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":6,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":2,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ass","CodecTag":null,"Language":"por","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Brazilian (Forced)","VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Indefinido","LocalizedDefault":"Padr\u00E3o","LocalizedForced":"For\u00E7ado","LocalizedExternal":"Externo","LocalizedHearingImpaired":"Defici\u00EAncia Auditiva","DisplayTitle":"Brazilian (Forced) - Portuguese - ASS","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":0,"Width":0,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":3,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null}],"MediaAttachments":[],"Formats":[],"Bitrate":3438516,"FallbackMaxStreamingBitrate":null,"Timestamp":null,"RequiredHttpHeaders":{},"TranscodingUrl":null,"TranscodingSubProtocol":0,"TranscodingContainer":null,"AnalyzeDurationMs":null,"DefaultAudioStreamIndex":null,"DefaultSubtitleStreamIndex":null,"HasSegments":true}
+
+/usr/lib/jellyfin-ffmpeg/ffmpeg -analyzeduration 200M -probesize 1G  -i file:"/data/serie/Invasion.S01e09.720p.WEB-DL. DUAL/Invasion.S01e09.720p.WEB-DL. DUAL.mkv" -map_metadata -1 -map_chapters -1 -threads 0 -map 0:0 -map 0:1 -codec:v:0 libx264 -preset veryfast -crf 23 -maxrate 5341032 -bufsize 10682064 -profile:v:0 high -level 41 -x264opts:0 subme=0:me_range=16:rc_lookahead=10:me=hex:open_gop=0 -force_key_frames:0 "expr:gte(t,n_forced*3)" -sc_threshold:v:0 0 -vf "setparams=color_primaries=bt709:color_trc=bt709:colorspace=bt709,scale=trunc(min(max(iw\,ih*a)\,min(3840\,2160*a))/2)*2:trunc(min(max(iw/a\,ih)\,min(3840/a\,2160))/2)*2,format=yuv420p,subtitles=f='/config/data/data/subtitles/4/47266a87-3ee8-ba39-e41f-d3242fd279f3.ass':fontsdir='/config/cache/attachments/c5b05048fd6b0ea99b7f6ed979ea40e4'" -start_at_zero -codec:a:0 copy -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 3 -hls_segment_type mpegts -start_number 0 -hls_segment_filename "/config/cache/transcodes/9f0401874ac55a4e52ee749f4934d5c2%d.ts" -hls_playlist_type vod -hls_list_size 0 -y "/config/cache/transcodes/9f0401874ac55a4e52ee749f4934d5c2.m3u8"
+
+
+ffmpeg version 7.1.1-Jellyfin Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 13 (Ubuntu 13.3.0-6ubuntu2~24.04)
+  configuration: --prefix=/usr/lib/jellyfin-ffmpeg --target-os=linux --extra-version=Jellyfin --disable-doc --disable-ffplay --disable-static --disable-libxcb --disable-sdl2 --disable-xlib --enable-lto=auto --enable-gpl --enable-version3 --enable-shared --enable-gmp --enable-gnutls --enable-chromaprint --enable-opencl --enable-libdrm --enable-libxml2 --enable-libass --enable-libfreetype --enable-libfribidi --enable-libfontconfig --enable-libharfbuzz --enable-libbluray --enable-libmp3lame --enable-libopus --enable-libtheora --enable-libvorbis --enable-libopenmpt --enable-libdav1d --enable-libsvtav1 --enable-libwebp --enable-libvpx --enable-libx264 --enable-libx265 --enable-libzvbi --enable-libzimg --enable-libfdk-aac --arch=amd64 --enable-libshaderc --enable-libplacebo --enable-vulkan --enable-vaapi --enable-amf --enable-libvpl --enable-ffnvcodec --enable-cuda --enable-cuda-llvm --enable-cuvid --enable-nvdec --enable-nvenc
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.101 / 61. 19.101
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from 'file:/data/serie/Invasion.S01e09.720p.WEB-DL. DUAL/Invasion.S01e09.720p.WEB-DL. DUAL.mkv':
+  Metadata:
+    title           : Invasion.S01E09.Full.of.Stars.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-SiGLA
+    creation_time   : 2021-12-03T05:44:41.000000Z
+    ENCODER         : Lavf58.29.100
+  Duration: 00:58:00.26, start: 0.000000, bitrate: 2670 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1280x640 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:58:00.232000000
+  Stream #0:1(por): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default)
+      Metadata:
+        title           : Brazilian
+        DURATION        : 00:58:00.256000000
+  Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s
+      Metadata:
+        title           : English
+        DURATION        : 00:58:00.256000000
+  Stream #0:3(por): Subtitle: ass (ssa)
+      Metadata:
+        title           : Brazilian (Forced)
+        DURATION        : 00:49:45.616000000
+[Parsed_subtitles_3 @ 0x639e12c190c0] libass API version: 0x1704000
+[Parsed_subtitles_3 @ 0x639e12c190c0] libass source: commit: 0.17.4-0-gbbb3c7f1570a4a021e52683f3fbdf74fe492ae84
+[Parsed_subtitles_3 @ 0x639e12c190c0] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.4.0 (COMPLEX)
+[Parsed_subtitles_3 @ 0x639e12c190c0] Using font provider fontconfig
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (libx264))
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+[Parsed_subtitles_3 @ 0x7dde08010dc0] libass API version: 0x1704000
+[Parsed_subtitles_3 @ 0x7dde08010dc0] libass source: commit: 0.17.4-0-gbbb3c7f1570a4a021e52683f3fbdf74fe492ae84
+[Parsed_subtitles_3 @ 0x7dde08010dc0] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.4.0 (COMPLEX)
+[Parsed_subtitles_3 @ 0x7dde08010dc0] Using font provider fontconfig
+[libx264 @ 0x639e12beefc0] using SAR=1/1
+[libx264 @ 0x639e12beefc0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0x639e12beefc0] profile High, level 4.1, 4:2:0, 8-bit
+[libx264 @ 0x639e12beefc0] 264 - core 164 r3108 31e19f9 - H.264/MPEG-4 AVC codec - Copyleft 2003-2023 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=0 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=2 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=23 scenecut=0 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 vbv_maxrate=5341 vbv_bufsize=10682 crf_max=0.0 nal_hrd=none filler=0 ip_ratio=1.40 aq=1:1.00
+Output #0, hls, to '/config/cache/transcodes/9f0401874ac55a4e52ee749f4934d5c2.m3u8':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264, yuv420p(tv, bt709, progressive), 1280x640 [SAR 1:1 DAR 2:1], q=2-31, 23.98 fps, 90k tbn (default)
+      Metadata:
+        encoder         : Lavc61.19.101 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 5341000/0/0 buffer size: 10682000 vbv_delay: N/A
+  Stream #0:1: Audio: ac3, 48000 Hz, 5.1(side), fltp, 384 kb/s (default)
+[hls @ 0x639e12c110c0] Opening '/config/cache/transcodes/9f0401874ac55a4e52ee749f4934d5c20.ts' for writing
+[hls @ 0x639e12c110c0] Opening '/config/cache/transcodes/9f0401874ac55a4e52ee749f4934d5c21.ts' for writing
+[Parsed_subtitles_3 @ 0x7dde08010dc0] fontselect: (sans-serif, 400, 0) -> /usr/share/fonts/truetype/dejavu/DejaVuSans.ttf, 0, DejaVuSans
+[hls @ 0x639e12c110c0] Opening '/config/cache/transcodes/9f0401874ac55a4e52ee749f4934d5c22.ts' for writing
+frame=  254 fps=0.0 q=28.0 size=N/A time=00:00:00.00 bitrate=N/A speed=   0x    
+[hls @ 0x639e12c110c0] Opening '/config/cache/transcodes/9f0401874ac55a4e52ee749f4934d5c23.ts' for writing
+[hls @ 0x639e12c110c0] Opening '/config/cache/transcodes/9f0401874ac55a4e52ee749f4934d5c24.ts' for writing
+[hls @ 0x639e12c110c0] Opening '/config/cache/transcodes/9f0401874ac55a4e52ee749f4934d5c25.ts' for writing
+[hls @ 0x639e12c110c0] Opening '/config/cache/transcodes/9f0401874ac55a4e52ee749f4934d5c26.ts' for writing
+
+
+[q] command received. Exiting.
+
+[hls @ 0x639e12c110c0] Opening '/config/cache/transcodes/9f0401874ac55a4e52ee749f4934d5c27.ts' for writing
+[hls @ 0x639e12c110c0] Opening '/config/cache/transcodes/9f0401874ac55a4e52ee749f4934d5c28.ts' for writing
+[out#0/hls @ 0x639e12c11b00] video:812KiB audio:1119KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  578 fps=543 q=-1.0 Lsize=N/A time=00:00:13.36 bitrate=N/A dup=3 drop=0 speed=12.6x    
+[libx264 @ 0x639e12beefc0] frame I:9     Avg QP:11.54  size: 12412
+[libx264 @ 0x639e12beefc0] frame P:151   Avg QP:15.20  size:  2758
+[libx264 @ 0x639e12beefc0] frame B:418   Avg QP:16.54  size:   725
+[libx264 @ 0x639e12beefc0] consecutive B-frames:  2.6%  0.7%  6.7% 90.0%
+[libx264 @ 0x639e12beefc0] mb I  I16..4: 69.0% 25.4%  5.6%
+[libx264 @ 0x639e12beefc0] mb P  I16..4:  9.3%  7.0%  0.4%  P16..4:  7.4%  1.7%  0.4%  0.0%  0.0%    skip:73.8%
+[libx264 @ 0x639e12beefc0] mb B  I16..4:  1.2%  0.8%  0.0%  B16..8:  3.8%  0.7%  0.0%  direct: 2.6%  skip:90.9%  L0:49.3% L1:47.6% BI: 3.1%
+[libx264 @ 0x639e12beefc0] 8x8 transform intra:38.1% inter:42.3%
+[libx264 @ 0x639e12beefc0] coded y,uvDC,uvAC intra: 21.8% 19.2% 1.9% inter: 0.4% 3.6% 0.0%
+[libx264 @ 0x639e12beefc0] i16 v,h,dc,p: 73% 14%  8%  5%
+[libx264 @ 0x639e12beefc0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 27% 15% 25%  6%  5%  7%  5%  5%  5%
+[libx264 @ 0x639e12beefc0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 47% 16% 12%  4%  4%  8%  3%  3%  3%
+[libx264 @ 0x639e12beefc0] i8c dc,h,v,p: 67% 13% 17%  3%
+[libx264 @ 0x639e12beefc0] Weighted P-Frames: Y:10.6% UV:0.7%
+[libx264 @ 0x639e12beefc0] kb/s:275.79

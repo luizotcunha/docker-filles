@@ -1,1 +1,1 @@
-{"StartTimeUtc":"2025-08-24T01:32:57.7899007Z","EndTimeUtc":"2025-08-24T01:32:57.7928137Z","Status":"Completed","Name":"Baixar legendas que est\u00E3o faltando","Key":"DownloadSubtitles","Id":"2c66a88bca43e565d7f8099f825478f1"}
+{"StartTimeUtc":"2025-09-01T01:44:54.0253414Z","EndTimeUtc":"2025-09-01T01:44:54.0286373Z","Status":"Completed","Name":"Baixar legendas que est\u00E3o faltando","Key":"DownloadSubtitles","Id":"2c66a88bca43e565d7f8099f825478f1"}

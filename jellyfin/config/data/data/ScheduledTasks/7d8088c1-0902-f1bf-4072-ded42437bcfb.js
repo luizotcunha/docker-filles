@@ -1,1 +1,1 @@
-{"StartTimeUtc":"2025-08-24T02:39:22.7010844Z","EndTimeUtc":"2025-08-24T02:39:22.7028743Z","Status":"Completed","Name":"Limpar pasta de transcodifica\u00E7\u00E3o","Key":"DeleteTranscodeFiles","Id":"7d8088c10902f1bf4072ded42437bcfb"}
+{"StartTimeUtc":"2025-09-01T01:44:54.0218813Z","EndTimeUtc":"2025-09-01T01:44:54.183203Z","Status":"Completed","Name":"Limpar pasta de transcodifica\u00E7\u00E3o","Key":"DeleteTranscodeFiles","Id":"7d8088c10902f1bf4072ded42437bcfb"}

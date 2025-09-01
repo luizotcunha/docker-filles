@@ -1,0 +1,94 @@
+Input #0, matroska,webm, from '/data/serie/The Walking Dead - Dead City S01 2023 WEB-DL 1080p x264 DUAL 5.1/The Walking Dead - Dead City S01E06 WEB-DL 1080p x264 DUAL 5.1.mkv':
+  Metadata:
+    title           : S01E06 - BLUDV.TO
+    encoder         : libebml v1.4.2 + libmatroska v1.6.4
+    creation_time   : 2024-03-07T21:59:33.000000Z
+  Duration: 00:42:57.15, start: 0.000000, bitrate: 7653 kb/s
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default) (original)
+      Metadata:
+        title           : Inglês
+        BPS             : 6371196
+        DURATION        : 00:42:57.117000000
+        NUMBER_OF_FRAMES: 61789
+        NUMBER_OF_BYTES : 2052414712
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:59:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(por): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        title           : PT-BR 5.1
+        BPS             : 640000
+        DURATION        : 00:42:57.152000000
+        NUMBER_OF_FRAMES: 80536
+        NUMBER_OF_BYTES : 206172160
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:59:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (original)
+      Metadata:
+        title           : Inglês 5.1
+        BPS             : 640000
+        DURATION        : 00:42:57.152000000
+        NUMBER_OF_FRAMES: 80536
+        NUMBER_OF_BYTES : 206172160
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:59:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : PT-BR FULL
+        BPS             : 36
+        DURATION        : 00:41:20.269000000
+        NUMBER_OF_FRAMES: 317
+        NUMBER_OF_BYTES : 11243
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:59:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(por): Subtitle: subrip (srt) (default) (forced)
+      Metadata:
+        title           : PT-BR FORCED
+        BPS             : 0
+        DURATION        : 00:17:53.114000000
+        NUMBER_OF_FRAMES: 4
+        NUMBER_OF_BYTES : 69
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:59:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : S01E06 - BLUDV.TO
+    encoder         : Lavf61.7.100
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default) (original)
+      Metadata:
+        title           : Inglês
+        BPS             : 6371196
+        DURATION        : 00:42:57.117000000
+        NUMBER_OF_FRAMES: 61789
+        NUMBER_OF_BYTES : 2052414712
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:59:33
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7fb80c002640] frame:31 pblack:50 pts:1316 t:1.316000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x7fb80c002640] frame:32 pblack:51 pts:1358 t:1.358000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x7fb80c002640] frame:33 pblack:52 pts:1399 t:1.399000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x7fb80c002640] frame:34 pblack:53 pts:1441 t:1.441000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x7fb80c002640] frame:35 pblack:54 pts:1483 t:1.483000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x7fb80c002640] frame:36 pblack:55 pts:1524 t:1.524000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x7fb80c002640] frame:37 pblack:58 pts:1566 t:1.566000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x7fb80c002640] frame:38 pblack:59 pts:1608 t:1.608000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x7fb80c002640] frame:39 pblack:61 pts:1650 t:1.650000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x7fb80c002640] frame:40 pblack:64 pts:1691 t:1.691000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x7fb80c002640] frame:41 pblack:67 pts:1733 t:1.733000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x7fb80c002640] frame:42 pblack:72 pts:1775 t:1.775000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x7fb80c002640] frame:43 pblack:76 pts:1816 t:1.816000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x7fb80c002640] frame:44 pblack:82 pts:1858 t:1.858000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x7fb80c002640] frame:45 pblack:87 pts:1900 t:1.900000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x7fb80c002640] frame:46 pblack:90 pts:1941 t:1.941000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x7fb80c002640] frame:47 pblack:92 pts:1983 t:1.983000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x7fb80c002640] frame:48 pblack:94 pts:2025 t:2.025000 type:B last_keyframe:27
+[out#0/null @ 0x6480e0eed000] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=2.59x    

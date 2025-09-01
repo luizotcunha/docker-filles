@@ -1,0 +1,36 @@
+Input #0, matroska,webm, from '/data/serie/Invasion.2021.S02E09.1080p.WEB-DL.DUAL.5.1/Invasion.2021.S02E09.1080p.WEB-DL.DUAL.5.1.mkv':
+  Metadata:
+    creation_time   : 2023-10-18T02:24:04.000000Z
+    ENCODER         : Lavf59.27.100
+  Duration: 00:39:40.58, start: 0.000000, bitrate: 3738 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:39:40.545000000
+  Stream #0:1(por): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 768 kb/s (default)
+      Metadata:
+        title           : Surround
+        DURATION        : 00:39:40.576000000
+  Stream #0:2(eng): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 768 kb/s
+      Metadata:
+        title           : Surround
+        DURATION        : 00:39:40.512000000
+  Stream #0:3(por): Subtitle: ass (ssa) (default) (forced)
+      Metadata:
+        title           : Forced
+        DURATION        : 00:34:25.399000000
+  Stream #0:4(por): Subtitle: ass (ssa)
+      Metadata:
+        title           : Portuguese (Brazil)
+        DURATION        : 00:39:27.451000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        DURATION        : 00:39:40.545000000
+        encoder         : Lavc61.19.101 wrapped_avframe
+[out#0/null @ 0x637b59df74c0] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=7.43x    

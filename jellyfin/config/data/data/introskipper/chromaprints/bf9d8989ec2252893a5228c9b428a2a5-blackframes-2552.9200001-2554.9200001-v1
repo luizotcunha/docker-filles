@@ -1,0 +1,78 @@
+Input #0, matroska,webm, from '/data/serie/CSI.Las.Vegas.S01.DUB.AZTORRENTS.ORG/CSILV.01x02.by-DB.mkv':
+  Metadata:
+    encoder         : libebml v1.3.0 + libmatroska v1.4.1
+    creation_time   : 2014-11-14T04:27:06.000000Z
+  Duration: 00:43:17.89, start: 0.000000, bitrate: 2193 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 1999692
+        BPS-eng         : 1999692
+        DURATION        : 00:43:17.765000000
+        DURATION-eng    : 00:43:17.765000000
+        NUMBER_OF_FRAMES: 62283
+        NUMBER_OF_FRAMES-eng: 62283
+        NUMBER_OF_BYTES : 649341302
+        NUMBER_OF_BYTES-eng: 649341302
+        _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_DATE_UTC: 2014-11-14 04:27:06
+        _STATISTICS_WRITING_DATE_UTC-eng: 2014-11-14 04:27:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(por): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+      Metadata:
+        title           : CSI
+        BPS             : 192000
+        BPS-eng         : 192000
+        DURATION        : 00:43:17.888000000
+        DURATION-eng    : 00:43:17.888000000
+        NUMBER_OF_FRAMES: 81184
+        NUMBER_OF_FRAMES-eng: 81184
+        NUMBER_OF_BYTES : 62349312
+        NUMBER_OF_BYTES-eng: 62349312
+        _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_DATE_UTC: 2014-11-14 04:27:06
+        _STATISTICS_WRITING_DATE_UTC-eng: 2014-11-14 04:27:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 1999692
+        BPS-eng         : 1999692
+        DURATION        : 00:43:17.765000000
+        DURATION-eng    : 00:43:17.765000000
+        NUMBER_OF_FRAMES: 62283
+        NUMBER_OF_FRAMES-eng: 62283
+        NUMBER_OF_BYTES : 649341302
+        NUMBER_OF_BYTES-eng: 649341302
+        _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_DATE_UTC: 2014-11-14 04:27:06
+        _STATISTICS_WRITING_DATE_UTC-eng: 2014-11-14 04:27:06
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7e3968002640] frame:34 pblack:52 pts:1426 t:1.426000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7e3968002640] frame:35 pblack:61 pts:1468 t:1.468000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7e3968002640] frame:36 pblack:67 pts:1509 t:1.509000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7e3968002640] frame:37 pblack:74 pts:1551 t:1.551000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7e3968002640] frame:38 pblack:81 pts:1593 t:1.593000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7e3968002640] frame:39 pblack:89 pts:1635 t:1.635000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7e3968002640] frame:40 pblack:94 pts:1676 t:1.676000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7e3968002640] frame:41 pblack:97 pts:1718 t:1.718000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7e3968002640] frame:42 pblack:99 pts:1760 t:1.760000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7e3968002640] frame:43 pblack:99 pts:1801 t:1.801000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7e3968002640] frame:44 pblack:99 pts:1843 t:1.843000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7e3968002640] frame:45 pblack:99 pts:1885 t:1.885000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7e3968002640] frame:46 pblack:99 pts:1927 t:1.927000 type:I last_keyframe:46
+[Parsed_blackframe_0 @ 0x7e3968002640] frame:47 pblack:99 pts:1968 t:1.968000 type:P last_keyframe:46
+[Parsed_blackframe_0 @ 0x7e3968002640] frame:48 pblack:100 pts:2010 t:2.010000 type:P last_keyframe:46
+[out#0/null @ 0x5906570a0080] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=2.65x    

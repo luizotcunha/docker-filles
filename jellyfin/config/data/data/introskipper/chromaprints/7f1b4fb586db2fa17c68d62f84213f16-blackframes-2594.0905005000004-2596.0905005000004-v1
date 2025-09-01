@@ -1,0 +1,112 @@
+Input #0, matroska,webm, from '/data/serie/CSI.Las.Vegas.S01.DUB.AZTORRENTS.ORG/CSILV.01x14.by-DB.mkv':
+  Metadata:
+    encoder         : libebml v1.3.0 + libmatroska v1.4.1
+    creation_time   : 2014-11-14T04:46:02.000000Z
+  Duration: 00:43:53.95, start: 0.000000, bitrate: 2193 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 1999719
+        BPS-eng         : 1999719
+        DURATION        : 00:43:53.884000000
+        DURATION-eng    : 00:43:53.884000000
+        NUMBER_OF_FRAMES: 63149
+        NUMBER_OF_FRAMES-eng: 63149
+        NUMBER_OF_BYTES : 658378588
+        NUMBER_OF_BYTES-eng: 658378588
+        _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_DATE_UTC: 2014-11-14 04:46:02
+        _STATISTICS_WRITING_DATE_UTC-eng: 2014-11-14 04:46:02
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(por): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+      Metadata:
+        title           : CSI
+        BPS             : 192000
+        BPS-eng         : 192000
+        DURATION        : 00:43:53.952000000
+        DURATION-eng    : 00:43:53.952000000
+        NUMBER_OF_FRAMES: 82311
+        NUMBER_OF_FRAMES-eng: 82311
+        NUMBER_OF_BYTES : 63214848
+        NUMBER_OF_BYTES-eng: 63214848
+        _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_DATE_UTC: 2014-11-14 04:46:02
+        _STATISTICS_WRITING_DATE_UTC-eng: 2014-11-14 04:46:02
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:0 pblack:59 pts:3 t:0.003000 type:P last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 1999719
+        BPS-eng         : 1999719
+        DURATION        : 00:43:53.884000000
+        DURATION-eng    : 00:43:53.884000000
+        NUMBER_OF_FRAMES: 63149
+        NUMBER_OF_FRAMES-eng: 63149
+        NUMBER_OF_BYTES : 658378588
+        NUMBER_OF_BYTES-eng: 658378588
+        _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_DATE_UTC: 2014-11-14 04:46:02
+        _STATISTICS_WRITING_DATE_UTC-eng: 2014-11-14 04:46:02
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:1 pblack:59 pts:45 t:0.045000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:2 pblack:59 pts:87 t:0.087000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:3 pblack:58 pts:128 t:0.128000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:4 pblack:59 pts:170 t:0.170000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:5 pblack:58 pts:212 t:0.212000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:6 pblack:58 pts:253 t:0.253000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:7 pblack:58 pts:295 t:0.295000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:8 pblack:58 pts:337 t:0.337000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:9 pblack:58 pts:378 t:0.378000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:10 pblack:58 pts:420 t:0.420000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:11 pblack:58 pts:462 t:0.462000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:12 pblack:59 pts:504 t:0.504000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:13 pblack:59 pts:545 t:0.545000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:14 pblack:59 pts:587 t:0.587000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:15 pblack:59 pts:629 t:0.629000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:16 pblack:59 pts:670 t:0.670000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:17 pblack:59 pts:712 t:0.712000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:18 pblack:59 pts:754 t:0.754000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:19 pblack:59 pts:796 t:0.796000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:20 pblack:59 pts:837 t:0.837000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:21 pblack:59 pts:879 t:0.879000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:22 pblack:59 pts:921 t:0.921000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:23 pblack:59 pts:962 t:0.962000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:24 pblack:59 pts:1004 t:1.004000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:25 pblack:59 pts:1046 t:1.046000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:26 pblack:59 pts:1088 t:1.088000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:27 pblack:59 pts:1129 t:1.129000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:28 pblack:59 pts:1171 t:1.171000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:29 pblack:59 pts:1213 t:1.213000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:30 pblack:59 pts:1254 t:1.254000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:31 pblack:59 pts:1296 t:1.296000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:32 pblack:59 pts:1338 t:1.338000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:33 pblack:59 pts:1379 t:1.379000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:34 pblack:59 pts:1421 t:1.421000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:35 pblack:59 pts:1463 t:1.463000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:36 pblack:59 pts:1505 t:1.505000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:37 pblack:59 pts:1546 t:1.546000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:38 pblack:59 pts:1588 t:1.588000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:39 pblack:59 pts:1630 t:1.630000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:40 pblack:59 pts:1671 t:1.671000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:41 pblack:59 pts:1713 t:1.713000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:42 pblack:59 pts:1755 t:1.755000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:43 pblack:59 pts:1797 t:1.797000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:44 pblack:59 pts:1838 t:1.838000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:45 pblack:59 pts:1880 t:1.880000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:46 pblack:59 pts:1922 t:1.922000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:47 pblack:59 pts:1963 t:1.963000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7c7bac002640] frame:48 pblack:59 pts:2005 t:2.005000 type:P last_keyframe:0
+[out#0/null @ 0x63f5c4222e40] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=12.4x    

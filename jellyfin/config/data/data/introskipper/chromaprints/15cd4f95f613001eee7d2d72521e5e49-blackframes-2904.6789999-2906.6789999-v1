@@ -1,0 +1,52 @@
+Input #0, matroska,webm, from '/data/serie/Invasion.2021.S02E10.1080p.WEB-DL.DUAL/Invasion.2021.S02E10.1080p.WEB-DL.DUAL.mkv':
+  Metadata:
+    title           : 2x10 - FilmesTorrent.TV
+    creation_time   : 2023-10-25T02:17:51.000000Z
+    ENCODER         : Lavf59.27.100
+  Duration: 00:50:10.82, start: 0.000000, bitrate: 3738 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 475.558000
+      Metadata:
+        title           : Chapter 1
+    Chapter #0:1: start 475.558000, end 548.923000
+      Metadata:
+        title           : Intro
+    Chapter #0:2: start 548.923000, end 3010.758000
+      Metadata:
+        title           : Chapter 3
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:50:10.800000000
+  Stream #0:1(por): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 768 kb/s (default)
+      Metadata:
+        title           : Surround
+        DURATION        : 00:50:10.816000000
+  Stream #0:2(eng): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 768 kb/s
+      Metadata:
+        title           : Surround
+        DURATION        : 00:50:10.784000000
+  Stream #0:3(por): Subtitle: ass (ssa) (default) (forced)
+      Metadata:
+        title           : Forced
+        DURATION        : 00:44:47.980000000
+  Stream #0:4(por): Subtitle: ass (ssa)
+      Metadata:
+        title           : Portuguese (Brazil)
+        DURATION        : 00:49:57.706000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 2x10 - FilmesTorrent.TV
+    encoder         : Lavf61.7.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 2.000000
+      Metadata:
+        title           : Chapter 3
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        DURATION        : 00:50:10.800000000
+        encoder         : Lavc61.19.101 wrapped_avframe
+[out#0/null @ 0x5ef009e09940] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=5.75x    

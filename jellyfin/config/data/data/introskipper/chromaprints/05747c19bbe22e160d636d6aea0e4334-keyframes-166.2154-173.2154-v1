@@ -1,0 +1,71 @@
+Input #0, matroska,webm, from '/data/serie/CSI.Las.Vegas.S01.DUB.AZTORRENTS.ORG/CSILV.01x15.by-DB.mkv':
+  Metadata:
+    encoder         : libebml v1.3.0 + libmatroska v1.4.1
+    creation_time   : 2014-11-14T04:49:05.000000Z
+  Duration: 00:45:22.78, start: 0.000000, bitrate: 2197 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 2004002
+        BPS-eng         : 2004002
+        DURATION        : 00:45:22.723000000
+        DURATION-eng    : 00:45:22.723000000
+        NUMBER_OF_FRAMES: 65279
+        NUMBER_OF_FRAMES-eng: 65279
+        NUMBER_OF_BYTES : 682042818
+        NUMBER_OF_BYTES-eng: 682042818
+        _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_DATE_UTC: 2014-11-14 04:49:05
+        _STATISTICS_WRITING_DATE_UTC-eng: 2014-11-14 04:49:05
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(por): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+      Metadata:
+        title           : CSI
+        BPS             : 192000
+        BPS-eng         : 192000
+        DURATION        : 00:45:22.784000000
+        DURATION-eng    : 00:45:22.784000000
+        NUMBER_OF_FRAMES: 85087
+        NUMBER_OF_FRAMES-eng: 85087
+        NUMBER_OF_BYTES : 65346816
+        NUMBER_OF_BYTES-eng: 65346816
+        _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_DATE_UTC: 2014-11-14 04:49:05
+        _STATISTICS_WRITING_DATE_UTC-eng: 2014-11-14 04:49:05
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x7510ec002480] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x7510ec002480] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x7510ec002480] n:   0 pts:    243 pts_time:0.243   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1280x720 i:P iskey:1 type:I checksum:357356DE plane_checksum:[04C8DDFE 6045D0F1 14DEA7D1] mean:[28 123 135] stdev:[20.0 8.2 7.9]
+[Parsed_showinfo_0 @ 0x7510ec002480] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 2004002
+        BPS-eng         : 2004002
+        DURATION        : 00:45:22.723000000
+        DURATION-eng    : 00:45:22.723000000
+        NUMBER_OF_FRAMES: 65279
+        NUMBER_OF_FRAMES-eng: 65279
+        NUMBER_OF_BYTES : 682042818
+        NUMBER_OF_BYTES-eng: 682042818
+        _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_DATE_UTC: 2014-11-14 04:49:05
+        _STATISTICS_WRITING_DATE_UTC-eng: 2014-11-14 04:49:05
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x7510ec002480] n:   1 pts:   3747 pts_time:3.747   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1280x720 i:P iskey:1 type:I checksum:A9C24357 plane_checksum:[CFF50D5F 9EFE1B42 1A731AB6] mean:[16 128 128] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x7510ec002480] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[Parsed_showinfo_0 @ 0x7510ec002480] n:   2 pts:   7083 pts_time:7.083   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1280x720 i:P iskey:1 type:I checksum:A3EF5BC6 plane_checksum:[39D5D5D2 1E0D5224 22E933C1] mean:[44 124 133] stdev:[30.9 5.8 5.9]
+[Parsed_showinfo_0 @ 0x7510ec002480] color_range:unknown color_space:unknown color_primaries:unknown color_trc:unknown
+[out#0/null @ 0x5bfaf5937a00] video:1KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    2 fps=0.0 q=-0.0 Lsize=N/A time=00:00:03.79 bitrate=N/A speed= 155x    

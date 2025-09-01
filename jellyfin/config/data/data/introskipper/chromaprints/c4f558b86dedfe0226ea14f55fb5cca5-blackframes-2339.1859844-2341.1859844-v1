@@ -1,0 +1,125 @@
+Input #0, matroska,webm, from '/data/serie/The Walking Dead - Dead City S01 2023 WEB-DL 1080p x264 DUAL 5.1/The Walking Dead - Dead City S01E04 WEB-DL 1080p x264 DUAL 5.1.mkv':
+  Metadata:
+    title           : S01E04 - BLUDV.TO
+    encoder         : libebml v1.4.2 + libmatroska v1.6.4
+    creation_time   : 2024-03-07T21:55:10.000000Z
+  Duration: 00:40:42.02, start: 0.000000, bitrate: 7628 kb/s
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default) (original)
+      Metadata:
+        title           : Inglês
+        BPS             : 6346327
+        DURATION        : 00:40:41.982000000
+        NUMBER_OF_FRAMES: 58549
+        NUMBER_OF_BYTES : 1937202289
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:55:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(por): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        title           : PT-BR 5.1
+        BPS             : 640000
+        DURATION        : 00:40:42.016000000
+        NUMBER_OF_FRAMES: 76313
+        NUMBER_OF_BYTES : 195361280
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:55:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (original)
+      Metadata:
+        title           : Inglês 5.1
+        BPS             : 640000
+        DURATION        : 00:40:42.016000000
+        NUMBER_OF_FRAMES: 76313
+        NUMBER_OF_BYTES : 195361280
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:55:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : PT-BR FULL
+        BPS             : 23
+        DURATION        : 00:38:11.873000000
+        NUMBER_OF_FRAMES: 243
+        NUMBER_OF_BYTES : 6780
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:55:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(por): Subtitle: subrip (srt) (default) (forced)
+      Metadata:
+        title           : PT-BR FORCED
+        BPS             : 0
+        DURATION        : 00:36:04.036000000
+        NUMBER_OF_FRAMES: 4
+        NUMBER_OF_BYTES : 108
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:55:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x719b38002640] frame:0 pblack:94 pts:26 t:0.026000 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : S01E04 - BLUDV.TO
+    encoder         : Lavf61.7.100
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default) (original)
+      Metadata:
+        title           : Inglês
+        BPS             : 6346327
+        DURATION        : 00:40:41.982000000
+        NUMBER_OF_FRAMES: 58549
+        NUMBER_OF_BYTES : 1937202289
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:55:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x719b38002640] frame:1 pblack:94 pts:68 t:0.068000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:2 pblack:94 pts:109 t:0.109000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:3 pblack:94 pts:151 t:0.151000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:4 pblack:94 pts:193 t:0.193000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:5 pblack:94 pts:234 t:0.234000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:6 pblack:94 pts:276 t:0.276000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:7 pblack:94 pts:318 t:0.318000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:8 pblack:94 pts:360 t:0.360000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:9 pblack:94 pts:401 t:0.401000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:10 pblack:94 pts:443 t:0.443000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:11 pblack:94 pts:485 t:0.485000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:12 pblack:94 pts:526 t:0.526000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:13 pblack:94 pts:568 t:0.568000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:14 pblack:94 pts:610 t:0.610000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:15 pblack:94 pts:652 t:0.652000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:16 pblack:94 pts:693 t:0.693000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:17 pblack:94 pts:735 t:0.735000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:18 pblack:94 pts:777 t:0.777000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:19 pblack:94 pts:818 t:0.818000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:20 pblack:94 pts:860 t:0.860000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:21 pblack:94 pts:902 t:0.902000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:22 pblack:94 pts:943 t:0.943000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:23 pblack:94 pts:985 t:0.985000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:24 pblack:94 pts:1027 t:1.027000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:25 pblack:94 pts:1069 t:1.069000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:26 pblack:94 pts:1110 t:1.110000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x719b38002640] frame:27 pblack:94 pts:1152 t:1.152000 type:I last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:28 pblack:94 pts:1194 t:1.194000 type:B last_keyframe:27
+frame=   29 fps=0.0 q=-0.0 size=N/A time=00:00:01.25 bitrate=N/A speed= 2.5x    [Parsed_blackframe_0 @ 0x719b38002640] frame:29 pblack:94 pts:1235 t:1.235000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:30 pblack:94 pts:1277 t:1.277000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:31 pblack:94 pts:1319 t:1.319000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:32 pblack:94 pts:1361 t:1.361000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:33 pblack:94 pts:1402 t:1.402000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:34 pblack:94 pts:1444 t:1.444000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:35 pblack:94 pts:1486 t:1.486000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:36 pblack:94 pts:1527 t:1.527000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:37 pblack:94 pts:1569 t:1.569000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:38 pblack:94 pts:1611 t:1.611000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:39 pblack:94 pts:1653 t:1.653000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:40 pblack:94 pts:1694 t:1.694000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:41 pblack:94 pts:1736 t:1.736000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:42 pblack:94 pts:1778 t:1.778000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:43 pblack:94 pts:1819 t:1.819000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:44 pblack:94 pts:1861 t:1.861000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:45 pblack:94 pts:1903 t:1.903000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:46 pblack:94 pts:1944 t:1.944000 type:P last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:47 pblack:94 pts:1986 t:1.986000 type:B last_keyframe:27
+[Parsed_blackframe_0 @ 0x719b38002640] frame:48 pblack:94 pts:2028 t:2.028000 type:B last_keyframe:27
+[out#0/null @ 0x64ffe1a95380] video:20KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   47 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=2.97x    

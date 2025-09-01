@@ -1,0 +1,95 @@
+(N) 2025-08-23T20:44:42 - qBittorrent v5.1.2 started. Process ID: 152
+(N) 2025-08-23T20:44:42 - Using config directory: /config/qBittorrent
+(N) 2025-08-23T20:44:42 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-08-23T20:44:42 - Peer ID: "-qB5120-"
+(I) 2025-08-23T20:44:42 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-08-23T20:44:42 - Distributed Hash Table (DHT) support: ON
+(I) 2025-08-23T20:44:42 - Local Peer Discovery support: ON
+(I) 2025-08-23T20:44:42 - Peer Exchange (PeX) support: ON
+(I) 2025-08-23T20:44:42 - Anonymous mode: OFF
+(I) 2025-08-23T20:44:42 - Encryption support: ON
+(I) 2025-08-23T20:44:42 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-08-23T20:44:42 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-08-23T20:44:42 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/6881"
+(I) 2025-08-23T20:44:42 - Successfully listening on IP. IP: "172.19.0.2". Port: "UTP/6881"
+(I) 2025-08-23T20:44:42 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-08-23T20:44:42 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(W) 2025-08-23T20:44:42 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2025-08-23T20:44:42 - Using built-in WebUI.
+(W) 2025-08-23T20:44:42 - Couldn't load WebUI translation for selected locale (C).
+(N) 2025-08-23T20:44:42 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-08-23T20:44:42 - Detected external IP. IP: "177.6.155.244"
+(I) 2025-08-23T20:44:43 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jul 31 22:25:11 2025.
+(I) 2025-08-23T20:44:44 - Successfully updated IP geolocation database.
+(N) 2025-08-23T20:45:20 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2025-08-23T20:46:33 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-08-23T20:46:33 - WebUI: Now listening on IP: *, port: 8097
+(N) 2025-08-23T20:46:52 - qBittorrent termination initiated
+(N) 2025-08-23T20:46:52 - Saving resume data completed.
+(N) 2025-08-23T20:46:52 - BitTorrent session successfully finished.
+(N) 2025-08-23T20:46:52 - qBittorrent is now ready to exit
+(N) 2025-08-23T20:47:33 - qBittorrent v5.1.2 started. Process ID: 150
+(N) 2025-08-23T20:47:33 - Using config directory: /config/qBittorrent
+(N) 2025-08-23T20:47:33 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-08-23T20:47:33 - Peer ID: "-qB5120-"
+(I) 2025-08-23T20:47:33 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-08-23T20:47:33 - Distributed Hash Table (DHT) support: ON
+(I) 2025-08-23T20:47:33 - Local Peer Discovery support: ON
+(I) 2025-08-23T20:47:33 - Peer Exchange (PeX) support: ON
+(I) 2025-08-23T20:47:33 - Anonymous mode: OFF
+(I) 2025-08-23T20:47:33 - Encryption support: ON
+(I) 2025-08-23T20:47:33 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-08-23T20:47:33 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-08-23T20:47:33 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/6881"
+(I) 2025-08-23T20:47:33 - Successfully listening on IP. IP: "172.19.0.2". Port: "UTP/6881"
+(I) 2025-08-23T20:47:33 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-08-23T20:47:33 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2025-08-23T20:47:33 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jul 31 22:25:11 2025.
+(N) 2025-08-23T20:47:33 - Using built-in WebUI.
+(N) 2025-08-23T20:47:33 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-08-23T20:47:33 - WebUI: Now listening on IP: *, port: 8097
+(I) 2025-08-23T20:47:33 - Detected external IP. IP: "177.6.155.244"
+(N) 2025-08-23T20:48:19 - qBittorrent termination initiated
+(N) 2025-08-23T20:48:19 - Saving resume data completed.
+(N) 2025-08-23T20:48:19 - BitTorrent session successfully finished.
+(N) 2025-08-23T20:48:19 - qBittorrent is now ready to exit
+(N) 2025-08-23T20:48:27 - qBittorrent v5.1.2 started. Process ID: 149
+(N) 2025-08-23T20:48:27 - Using config directory: /config/qBittorrent
+(N) 2025-08-23T20:48:27 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-08-23T20:48:27 - Peer ID: "-qB5120-"
+(I) 2025-08-23T20:48:27 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-08-23T20:48:27 - Distributed Hash Table (DHT) support: ON
+(I) 2025-08-23T20:48:27 - Local Peer Discovery support: ON
+(I) 2025-08-23T20:48:27 - Peer Exchange (PeX) support: ON
+(I) 2025-08-23T20:48:27 - Anonymous mode: OFF
+(I) 2025-08-23T20:48:27 - Encryption support: ON
+(I) 2025-08-23T20:48:27 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-08-23T20:48:27 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-08-23T20:48:27 - Successfully listening on IP. IP: "172.19.0.2". Port: "TCP/6881"
+(I) 2025-08-23T20:48:27 - Successfully listening on IP. IP: "172.19.0.2". Port: "UTP/6881"
+(I) 2025-08-23T20:48:27 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-08-23T20:48:27 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2025-08-23T20:48:27 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Jul 31 22:25:11 2025.
+(N) 2025-08-23T20:48:27 - Using built-in WebUI.
+(N) 2025-08-23T20:48:27 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-08-23T20:48:27 - WebUI: Now listening on IP: *, port: 8097
+(I) 2025-08-23T20:48:27 - Detected external IP. IP: "177.6.155.244"
+(N) 2025-08-23T20:48:37 - WebAPI login success. IP: ::ffff:172.19.0.1
+(N) 2025-08-23T20:49:35 - A tradução da interface web para o idioma selecionado (pt_BR) foi carregada com sucesso.
+(N) 2025-08-23T20:52:45 - Novo torrent adicionado. Torrent: "7149e50986debb04e7533cd112240d095771f6c4"
+(N) 2025-08-23T20:54:21 - Enfileirada a movimentação do torrent. Torrent: "Um Filme Minecraft 2025 WEB-DL 1080p x264 DUAL 5.1". Fonte: "/downloads/incomplete". Destino: "/downloads"
+(N) 2025-08-23T20:54:21 - Iniciando a movimentação do torrent. Torrent: "Um Filme Minecraft 2025 WEB-DL 1080p x264 DUAL 5.1". Destino: "/downloads"
+(N) 2025-08-23T20:54:21 - Torrent movido com sucesso. Torrent: "Um Filme Minecraft 2025 WEB-DL 1080p x264 DUAL 5.1". Destino: "/downloads"
+(N) 2025-08-23T20:54:21 - Download do torrent concluído. Torrent: "Um Filme Minecraft 2025 WEB-DL 1080p x264 DUAL 5.1"
+(N) 2025-08-23T20:54:45 - Torrent removido. Torrent: "Um Filme Minecraft 2025 WEB-DL 1080p x264 DUAL 5.1"
+(N) 2025-08-23T20:54:45 - Conteúdo do torrent removido. Torrent: "Um Filme Minecraft 2025 WEB-DL 1080p x264 DUAL 5.1"
+(N) 2025-08-23T20:54:56 - Novo torrent adicionado. Torrent: "7149e50986debb04e7533cd112240d095771f6c4"
+(N) 2025-08-23T20:55:03 - Torrent removido. Torrent: "Um Filme Minecraft 2025 WEB-DL 1080p x264 DUAL 5.1"
+(N) 2025-08-23T20:55:03 - Conteúdo do torrent removido. Torrent: "Um Filme Minecraft 2025 WEB-DL 1080p x264 DUAL 5.1"
+(N) 2025-08-23T20:56:08 - Novo torrent adicionado. Torrent: "7149e50986debb04e7533cd112240d095771f6c4"
+(N) 2025-08-23T20:57:43 - Enfileirada a movimentação do torrent. Torrent: "Um Filme Minecraft 2025 WEB-DL 1080p x264 DUAL 5.1". Fonte: "/downloads/incomplete/filme". Destino: "/downloads/filme"
+(N) 2025-08-23T20:57:43 - Iniciando a movimentação do torrent. Torrent: "Um Filme Minecraft 2025 WEB-DL 1080p x264 DUAL 5.1". Destino: "/downloads/filme"
+(N) 2025-08-23T20:57:43 - Torrent movido com sucesso. Torrent: "Um Filme Minecraft 2025 WEB-DL 1080p x264 DUAL 5.1". Destino: "/downloads/filme"
+(N) 2025-08-23T20:57:43 - Download do torrent concluído. Torrent: "Um Filme Minecraft 2025 WEB-DL 1080p x264 DUAL 5.1"
+(N) 2025-08-23T20:57:57 - Torrent removido. Torrent: "Um Filme Minecraft 2025 WEB-DL 1080p x264 DUAL 5.1"
+(N) 2025-08-23T20:57:57 - Conteúdo do torrent removido. Torrent: "Um Filme Minecraft 2025 WEB-DL 1080p x264 DUAL 5.1"

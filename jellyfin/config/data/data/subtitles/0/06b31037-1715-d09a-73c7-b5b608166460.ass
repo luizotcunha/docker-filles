@@ -1,0 +1,180 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 960
+Timer: 100.0
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,sans-serif,63,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,0
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:06.17,0:02:10.09,Default,,0,0,0,,Invasão
+Dialogue: 0,0:10:45.90,0:10:48.57,Default,,0,0,0,,Tem mais disso na estrada.
+Dialogue: 0,0:10:50.41,0:10:52.20,Default,,0,0,0,,O redutor de ruídos não funciona.
+Dialogue: 0,0:10:52.28,0:10:53.62,Default,,0,0,0,,Nada está funcionando.
+Dialogue: 0,0:10:53.70,0:10:54.99,Default,,0,0,0,,Não consigo fazer nada.
+Dialogue: 0,0:10:56.66,0:10:57.70,Default,,0,0,0,,Mais rápido.
+Dialogue: 0,0:10:58.91,0:11:02.46,Default,,0,0,0,,Ei. Vamos ser presos em flagrante.
+Dialogue: 0,0:11:03.13,0:11:04.26,Default,,0,0,0,,Você se dá conta disso?
+Dialogue: 0,0:11:06.00,0:11:07.00,Default,,0,0,0,,Não temos autorização
+Dialogue: 0,0:11:07.09,0:11:10.64,Default,,0,0,0,,e transportamos equipamentos roubados.\NE agora nós…
+Dialogue: 0,0:11:11.13,0:11:12.13,Default,,0,0,0,,Mitsuki.
+Dialogue: 0,0:11:12.72,0:11:15.01,Default,,0,0,0,,Mitsuki.
+Dialogue: 0,0:11:17.77,0:11:20.69,Default,,0,0,0,,Acha que alguma coisa\Nque disser vai me impedir?
+Dialogue: 0,0:11:21.31,0:11:22.65,Default,,0,0,0,,Baseado na minha experiência?
+Dialogue: 0,0:11:23.48,0:11:26.19,Default,,0,0,0,,- Não.\N- Então, não perca o seu tempo.
+Dialogue: 0,0:11:26.28,0:11:28.28,Default,,0,0,0,,Se não gostou, pode sair daqui.
+Dialogue: 0,0:11:33.53,0:11:34.53,Default,,0,0,0,,Mitsuki.
+Dialogue: 0,0:11:36.24,0:11:38.45,Default,,0,0,0,,Não importa o que o Hashimoto-{\i1}san {\i0}disse,
+Dialogue: 0,0:11:38.54,0:11:40.29,Default,,0,0,0,,não tem nada nessa gravação.
+Dialogue: 0,0:11:40.37,0:11:41.83,Default,,0,0,0,,É apenas ruído.
+Dialogue: 0,0:11:42.42,0:11:44.01,Default,,0,0,0,,Mas o {\i1}Hoshi-12{\i0} se foi.
+Dialogue: 0,0:11:44.63,0:11:47.76,Default,,0,0,0,,Vamos ser presos por nada.
+Dialogue: 0,0:11:47.84,0:11:50.05,Default,,0,0,0,,A tripulação toda morreu.
+Dialogue: 0,0:11:52.68,0:11:54.35,Default,,0,0,0,,Eu sinto muito.
+Dialogue: 0,0:11:54.43,0:11:56.56,Default,,0,0,0,,- Mas…\N- Eles não morreram.
+Dialogue: 0,0:11:58.14,0:11:59.56,Default,,0,0,0,,Eu sei disso.
+Dialogue: 0,0:12:00.43,0:12:01.93,Default,,0,0,0,,E mesmo que você não ouça,
+Dialogue: 0,0:12:02.02,0:12:04.23,Default,,0,0,0,,eu ouço.
+Dialogue: 0,0:12:04.31,0:12:06.27,Default,,0,0,0,,Chegamos.
+Dialogue: 0,0:12:18.58,0:12:19.96,Default,,0,0,0,,{\i1}Pois não?{\i0}
+Dialogue: 0,0:12:20.04,0:12:21.08,Default,,0,0,0,,Somos da JASA.
+Dialogue: 0,0:12:22.25,0:12:23.75,Default,,0,0,0,,{\i1}Têm o documento de identidade?{\i0}
+Dialogue: 0,0:12:25.00,0:12:29.05,Default,,0,0,0,,Mitsuki Yamato, Especialista de Projetos,\NSistemas de Vigilância Espacial.
+Dialogue: 0,0:12:29.13,0:12:32.01,Default,,0,0,0,,Eu vim para assumir o comando operacional.
+Dialogue: 0,0:12:32.09,0:12:33.59,Default,,0,0,0,,Abra o portão imediatamente.
+Dialogue: 0,0:12:36.76,0:12:39.97,Default,,0,0,0,,"Especialista de Projetos"?\N"Sistemas de Vigilância"?
+Dialogue: 0,0:12:40.93,0:12:42.06,Default,,0,0,0,,Há 20 minutos,
+Dialogue: 0,0:12:42.14,0:12:45.81,Default,,0,0,0,,o diretor Hashimoto\Ne o diretor-geral Korai enviaram um e-mail
+Dialogue: 0,0:12:45.90,0:12:49.40,Default,,0,0,0,,informando que todo o comando\Ndeveria ser passado para Mitsuki Yamato.
+Dialogue: 0,0:12:49.48,0:12:52.82,Default,,0,0,0,,Sessenta segundos depois, a unidade perdeu\Ntotalmente a comunicação com a sede.
+Dialogue: 0,0:12:52.90,0:12:54.11,Default,,0,0,0,,O que você fez?
+Dialogue: 0,0:12:54.20,0:12:55.95,Default,,0,0,0,,Nada em especial.
+Dialogue: 0,0:12:59.83,0:13:00.87,Default,,0,0,0,,Não.
+Dialogue: 0,0:13:00.95,0:13:02.54,Default,,0,0,0,,Vamos ser presos.
+Dialogue: 0,0:13:04.71,0:13:05.71,Default,,0,0,0,,Mitsuki.
+Dialogue: 0,0:13:05.79,0:13:07.67,Default,,0,0,0,,O que você pretende fazer?
+Dialogue: 0,0:13:08.88,0:13:10.26,Default,,0,0,0,,Fazer contato.
+Dialogue: 0,0:18:32.78,0:18:35.62,Default,,0,0,0,,Yamato-{\i1}san! {\i0}Seja bem-vinda, é um prazer.
+Dialogue: 0,0:18:35.70,0:18:37.41,Default,,0,0,0,,Meu nome é Yoshi Fujimoto.
+Dialogue: 0,0:18:40.58,0:18:43.71,Default,,0,0,0,,Estamos compartilhando dados\Ncom o Ministério da Defesa e com os EUA.
+Dialogue: 0,0:18:44.55,0:18:48.14,Default,,0,0,0,,Os dados são consistentes,\Nmas são basicamente ruídos.
+Dialogue: 0,0:18:48.76,0:18:51.80,Default,,0,0,0,,Mas o Comando Global pediu
+Dialogue: 0,0:18:51.89,0:18:54.02,Default,,0,0,0,,que os telescópios\Nvirassem na mesma direção.
+Dialogue: 0,0:18:54.10,0:18:56.10,Default,,0,0,0,,Não conseguimos\Ninformações muito detalhadas.
+Dialogue: 0,0:18:56.18,0:18:57.85,Default,,0,0,0,,O Comando Global não tem a ver com isso.
+Dialogue: 0,0:18:58.48,0:19:00.07,Default,,0,0,0,,Eu sou o Comando.
+Dialogue: 0,0:19:01.02,0:19:02.40,Default,,0,0,0,,Técnico Kawaguchi.
+Dialogue: 0,0:19:04.78,0:19:06.41,Default,,0,0,0,,Mostre a ele.
+Dialogue: 0,0:19:08.32,0:19:10.86,Default,,0,0,0,,Sim, Supervisora de Projetos.
+Dialogue: 0,0:19:30.51,0:19:32.35,Default,,0,0,0,,O que é isso?
+Dialogue: 0,0:19:35.72,0:19:40.27,Default,,0,0,0,,Conecte isso ao seu sistema local,\Nsem restrições.
+Dialogue: 0,0:19:42.31,0:19:47.98,Default,,0,0,0,,Achei que eu a amava mais\Ndo que qualquer um.
+Dialogue: 0,0:19:50.78,0:19:51.78,Default,,0,0,0,,Fujimoto-{\i1}san,{\i0}
+Dialogue: 0,0:19:51.86,0:19:55.53,Default,,0,0,0,,esse áudio foi gravado\Nimediatamente após a colisão.
+Dialogue: 0,0:19:55.62,0:19:58.62,Default,,0,0,0,,É um sinal de contato.
+Dialogue: 0,0:19:58.70,0:20:02.04,Default,,0,0,0,,O som do evento foi analisado\Ne convertido em um espectro.
+Dialogue: 0,0:20:02.12,0:20:06.71,Default,,0,0,0,,Use aquela parabólica\Npara encontrar este sinal.
+Dialogue: 0,0:20:07.30,0:20:10.89,Default,,0,0,0,,É um radiotelescópio.\NSó encontra corpos astrais e estrelas.
+Dialogue: 0,0:20:10.97,0:20:13.93,Default,,0,0,0,,Também encontra\Nradiação eletromagnética. Padrões.
+Dialogue: 0,0:20:14.01,0:20:15.39,Default,,0,0,0,,Isso é um padrão.
+Dialogue: 0,0:20:15.47,0:20:17.22,Default,,0,0,0,,É uma mensagem.
+Dialogue: 0,0:20:17.31,0:20:20.27,Default,,0,0,0,,Vamos encontrar\No que transmitiu isso, seja lá o que for.
+Dialogue: 0,0:20:20.35,0:20:21.98,Default,,0,0,0,,Enviaremos uma mensagem de volta.
+Dialogue: 0,0:20:24.52,0:20:27.32,Default,,0,0,0,,Uma mensagem de volta para quem?
+Dialogue: 0,0:20:28.44,0:20:29.44,Default,,0,0,0,,Para eles.
+Dialogue: 0,0:20:32.91,0:20:34.04,Default,,0,0,0,,Eles?
+Dialogue: 0,0:28:57.78,0:28:59.91,Default,,0,0,0,,{\i1}Tem muitas frequências aqui.{\i0}
+Dialogue: 0,0:29:00.50,0:29:02.09,Default,,0,0,0,,São padrões.
+Dialogue: 0,0:29:03.21,0:29:04.96,Default,,0,0,0,,Mas o do {\i1}Hoshi{\i0} é diferente.
+Dialogue: 0,0:29:05.54,0:29:06.75,Default,,0,0,0,,Ainda está procurando?
+Dialogue: 0,0:29:08.17,0:29:09.25,Default,,0,0,0,,Por aquele padrão?
+Dialogue: 0,0:29:09.84,0:29:11.38,Default,,0,0,0,,Sim, mas…
+Dialogue: 0,0:29:11.47,0:29:14.18,Default,,0,0,0,,Mas não vamos encontrar.
+Dialogue: 0,0:29:14.80,0:29:16.89,Default,,0,0,0,,Estamos procurando na órbita baixa,
+Dialogue: 0,0:29:16.97,0:29:19.89,Default,,0,0,0,,e esse telescópio não foi feito pra isso.
+Dialogue: 0,0:29:20.52,0:29:21.90,Default,,0,0,0,,É só ruído.
+Dialogue: 0,0:29:23.02,0:29:24.65,Default,,0,0,0,,Interferência de outros satélites.
+Dialogue: 0,0:29:24.73,0:29:27.23,Default,,0,0,0,,Mas os satélites foram destruídos.
+Dialogue: 0,0:29:28.19,0:29:30.48,Default,,0,0,0,,Deve ser outra coisa.
+Dialogue: 0,0:29:30.57,0:29:32.20,Default,,0,0,0,,Alguma coisa grande.
+Dialogue: 0,0:29:33.40,0:29:35.07,Default,,0,0,0,,Como a Estrela da Morte.
+Dialogue: 0,0:29:35.70,0:29:38.12,Default,,0,0,0,,A Estrela da Morte tem 98% de metal.
+Dialogue: 0,0:29:38.95,0:29:41.04,Default,,0,0,0,,Mas isso aqui é energia.
+Dialogue: 0,0:29:41.12,0:29:42.54,Default,,0,0,0,,Muita energia.
+Dialogue: 0,0:29:42.62,0:29:45.83,Default,,0,0,0,,As frequências\Nestão agrupadas, se modulando.
+Dialogue: 0,0:29:46.42,0:29:48.01,Default,,0,0,0,,É algum tipo de mensagem.
+Dialogue: 0,0:29:48.09,0:29:49.42,Default,,0,0,0,,Deixe-me escutar.
+Dialogue: 0,0:29:49.92,0:29:51.88,Default,,0,0,0,,São ondas de rádio.
+Dialogue: 0,0:29:51.96,0:29:55.59,Default,,0,0,0,,Mesmo que convertidas em ondas sonoras,\Nsó fazem barulhos e ruídos.
+Dialogue: 0,0:29:56.39,0:29:59.10,Default,,0,0,0,,- Viu? Estão espalhadas por toda a banda.\N- Deixe-me escutar.
+Dialogue: 0,0:30:02.98,0:30:04.15,Default,,0,0,0,,Agora.
+Dialogue: 0,0:30:23.91,0:30:27.41,Default,,0,0,0,,Esse é o som de interferência do rádio.
+Dialogue: 0,0:30:27.50,0:30:29.46,Default,,0,0,0,,É só ruído.
+Dialogue: 0,0:30:29.54,0:30:31.58,Default,,0,0,0,,Eu consigo ouvir o padrão.
+Dialogue: 0,0:30:31.67,0:30:33.01,Default,,0,0,0,,É como música.
+Dialogue: 0,0:30:33.59,0:30:36.89,Default,,0,0,0,,É como se inúmeros rádios\Nsintonizassem ao mesmo tempo.
+Dialogue: 0,0:30:37.68,0:30:39.27,Default,,0,0,0,,Inúmeras vozes.
+Dialogue: 0,0:30:41.31,0:30:43.52,Default,,0,0,0,,Seres individuais
+Dialogue: 0,0:30:45.14,0:30:47.77,Default,,0,0,0,,ressoando como um só.
+Dialogue: 0,0:30:47.85,0:30:49.10,Default,,0,0,0,,E se…
+Dialogue: 0,0:30:50.73,0:30:53.61,Default,,0,0,0,,não for a transmissão de uma mensagem?
+Dialogue: 0,0:30:55.86,0:30:58.15,Default,,0,0,0,,E se for uma rede?
+Dialogue: 0,0:30:58.24,0:31:02.04,Default,,0,0,0,,E estivermos nos conectando a ela?\NQuebramos o firewall.
+Dialogue: 0,0:31:02.12,0:31:04.29,Default,,0,0,0,,Uma rede hierárquica\Ndistribuída paralelamente.
+Dialogue: 0,0:31:04.37,0:31:07.87,Default,,0,0,0,,Como um supercomputador\Ncontrolando todos os nós da rede.
+Dialogue: 0,0:31:09.83,0:31:13.17,Default,,0,0,0,,Como uma mente coletiva?
+Dialogue: 0,0:31:13.25,0:31:14.79,Default,,0,0,0,,Ou seja,
+Dialogue: 0,0:31:15.34,0:31:21.01,Default,,0,0,0,,estamos procurando\Numa única voz dentro desse grupo?
+Dialogue: 0,0:31:21.85,0:31:22.98,Default,,0,0,0,,Exatamente.
+Dialogue: 0,0:31:24.18,0:31:28.31,Default,,0,0,0,,Use o filtro de sinal para excluir todos\Nos padrões que o sistema não identificar.
+Dialogue: 0,0:31:28.39,0:31:31.27,Default,,0,0,0,,Reduza também o padrão do ruído de fundo.
+Dialogue: 0,0:31:31.36,0:31:33.86,Default,,0,0,0,,Encontre a voz\Nque ouvimos na transmissão do {\i1}Hoshi.{\i0}
+Dialogue: 0,0:31:35.11,0:31:37.70,Default,,0,0,0,,Isso ainda vai demorar.
+Dialogue: 0,0:31:39.15,0:31:41.78,Default,,0,0,0,,Todos vamos virar a noite.
+Dialogue: 0,0:31:41.87,0:31:43.91,Default,,0,0,0,,ABRIGO
+Dialogue: 0,0:32:01.89,0:32:03.31,Default,,0,0,0,,REFUGIADOS
+Dialogue: 0,0:32:06.72,0:32:08.31,Default,,0,0,0,,FACULDADE DE NORTHVIEW
+Dialogue: 0,0:39:56.32,0:39:58.16,Default,,0,0,0,,AEROPORTO DE CABUL
+Dialogue: 0,0:43:58.73,0:44:00.57,Default,,0,0,0,,Café.
+Dialogue: 0,0:44:00.65,0:44:06.11,Default,,0,0,0,,Esse padrão pode ter terminado\Nhá horas ou dias atrás.
+Dialogue: 0,0:44:06.65,0:44:10.82,Default,,0,0,0,,Podemos estar procurando\Numa coisa que não existe mais.
+Dialogue: 0,0:44:10.91,0:44:14.12,Default,,0,0,0,,Não, tem que estar aqui.
+Dialogue: 0,0:44:14.74,0:44:16.83,Default,,0,0,0,,Ele desapareceu.
+Dialogue: 0,0:44:16.91,0:44:18.29,Default,,0,0,0,,Não, não desapareceu.
+Dialogue: 0,0:44:22.58,0:44:25.29,Default,,0,0,0,,Ele reconheceu mais\Nde 89 milhões de padrões.
+Dialogue: 0,0:44:25.38,0:44:27.34,Default,,0,0,0,,Nenhum deles é o do {\i1}Hoshi.{\i0}
+Dialogue: 0,0:44:27.92,0:44:28.92,Default,,0,0,0,,O que é isso?
+Dialogue: 0,0:44:30.01,0:44:31.35,Default,,0,0,0,,Os resultados dos agrupamentos.
+Dialogue: 0,0:44:31.43,0:44:32.77,Default,,0,0,0,,Não! Esse.
+Dialogue: 0,0:44:32.85,0:44:34.18,Default,,0,0,0,,Está sozinho.
+Dialogue: 0,0:44:36.93,0:44:38.89,Default,,0,0,0,,É uma anomalia.
+Dialogue: 0,0:44:38.98,0:44:40.82,Default,,0,0,0,,Talvez um pássaro\Ntenha entrado no equipamento.
+Dialogue: 0,0:44:40.89,0:44:42.93,Default,,0,0,0,,Ou talvez seja um\Ndos satélites destruídos.
+Dialogue: 0,0:44:43.61,0:44:44.90,Default,,0,0,0,,Isole esse padrão.
+Dialogue: 0,0:44:44.98,0:44:46.36,Default,,0,0,0,,Abra ele.
+Dialogue: 0,0:44:57.79,0:44:58.79,Default,,0,0,0,,Aqui está.
+Dialogue: 0,0:44:59.54,0:45:01.25,Default,,0,0,0,,Mas esse não é o seu padrão.
+Dialogue: 0,0:45:01.33,0:45:02.79,Default,,0,0,0,,- Ponha pra tocar.\N- Por quê?
+Dialogue: 0,0:45:02.88,0:45:04.01,Default,,0,0,0,,É só…
+Dialogue: 0,0:45:04.84,0:45:06.47,Default,,0,0,0,,Esse é o…
+Dialogue: 0,0:45:07.25,0:45:08.50,Default,,0,0,0,,{\i1}Hoshi-12.{\i0}
+Dialogue: 0,0:45:09.30,0:45:11.64,Default,,0,0,0,,É a chamada de emergência da nave.
+Dialogue: 0,0:45:11.72,0:45:13.97,Default,,0,0,0,,Vire a antena!
+Dialogue: 0,0:45:32.24,0:45:33.33,Default,,0,0,0,,{\i1}Hoshi-12.{\i0}
+Dialogue: 0,0:45:34.57,0:45:35.53,Default,,0,0,0,,Fixe nele.
+Dialogue: 0,0:45:48.09,0:45:49.80,Default,,0,0,0,,Fixando.
+Dialogue: 0,0:45:50.30,0:45:51.30,Default,,0,0,0,,Encontre-o.
+Dialogue: 0,0:45:51.38,0:45:52.42,Default,,0,0,0,,Quase lá.
+Dialogue: 0,0:45:53.76,0:45:55.43,Default,,0,0,0,,Hinata, eu estou a caminho.
+Dialogue: 0,0:46:01.39,0:46:03.02,Default,,0,0,0,,Afastem-se das suas estações!
+Dialogue: 0,0:46:03.10,0:46:05.14,Default,,0,0,0,,Parem tudo!
+Dialogue: 0,0:46:07.90,0:46:09.32,Default,,0,0,0,,PERMISSÕES DA ANTENA - APAGAR
+Dialogue: 0,0:46:09.40,0:46:10.82,Default,,0,0,0,,Achei você!
+Dialogue: 0,0:46:14.95,0:46:16.33,Default,,0,0,0,,USUÁRIO - SENHA
+Dialogue: 0,0:46:16.41,0:46:18.41,Default,,0,0,0,,Me solta!
+Dialogue: 0,0:46:19.49,0:46:21.45,Default,,0,0,0,,Hinata?
+Dialogue: 0,0:46:21.54,0:46:24.29,Default,,0,0,0,,Hinata! Me solta!

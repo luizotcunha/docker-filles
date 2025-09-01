@@ -1,0 +1,171 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 960
+Timer: 100.0
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,sans-serif,63,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,0
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:44.32,0:01:45.74,Default,,0,0,0,,ACESSO SOMENTE\NAO PESSOAL AUTORIZADO
+Dialogue: 0,0:03:25.13,0:03:29.05,Default,,0,0,0,,Invasão
+Dialogue: 0,0:06:21.51,0:06:23.72,Default,,0,0,0,,Estão mentindo para você.
+Dialogue: 0,0:06:24.72,0:06:28.06,Default,,0,0,0,,Eu não sei o que eles disseram.
+Dialogue: 0,0:06:28.14,0:06:29.89,Default,,0,0,0,,Mas, se você não me soltar,
+Dialogue: 0,0:06:29.98,0:06:32.65,Default,,0,0,0,,o mundo será destruído.
+Dialogue: 0,0:06:32.73,0:06:35.27,Default,,0,0,0,,Todos com quem você se importa vão morrer.
+Dialogue: 0,0:06:36.86,0:06:37.95,Default,,0,0,0,,Está me ouvindo?
+Dialogue: 0,0:06:42.91,0:06:43.91,Default,,0,0,0,,Qual é o seu nome?
+Dialogue: 0,0:06:48.25,0:06:49.46,Default,,0,0,0,,Que covarde.
+Dialogue: 0,0:07:43.72,0:07:45.85,Default,,0,0,0,,Olha, é só me soltar.
+Dialogue: 0,0:07:45.93,0:07:47.10,Default,,0,0,0,,Qual é o seu problema?
+Dialogue: 0,0:07:47.68,0:07:49.56,Default,,0,0,0,,Licença. Pode nos dar um minuto?
+Dialogue: 0,0:07:50.10,0:07:51.19,Default,,0,0,0,,Sim, senhor.
+Dialogue: 0,0:07:55.98,0:07:57.23,Default,,0,0,0,,Hashimoto-{\i1}san?{\i0}
+Dialogue: 0,0:07:57.32,0:07:59.11,Default,,0,0,0,,Eu não tive escolha.
+Dialogue: 0,0:07:59.19,0:08:02.07,Default,,0,0,0,,Precisamos de acesso\Nao sistema de comunicações do {\i1}Hoshi-12{\i0}.
+Dialogue: 0,0:08:02.15,0:08:04.57,Default,,0,0,0,,Estava prestes a estabelecer contato.\NPor que impediu?
+Dialogue: 0,0:08:04.66,0:08:06.04,Default,,0,0,0,,Temos coordenadas fixas.
+Dialogue: 0,0:08:06.12,0:08:08.87,Default,,0,0,0,,Elas estão bloqueadas.\NPrecisamos ter acesso.
+Dialogue: 0,0:08:08.95,0:08:10.58,Default,,0,0,0,,"Coordenadas fixas"?
+Dialogue: 0,0:08:11.33,0:08:12.96,Default,,0,0,0,,Está em uma órbita geossíncrona.
+Dialogue: 0,0:08:16.34,0:08:19.18,Default,,0,0,0,,A nave foi capturada.
+Dialogue: 0,0:08:20.80,0:08:22.26,Default,,0,0,0,,Por eles.
+Dialogue: 0,0:08:25.80,0:08:28.09,Default,,0,0,0,,É o único contato.
+Dialogue: 0,0:08:28.81,0:08:32.27,Default,,0,0,0,,O {\i1}Hoshi-12{\i0} é o único canal de comunicação.
+Dialogue: 0,0:08:32.35,0:08:34.69,Default,,0,0,0,,O que restou dele.
+Dialogue: 0,0:08:34.77,0:08:36.94,Default,,0,0,0,,Eu não vou dar acesso a eles.
+Dialogue: 0,0:08:37.52,0:08:39.02,Default,,0,0,0,,Murai-{\i1}san {\i0}se foi.
+Dialogue: 0,0:08:40.40,0:08:43.15,Default,,0,0,0,,Por favor. Não faça mais isso.
+Dialogue: 0,0:08:43.24,0:08:45.16,Default,,0,0,0,,A missão do {\i1}Hoshi {\i0}terminou.
+Dialogue: 0,0:08:45.95,0:08:48.87,Default,,0,0,0,,- Estamos em um patamar diferente agora.\N- Talvez você esteja.
+Dialogue: 0,0:08:48.95,0:08:51.37,Default,,0,0,0,,Isso é maior do que nós.
+Dialogue: 0,0:08:52.70,0:08:55.37,Default,,0,0,0,,Não há mais ninguém para salvar.
+Dialogue: 0,0:08:55.96,0:09:00.17,Default,,0,0,0,,Diga a eles que eu sou a única chance\Nde fazerem contato.
+Dialogue: 0,0:09:00.25,0:09:02.00,Default,,0,0,0,,Eles sabem disso.
+Dialogue: 0,0:09:02.09,0:09:06.51,Default,,0,0,0,,E eu só vou ajudar\Nse eu for a pessoa que fizer o contato.
+Dialogue: 0,0:09:08.72,0:09:10.76,Default,,0,0,0,,Você não está em condição de negociar.
+Dialogue: 0,0:09:10.85,0:09:12.39,Default,,0,0,0,,E nem eles.
+Dialogue: 0,0:09:14.23,0:09:15.52,Default,,0,0,0,,Diga isso a eles.
+Dialogue: 0,0:09:24.86,0:09:26.95,Default,,0,0,0,,Ela vai dirigir a equipe de comunicações.
+Dialogue: 0,0:09:28.74,0:09:29.95,Default,,0,0,0,,Se não gostarem,
+Dialogue: 0,0:09:30.03,0:09:34.58,Default,,0,0,0,,levaremos seis horas para quebrar os\Nprotocolos de bloqueio que ela instalou.
+Dialogue: 0,0:09:44.38,0:09:45.97,Default,,0,0,0,,"Protocolos de bloqueio"?
+Dialogue: 0,0:09:46.55,0:09:49.47,Default,,0,0,0,,Como você falou. Só você pode fazer isso.
+Dialogue: 0,0:14:19.91,0:14:22.50,Default,,0,0,0,,TELEFONE
+Dialogue: 0,0:26:27.55,0:26:28.55,Default,,0,0,0,,Fujimoto-{\i1}san.{\i0}
+Dialogue: 0,0:26:29.47,0:26:31.01,Default,,0,0,0,,Eu vou transmitir do terminal.
+Dialogue: 0,0:26:46.70,0:26:47.87,Default,,0,0,0,,Estou enviando um comando
+Dialogue: 0,0:26:47.95,0:26:50.33,Default,,0,0,0,,para abrir\No canal de comunicações da nave.
+Dialogue: 0,0:26:50.41,0:26:53.96,Default,,0,0,0,,Ou eles devem continuar bloqueados?
+Dialogue: 0,0:27:00.54,0:27:04.09,Default,,0,0,0,,Talvez sejamos capazes de nos comunicar\Nmelhor com alienígenas do que com humanos.
+Dialogue: 0,0:27:06.38,0:27:08.47,Default,,0,0,0,,As comunicações da nave estão abertas.
+Dialogue: 0,0:27:13.31,0:27:15.52,Default,,0,0,0,,Podemos falar com eles agora.
+Dialogue: 0,0:27:16.10,0:27:18.23,Default,,0,0,0,,SUBSISTEMAS DO HOSHI ATIVADOS\NCOMUNICAÇÕES ABERTAS
+Dialogue: 0,0:33:10.37,0:33:12.16,Default,,0,0,0,,Eles só sabem brigar.
+Dialogue: 0,0:33:20.01,0:33:22.35,Default,,0,0,0,,Eu também poderia ajudar,\Nse soubesse como.
+Dialogue: 0,0:33:23.22,0:33:27.72,Default,,0,0,0,,Estou treinando redes neurais paralelas\Ncom entrada ao vivo
+Dialogue: 0,0:33:27.80,0:33:30.76,Default,,0,0,0,,para aproximar o formato de dados de sinal
+Dialogue: 0,0:33:30.85,0:33:34.90,Default,,0,0,0,,e recodificar qualquer\Nformato de dados de volta.
+Dialogue: 0,0:33:37.11,0:33:38.24,Default,,0,0,0,,Ah.
+Dialogue: 0,0:33:38.82,0:33:40.57,Default,,0,0,0,,Tradução automática?
+Dialogue: 0,0:33:41.07,0:33:43.78,Default,,0,0,0,,Eles já enviaram dicionários inteiros.
+Dialogue: 0,0:33:43.86,0:33:46.53,Default,,0,0,0,,Mas não houve mudança de sinal.
+Dialogue: 0,0:33:46.62,0:33:48.46,Default,,0,0,0,,Já enviamos muita coisa,
+Dialogue: 0,0:33:48.53,0:33:51.53,Default,,0,0,0,,mas ainda não tivemos resposta\Ndos sequestradores da nave.
+Dialogue: 0,0:33:52.25,0:33:54.75,Default,,0,0,0,,Ou da tripulação.
+Dialogue: 0,0:34:05.34,0:34:11.72,Default,,0,0,0,,Você contou ao Hashimoto-{\i1}san{\i0}\Nantes de me contar.
+Dialogue: 0,0:34:11.81,0:34:15.02,Default,,0,0,0,,Sobre você e ela.
+Dialogue: 0,0:34:19.23,0:34:21.40,Default,,0,0,0,,O quê? Eu deveria ter contado pra você?
+Dialogue: 0,0:34:22.78,0:34:24.66,Default,,0,0,0,,Eu não sei.
+Dialogue: 0,0:34:25.61,0:34:27.53,Default,,0,0,0,,Eu não pertenço a você.
+Dialogue: 0,0:34:28.66,0:34:30.50,Default,,0,0,0,,Eu não pertenço a ninguém.
+Dialogue: 0,0:34:30.58,0:34:32.83,Default,,0,0,0,,Nem a você,
+Dialogue: 0,0:34:32.91,0:34:34.00,Default,,0,0,0,,nem a minha mãe,
+Dialogue: 0,0:34:34.08,0:34:35.67,Default,,0,0,0,,nem ao meu pai
+Dialogue: 0,0:34:36.91,0:34:38.71,Default,,0,0,0,,e nem à JASA.
+Dialogue: 0,0:34:45.55,0:34:47.43,Default,,0,0,0,,Eu só pertenço a ela.
+Dialogue: 0,0:35:03.11,0:35:05.11,Default,,0,0,0,,Todos nós temos alguém.
+Dialogue: 0,0:35:05.19,0:35:07.98,Default,,0,0,0,,Alguém que é mais importante\Ndo que qualquer pessoa.
+Dialogue: 0,0:35:10.12,0:35:13.71,Default,,0,0,0,,Eu tenho você.
+Dialogue: 0,0:35:23.00,0:35:25.46,Default,,0,0,0,,Caramba, eu não entendo nada.
+Dialogue: 0,0:35:26.76,0:35:29.35,Default,,0,0,0,,É porque é a minha língua.
+Dialogue: 0,0:35:30.43,0:35:32.89,Default,,0,0,0,,Talvez eles entendam.
+Dialogue: 0,0:41:29.12,0:41:31.96,Default,,0,0,0,,Não importa quantas vezes você faça.
+Dialogue: 0,0:41:32.54,0:41:34.58,Default,,0,0,0,,Los Angeles está sem comunicação.
+Dialogue: 0,0:41:36.54,0:41:38.00,Default,,0,0,0,,Quantas vezes?
+Dialogue: 0,0:41:38.09,0:41:39.18,Default,,0,0,0,,Yamato-{\i1}san.{\i0}
+Dialogue: 0,0:41:39.92,0:41:43.88,Default,,0,0,0,,O seu trabalho\Né só manter os sinais abertos.
+Dialogue: 0,0:41:44.89,0:41:46.85,Default,,0,0,0,,E isso já foi feito.
+Dialogue: 0,0:41:47.43,0:41:49.85,Default,,0,0,0,,Deixe que os linguistas façam o resto.
+Dialogue: 0,0:41:49.93,0:41:54.31,Default,,0,0,0,,Eles não vão conseguir entender\Na linguagem deles.
+Dialogue: 0,0:41:55.10,0:41:56.81,Default,,0,0,0,,Pra começar, não é nem uma linguagem.
+Dialogue: 0,0:41:57.81,0:41:59.90,Default,,0,0,0,,É diferente da nossa.
+Dialogue: 0,0:42:01.69,0:42:04.90,Default,,0,0,0,,Não importa o quanto eles tentem,\Nnão vão conseguir descobrir.
+Dialogue: 0,0:42:06.82,0:42:09.53,Default,,0,0,0,,Achei que a rede neural\Nfosse conseguir decodificar,
+Dialogue: 0,0:42:10.79,0:42:12.17,Default,,0,0,0,,mas os padrões mudam.
+Dialogue: 0,0:42:13.16,0:42:14.79,Default,,0,0,0,,É muito complexo.
+Dialogue: 0,0:42:16.88,0:42:18.84,Default,,0,0,0,,É muito inteligente.
+Dialogue: 0,0:42:18.92,0:42:21.55,Default,,0,0,0,,Mais inteligente do que nós.
+Dialogue: 0,0:42:22.71,0:42:26.01,Default,,0,0,0,,Mais inteligente do que eu.
+Dialogue: 0,0:42:29.01,0:42:32.18,Default,,0,0,0,,Então, o que estamos fazendo?
+Dialogue: 0,0:42:33.85,0:42:35.43,Default,,0,0,0,,Transmitindo.
+Dialogue: 0,0:42:36.02,0:42:37.15,Default,,0,0,0,,Transmitindo?
+Dialogue: 0,0:42:37.77,0:42:38.77,Default,,0,0,0,,Arquivos.
+Dialogue: 0,0:42:38.86,0:42:40.78,Default,,0,0,0,,Quais arquivos?
+Dialogue: 0,0:42:40.86,0:42:42.32,Default,,0,0,0,,Quais arquivos, Yamato-{\i1}san{\i0}?
+Dialogue: 0,0:42:46.53,0:42:48.03,Default,,0,0,0,,Ei, o que deu em você?
+Dialogue: 0,0:42:57.04,0:43:01.55,Default,,0,0,0,,{\i1}Eu sonhei que você e eu\Nestávamos em uma banda.{\i0}
+Dialogue: 0,0:43:02.80,0:43:05.09,Default,,0,0,0,,{\i1}Mas a gente nunca fazia um show.{\i0}
+Dialogue: 0,0:43:05.76,0:43:08.26,Default,,0,0,0,,{\i1}Tínhamos um microfone, mas…{\i0}
+Dialogue: 0,0:43:08.34,0:43:09.47,Default,,0,0,0,,O que é isso?
+Dialogue: 0,0:43:10.26,0:43:11.76,Default,,0,0,0,,A Hinata.
+Dialogue: 0,0:43:13.72,0:43:16.68,Default,,0,0,0,,{\i1}Nós éramos a banda mais famosa do mundo.{\i0}
+Dialogue: 0,0:43:21.02,0:43:22.52,Default,,0,0,0,,{\i1}O sol saiu.{\i0}
+Dialogue: 0,0:43:24.44,0:43:26.44,Default,,0,0,0,,{\i1}A sensação é ótima.{\i0}
+Dialogue: 0,0:43:27.49,0:43:28.91,Default,,0,0,0,,{\i1}Acorda logo.{\i0}
+Dialogue: 0,0:43:29.99,0:43:31.66,Default,,0,0,0,,{\i1}Mitsuki!{\i0}
+Dialogue: 0,0:43:33.29,0:43:34.33,Default,,0,0,0,,{\i1}Olhe as crianças.{\i0}
+Dialogue: 0,0:43:38.29,0:43:40.04,Default,,0,0,0,,Tem milhares.
+Dialogue: 0,0:43:40.13,0:43:42.67,Default,,0,0,0,,Vídeos. Fotos. Tem de tudo aqui.
+Dialogue: 0,0:43:43.46,0:43:44.79,Default,,0,0,0,,Todos são da Murai-{\i1}san{\i0}.
+Dialogue: 0,0:43:45.59,0:43:47.18,Default,,0,0,0,,O que você fez?
+Dialogue: 0,0:43:47.80,0:43:52.22,Default,,0,0,0,,Eu converti para o formato deles.
+Dialogue: 0,0:43:55.27,0:43:59.19,Default,,0,0,0,,Para eles poderem nos ver.
+Dialogue: 0,0:43:59.27,0:44:00.77,Default,,0,0,0,,O quê?
+Dialogue: 0,0:44:01.52,0:44:04.77,Default,,0,0,0,,Eu enviei em todas as frequências.
+Dialogue: 0,0:44:06.40,0:44:08.82,Default,,0,0,0,,Eu lotei o canal.
+Dialogue: 0,0:44:11.57,0:44:12.86,Default,,0,0,0,,{\i1}Olha para essas flores…{\i0}
+Dialogue: 0,0:44:12.95,0:44:13.99,Default,,0,0,0,,STATUS - ACESSO CONCEDIDO
+Dialogue: 0,0:44:14.08,0:44:15.58,Default,,0,0,0,,{\i1}…com cores tão bonitas.{\i0}
+Dialogue: 0,0:44:15.99,0:44:21.54,Default,,0,0,0,,{\i1}Tem crianças ali. O pai delas\Nestá ensinando como andar de bicicleta.{\i0}
+Dialogue: 0,0:44:21.63,0:44:24.09,Default,,0,0,0,,Tudo bem, Mitsuki.
+Dialogue: 0,0:44:25.05,0:44:27.05,Default,,0,0,0,,Tudo bem.
+Dialogue: 0,0:44:29.17,0:44:31.21,Default,,0,0,0,,Pare a transmissão.
+Dialogue: 0,0:44:32.72,0:44:34.68,Default,,0,0,0,,TRANSMISSÃO
+Dialogue: 0,0:44:36.18,0:44:38.22,Default,,0,0,0,,Já foi enviada.
+Dialogue: 0,0:44:41.48,0:44:43.57,Default,,0,0,0,,Todos nós vamos morrer?
+Dialogue: 0,0:44:44.15,0:44:46.28,Default,,0,0,0,,Por causa dessa transmissão?
+Dialogue: 0,0:44:46.86,0:44:50.91,Default,,0,0,0,,Não. Porque ninguém conseguiu\Nentender essa linguagem.
+Dialogue: 0,0:44:53.82,0:44:54.82,Default,,0,0,0,,É só ruído.
+Dialogue: 0,0:44:55.91,0:44:59.71,Default,,0,0,0,,Mesmo assim, tínhamos que tentar.
+Dialogue: 0,0:45:01.75,0:45:03.59,Default,,0,0,0,,{\i1}Amanheceu.{\i0}
+Dialogue: 0,0:45:04.54,0:45:07.25,Default,,0,0,0,,{\i1}Isso é um banco de parque.{\i0}
+Dialogue: 0,0:45:07.34,0:45:09.51,Default,,0,0,0,,{\i1}Olha, todos estão caminhando.{\i0}
+Dialogue: 0,0:45:10.59,0:45:12.47,Default,,0,0,0,,{\i1}As crianças são fofas.{\i0}
+Dialogue: 0,0:45:12.55,0:45:14.64,Default,,0,0,0,,{\i1}E isso é uma árvore. Olha.{\i0}
+Dialogue: 0,0:45:15.14,0:45:17.14,Default,,0,0,0,,{\i1}Parece que está prestes a florescer.{\i0}
+Dialogue: 0,0:45:18.02,0:45:20.11,Default,,0,0,0,,{\i1}E aqui está a grama.{\i0}
+Dialogue: 0,0:45:22.52,0:45:26.44,Default,,0,0,0,,{\i1}Esses são os meus pés.\NO direito e o esquerdo!{\i0}
+Dialogue: 0,0:45:27.07,0:45:29.53,Default,,0,0,0,,{\i1}Não é ótimo andar?{\i0}
+Dialogue: 0,0:45:30.19,0:45:34.28,Default,,0,0,0,,{\i1}Enquanto estamos falando, olha,{\i0}
+Dialogue: 0,0:45:34.36,0:45:38.62,Default,,0,0,0,,{\i1}o sol está lá em cima.\NÉ uma sensação ótima. Ele está brilhando.{\i0}
+Dialogue: 0,0:45:38.70,0:45:40.54,Default,,0,0,0,,{\i1}Olha. Esse aqui.{\i0}
+Dialogue: 0,0:45:43.96,0:45:46.59,Default,,0,0,0,,{\i1}Depressa! Acorda!{\i0}
+Dialogue: 0,0:45:46.67,0:45:49.67,Default,,0,0,0,,{\i1}Eu vou ficar chateada.{\i0}
+Dialogue: 0,0:45:51.01,0:45:52.55,Default,,0,0,0,,{\i1}Eu estou chegando.{\i0}
+Dialogue: 0,0:46:29.84,0:46:30.84,Default,,0,0,0,,Hinata?

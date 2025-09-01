@@ -1,0 +1,67 @@
+[2025-09-01 00:00:00.039 -03:00] [INF] [139] IntroSkipper.ScheduledTasks.DetectSegmentsTask: Scheduled Task is starting
+[2025-09-01 00:00:00.044 -03:00] [INF] [43] Jellyfin.Plugin.PlaybackReporting.TaskCleanDb: Playback Reporting Data Trim
+[2025-09-01 00:00:00.046 -03:00] [INF] [43] Jellyfin.Plugin.PlaybackReporting.TaskCleanDb: MaxDataAge : 3
+[2025-09-01 00:00:00.050 -03:00] [INF] [43] Jellyfin.Plugin.PlaybackReporting.Data.ActivityRepository: DeleteOldData : "delete from PlaybackActivity where DateCreated < '2025-06-01 00:00:00.0466034'"
+[2025-09-01 00:00:00.080 -03:00] [INF] [43] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Playback Reporting Trim Db" Completed after 0 minute(s) and 0 seconds
+[2025-09-01 00:00:03.006 -03:00] [INF] [47] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Playback Reporting Trim Db" set to fire at 2025-09-02 00:00:00.000 -03:00, which is 23:59:56.9950548 from now.
+[2025-09-01 00:00:03.023 -03:00] [INF] [18] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Detect and Analyze Media Segments" set to fire at 2025-09-02 00:00:00.000 -03:00, which is 23:59:56.9763046 from now.
+[2025-09-01 00:00:03.056 -03:00] [INF] [139] IntroSkipper.Manager.QueueManager: Running enqueue of items in library "Séries"
+[2025-09-01 00:00:03.114 -03:00] [INF] [139] IntroSkipper.Manager.QueueManager: Running enqueue of items in library "Filmes"
+[2025-09-01 00:00:03.273 -03:00] [INF] [139] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Detect and Analyze Media Segments" Completed after 0 minute(s) and 3 seconds
+[2025-09-01 00:01:46.128 -03:00] [INF] [65] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 00:05:34.128 -03:00] [INF] [167] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 00:09:22.128 -03:00] [INF] [175] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 00:13:46.128 -03:00] [INF] [81] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 00:17:34.128 -03:00] [INF] [117] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 00:21:22.128 -03:00] [INF] [147] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 00:25:46.128 -03:00] [INF] [128] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 00:29:34.128 -03:00] [INF] [102] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 00:33:22.128 -03:00] [INF] [148] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 00:37:46.128 -03:00] [INF] [101] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 00:41:34.128 -03:00] [INF] [49] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 00:45:22.128 -03:00] [INF] [25] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 00:49:46.128 -03:00] [INF] [23] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 00:53:34.129 -03:00] [INF] [165] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 00:57:22.128 -03:00] [INF] [42] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 01:01:46.128 -03:00] [INF] [141] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 01:05:34.128 -03:00] [INF] [119] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 01:09:22.127 -03:00] [INF] [153] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 01:13:46.128 -03:00] [INF] [60] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 01:17:34.127 -03:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 01:21:22.127 -03:00] [INF] [144] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 01:25:46.129 -03:00] [INF] [120] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 01:29:34.128 -03:00] [INF] [38] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 01:33:22.128 -03:00] [INF] [105] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 01:37:46.129 -03:00] [INF] [65] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 01:41:34.128 -03:00] [INF] [168] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 01:45:22.129 -03:00] [INF] [77] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 01:49:46.128 -03:00] [INF] [11] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 01:53:34.129 -03:00] [INF] [70] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 01:57:22.128 -03:00] [INF] [98] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 02:00:00.136 -03:00] [INF] [116] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Extrair imagens dos capítulos" Completed after 0 minute(s) and 0 seconds
+[2025-09-01 02:00:02.627 -03:00] [INF] [116] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Extrair imagens dos capítulos" set to fire at 2025-09-02 02:00:00.000 -03:00, which is 23:59:57.3734517 from now.
+[2025-09-01 02:01:46.128 -03:00] [INF] [128] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 02:05:34.128 -03:00] [INF] [160] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 02:09:22.128 -03:00] [INF] [121] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 02:13:46.128 -03:00] [INF] [81] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 02:17:34.127 -03:00] [INF] [74] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 02:19:34.129 -03:00] [INF] [167] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2025-09-01 02:19:46.128 -03:00] [INF] [120] Emby.Server.Implementations.Session.SessionWebSocketListener: Lost 1 WebSockets.
+[2025-09-01 02:36:11.004 -03:00] [WRN] [8] Emby.Server.Implementations.HttpServer.WebSocketConnection: WS "192.168.1.7" error receiving data: "The remote party closed the WebSocket connection without completing the close handshake."
+[2025-09-01 02:36:11.022 -03:00] [INF] [8] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.1.7" closed
+[2025-09-01 03:00:00.681 -03:00] [INF] [170] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Gerar imagens Trickplay" Completed after 0 minute(s) and 0 seconds
+[2025-09-01 03:00:01.006 -03:00] [INF] [170] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Gerar imagens Trickplay" set to fire at 2025-09-02 03:00:00.000 -03:00, which is 23:59:58.9936897 from now.
+[2025-09-01 10:53:03.682 -03:00] [INF] [38] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/data/filme"
+[2025-09-01 10:53:03.697 -03:00] [INF] [38] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/data/serie"
+[2025-09-01 10:53:03.702 -03:00] [INF] [38] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2025-09-01 10:53:03.879 -03:00] [WRN] [38] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2025-09-01 10:53:03.945 -03:00] [WRN] [38] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2025-09-01 10:53:04.165 -03:00] [INF] [17] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Varredura do segmento de mídia" Completed after 0 minute(s) and 0 seconds
+[2025-09-01 10:53:09.847 -03:00] [INF] [38] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Escanear a Biblioteca de Mídia" Completed after 0 minute(s) and 6 seconds
+[2025-09-01 10:53:10.198 -03:00] [INF] [111] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/filme"
+[2025-09-01 10:53:11.027 -03:00] [INF] [120] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/serie"
+[2025-09-01 10:54:09.851 -03:00] [INF] [38] IntroSkipper.Services.Entrypoint: Initiating automatic analysis task
+[2025-09-01 10:54:10.010 -03:00] [INF] [38] IntroSkipper.Manager.QueueManager: Running enqueue of items in library "Séries"
+[2025-09-01 10:54:10.014 -03:00] [INF] [38] IntroSkipper.Manager.QueueManager: Running enqueue of items in library "Filmes"
+[2025-09-01 12:10:46.734 -03:00] [INF] [176] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.1.10" request
+[2025-09-01 12:14:32.231 -03:00] [INF] [73] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "192.168.1.10" closed

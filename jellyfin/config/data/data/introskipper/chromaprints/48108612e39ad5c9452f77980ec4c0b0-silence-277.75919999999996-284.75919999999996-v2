@@ -1,0 +1,78 @@
+Input #0, matroska,webm, from '/data/serie/The Walking Dead - Dead City S01 2023 WEB-DL 1080p x264 DUAL 5.1/The Walking Dead - Dead City S01E02 WEB-DL 1080p x264 DUAL 5.1.mkv':
+  Metadata:
+    title           : S01E02 - BLUDV.TO
+    encoder         : libebml v1.4.2 + libmatroska v1.6.4
+    creation_time   : 2024-03-07T21:50:10.000000Z
+  Duration: 00:38:48.13, start: 0.000000, bitrate: 7798 kb/s
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default) (original)
+      Metadata:
+        title           : Inglês
+        BPS             : 6516651
+        DURATION        : 00:38:48.118000000
+        NUMBER_OF_FRAMES: 55819
+        NUMBER_OF_BYTES : 1896441597
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:50:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(por): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        title           : PT-BR 5.1
+        BPS             : 640000
+        DURATION        : 00:38:48.128000000
+        NUMBER_OF_FRAMES: 72754
+        NUMBER_OF_BYTES : 186250240
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:50:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (original)
+      Metadata:
+        title           : Inglês 5.1
+        BPS             : 640000
+        DURATION        : 00:38:48.128000000
+        NUMBER_OF_FRAMES: 72754
+        NUMBER_OF_BYTES : 186250240
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:50:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : PT-BR FULL
+        BPS             : 28
+        DURATION        : 00:37:25.660000000
+        NUMBER_OF_FRAMES: 256
+        NUMBER_OF_BYTES : 7929
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:50:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(por): Subtitle: subrip (srt) (default) (forced)
+      Metadata:
+        title           : PT-BR FORCED
+        BPS             : 1
+        DURATION        : 00:04:36.067000000
+        NUMBER_OF_FRAMES: 2
+        NUMBER_OF_BYTES : 36
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:50:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:1 -> #0:0 (eac3 (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : S01E02 - BLUDV.TO
+    encoder         : Lavf61.7.100
+  Stream #0:0(por): Audio: pcm_s16le, 48000 Hz, 5.1(side), s16, 4608 kb/s (default)
+      Metadata:
+        title           : PT-BR 5.1
+        BPS             : 640000
+        DURATION        : 00:38:48.128000000
+        NUMBER_OF_FRAMES: 72754
+        NUMBER_OF_BYTES : 186250240
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:50:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 pcm_s16le
+size=N/A time=00:00:02.52 bitrate=N/A speed=1.69x    size=N/A time=00:00:03.29 bitrate=N/A speed=1.65x    [silencedetect @ 0x783d50002780] silence_start: 5.202146
+[silencedetect @ 0x783d50002780] silence_end: 7.041 | silence_duration: 1.838854
+[out#0/null @ 0x55ca498c3400] video:0KiB audio:3938KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:07.00 bitrate=N/A speed=3.25x    

@@ -1,1 +1,1 @@
-{"StartTimeUtc":"2025-08-23T23:32:40.8987291Z","EndTimeUtc":"2025-08-23T23:32:52.6358781Z","Status":"Completed","Name":"Escanear a Biblioteca de M\u00EDdia","Key":"RefreshLibrary","Id":"7738148ffcd07979c7ceb148e06b3aed"}
+{"StartTimeUtc":"2025-09-01T13:53:03.6656294Z","EndTimeUtc":"2025-09-01T13:53:09.8470305Z","Status":"Completed","Name":"Escanear a Biblioteca de M\u00EDdia","Key":"RefreshLibrary","Id":"7738148ffcd07979c7ceb148e06b3aed"}

@@ -1,0 +1,88 @@
+Input #0, matroska,webm, from '/data/serie/The Walking Dead - Dead City S01 2023 WEB-DL 1080p x264 DUAL 5.1/The Walking Dead - Dead City S01E02 WEB-DL 1080p x264 DUAL 5.1.mkv':
+  Metadata:
+    title           : S01E02 - BLUDV.TO
+    encoder         : libebml v1.4.2 + libmatroska v1.6.4
+    creation_time   : 2024-03-07T21:50:10.000000Z
+  Duration: 00:38:48.13, start: 0.000000, bitrate: 7798 kb/s
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default) (original)
+      Metadata:
+        title           : Inglês
+        BPS             : 6516651
+        DURATION        : 00:38:48.118000000
+        NUMBER_OF_FRAMES: 55819
+        NUMBER_OF_BYTES : 1896441597
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:50:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(por): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        title           : PT-BR 5.1
+        BPS             : 640000
+        DURATION        : 00:38:48.128000000
+        NUMBER_OF_FRAMES: 72754
+        NUMBER_OF_BYTES : 186250240
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:50:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Audio: eac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (original)
+      Metadata:
+        title           : Inglês 5.1
+        BPS             : 640000
+        DURATION        : 00:38:48.128000000
+        NUMBER_OF_FRAMES: 72754
+        NUMBER_OF_BYTES : 186250240
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:50:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(por): Subtitle: subrip (srt)
+      Metadata:
+        title           : PT-BR FULL
+        BPS             : 28
+        DURATION        : 00:37:25.660000000
+        NUMBER_OF_FRAMES: 256
+        NUMBER_OF_BYTES : 7929
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:50:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(por): Subtitle: subrip (srt) (default) (forced)
+      Metadata:
+        title           : PT-BR FORCED
+        BPS             : 1
+        DURATION        : 00:04:36.067000000
+        NUMBER_OF_FRAMES: 2
+        NUMBER_OF_BYTES : 36
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:50:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x718374002480] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x718374002480] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x718374002480] n:   0 pts:    519 pts_time:0.519   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:D7082EE5 plane_checksum:[1335009A 1CF3C727 3ED26715] mean:[65 119 143] stdev:[29.3 8.8 13.8]
+[Parsed_showinfo_0 @ 0x718374002480] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : S01E02 - BLUDV.TO
+    encoder         : Lavf61.7.100
+  Stream #0:0(eng): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default) (original)
+      Metadata:
+        title           : Inglês
+        BPS             : 6516651
+        DURATION        : 00:38:48.118000000
+        NUMBER_OF_FRAMES: 55819
+        NUMBER_OF_BYTES : 1896441597
+        _STATISTICS_WRITING_APP: mkvmerge v61.0.0 ('So') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2024-03-07 21:50:10
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x718374002480] n:   1 pts:   2521 pts_time:2.521   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:9E32BD8C plane_checksum:[D4A9F80F 37022BCA D62E99A4] mean:[76 113 147] stdev:[34.7 16.7 15.4]
+[Parsed_showinfo_0 @ 0x718374002480] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+frame=    2 fps=0.0 q=-0.0 size=N/A time=00:00:02.54 bitrate=N/A speed=5.09x    frame=    2 fps=2.0 q=-0.0 size=N/A time=00:00:02.54 bitrate=N/A speed=2.54x    [Parsed_showinfo_0 @ 0x718374002480] n:   2 pts:   4523 pts_time:4.523   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:AE4D83D6 plane_checksum:[A8401A5E E7DF34BC E7DF34BC] mean:[16 128 128] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x718374002480] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x718374002480] n:   3 pts:   6525 pts_time:6.525   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:AE4D83D6 plane_checksum:[A8401A5E E7DF34BC E7DF34BC] mean:[16 128 128] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x718374002480] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+frame=    4 fps=2.7 q=-0.0 size=N/A time=00:00:06.54 bitrate=N/A speed=4.36x    [Parsed_showinfo_0 @ 0x718374002480] n:   4 pts:   8527 pts_time:8.527   duration:     41 duration_time:0.041   fmt:yuv420p cl:left sar:1/1 s:1920x960 i:P iskey:1 type:I checksum:66D00F6B plane_checksum:[BC1FB829 18D4689E 2E48EE86] mean:[97 124 128] stdev:[53.8 4.5 5.0]
+[Parsed_showinfo_0 @ 0x718374002480] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x5a622bd038c0] video:2KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    4 fps=2.2 q=-0.0 Lsize=N/A time=00:00:06.54 bitrate=N/A speed=3.67x    

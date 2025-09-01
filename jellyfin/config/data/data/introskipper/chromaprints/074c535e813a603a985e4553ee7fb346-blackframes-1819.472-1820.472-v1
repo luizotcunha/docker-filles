@@ -1,0 +1,63 @@
+Input #0, matroska,webm, from '/data/serie/Invasion.S01e06.1080p.WEB-DL.DUAL/Invasion.S01e06.1080p.WEB-DL.DUAL.mkv':
+  Metadata:
+    title           : Invasion.S01E06.Home.Invasion.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-SiGLA
+    creation_time   : 2021-11-12T03:07:32.000000Z
+    ENCODER         : Lavf58.29.100
+  Duration: 00:33:05.47, start: 0.000000, bitrate: 3731 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:33:05.447000000
+  Stream #0:1(por): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s (default)
+      Metadata:
+        title           : Brazilian
+        DURATION        : 00:33:05.472000000
+  Stream #0:2(eng): Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s
+      Metadata:
+        title           : English
+        DURATION        : 00:33:05.472000000
+  Stream #0:3(por): Subtitle: ass (ssa)
+      Metadata:
+        title           : Brazilian (Forced)
+        DURATION        : 00:00:00.000000000
+  Stream #0:4(por): Subtitle: ass (ssa)
+      Metadata:
+        title           : Brazilian
+        DURATION        : 00:32:59.359000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:0 pblack:97 pts:17 t:0.017000 type:B last_keyframe:0
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : Invasion.S01E06.Home.Invasion.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-SiGLA
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x960 [SAR 1:1 DAR 2:1], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        DURATION        : 00:33:05.447000000
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:1 pblack:97 pts:59 t:0.059000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:2 pblack:96 pts:101 t:0.101000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:3 pblack:96 pts:142 t:0.142000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:4 pblack:96 pts:184 t:0.184000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:5 pblack:96 pts:226 t:0.226000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:6 pblack:96 pts:268 t:0.268000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:7 pblack:96 pts:309 t:0.309000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:8 pblack:96 pts:351 t:0.351000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:9 pblack:96 pts:393 t:0.393000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:10 pblack:94 pts:434 t:0.434000 type:I last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:11 pblack:93 pts:476 t:0.476000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:12 pblack:93 pts:518 t:0.518000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:13 pblack:93 pts:560 t:0.560000 type:B last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:14 pblack:94 pts:601 t:0.601000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:15 pblack:95 pts:643 t:0.643000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:16 pblack:95 pts:685 t:0.685000 type:I last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:17 pblack:95 pts:726 t:0.726000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:18 pblack:95 pts:768 t:0.768000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:19 pblack:94 pts:810 t:0.810000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:20 pblack:94 pts:852 t:0.852000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:21 pblack:93 pts:893 t:0.893000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:22 pblack:92 pts:935 t:0.935000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:23 pblack:92 pts:977 t:0.977000 type:P last_keyframe:0
+[Parsed_blackframe_0 @ 0x7ae614002640] frame:24 pblack:92 pts:1018 t:1.018000 type:P last_keyframe:0
+[out#0/null @ 0x55577f190200] video:10KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   24 fps=0.0 q=-0.0 Lsize=N/A time=00:00:01.00 bitrate=N/A speed=4.93x    

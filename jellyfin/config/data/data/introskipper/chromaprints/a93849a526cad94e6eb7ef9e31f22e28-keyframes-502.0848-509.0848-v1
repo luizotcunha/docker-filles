@@ -1,0 +1,52 @@
+Input #0, matroska,webm, from '/data/serie/Invasion.S02E02.1080p.WEB-DL.DUAL.5.1/Invasion.S02E02.1080p.WEB-DL.DUAL.5.1.mkv':
+  Metadata:
+    title           : 2x02 - COMANDO.LA
+    creation_time   : 2023-08-30T01:45:18.000000Z
+    ENCODER         : Lavf59.27.100
+  Duration: 00:52:30.30, start: 0.000000, bitrate: 3739 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        DURATION        : 00:52:30.272000000
+  Stream #0:1(por): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 768 kb/s (default)
+      Metadata:
+        title           : PT-BR 5.1
+        DURATION        : 00:52:30.304000000
+  Stream #0:2(eng): Audio: eac3 (Dolby Digital Plus + Dolby Atmos), 48000 Hz, 5.1(side), fltp, 768 kb/s
+      Metadata:
+        title           : INGLÊS 5.1
+        DURATION        : 00:52:30.304000000
+  Stream #0:3(por): Subtitle: ass (ssa) (default) (forced)
+      Metadata:
+        title           : FORÇADA PT-BR
+        DURATION        : 00:50:02.628000000
+  Stream #0:4(por): Subtitle: ass (ssa)
+      Metadata:
+        title           : COMPLETA PT-BR
+        DURATION        : 00:52:17.179000000
+  Stream #0:5(por): Subtitle: ass (ssa)
+      Metadata:
+        DURATION        : 00:52:17.179000000
+  Stream #0:6(por): Subtitle: ass (ssa)
+      Metadata:
+        DURATION        : 00:52:17.179000000
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+[Parsed_showinfo_0 @ 0x72c130002480] config in time_base: 1/1000, frame_rate: 24000/1001
+[Parsed_showinfo_0 @ 0x72c130002480] config out time_base: 0/0, frame_rate: 0/0
+[Parsed_showinfo_0 @ 0x72c130002480] n:   0 pts:   4755 pts_time:4.755   duration:     41 duration_time:0.041   fmt:yuv420p cl:topleft sar:1/1 s:1920x800 i:P iskey:1 type:I checksum:A4106DE3 plane_checksum:[F62C15FF 9D932BF2 9D932BF2] mean:[16 128 128] stdev:[0.0 0.0 0.0]
+[Parsed_showinfo_0 @ 0x72c130002480] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+Output #0, null, to 'pipe:':
+  Metadata:
+    title           : 2x02 - COMANDO.LA
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1920x800 [SAR 1:1 DAR 12:5], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        DURATION        : 00:52:30.272000000
+        encoder         : Lavc61.19.101 wrapped_avframe
+[Parsed_showinfo_0 @ 0x72c130002480] n:   1 pts:   7591 pts_time:7.591   duration:     41 duration_time:0.041   fmt:yuv420p cl:topleft sar:1/1 s:1920x800 i:P iskey:1 type:I checksum:9570C585 plane_checksum:[73479C6D C4E79C39 F4808CD0] mean:[77 126 126] stdev:[48.6 1.9 2.9]
+[Parsed_showinfo_0 @ 0x72c130002480] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[Parsed_showinfo_0 @ 0x72c130002480] n:   2 pts:  17601 pts_time:17.601  duration:     41 duration_time:0.041   fmt:yuv420p cl:topleft sar:1/1 s:1920x800 i:P iskey:1 type:I checksum:F2B705CF plane_checksum:[4BB29852 D695439F 669929CF] mean:[61 126 126] stdev:[36.5 1.6 2.3]
+[Parsed_showinfo_0 @ 0x72c130002480] color_range:tv color_space:bt709 color_primaries:bt709 color_trc:bt709
+[out#0/null @ 0x6038dc782ec0] video:0KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:04.79 bitrate=N/A speed=60.5x    

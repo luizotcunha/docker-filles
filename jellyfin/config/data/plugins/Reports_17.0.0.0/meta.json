@@ -1,0 +1,16 @@
+{
+  "category": "General",
+  "changelog": "- put that thing in the correct place (#85) @crobibero\n\n### Bug Fixes ###\n- add reference to SixLabors.Fonts.dll (#84) @crobibero",
+  "description": "Generate Reports",
+  "guid": "d4312cd9-5c90-4f38-82e8-51da566790e8",
+  "name": "Reports",
+  "overview": "Generate reports of your media library",
+  "owner": "jellyfin",
+  "targetAbi": "10.9.0.0",
+  "timestamp": "2024-05-11T20:36:28.0000000Z",
+  "version": "17.0.0.0",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "/config/data/plugins/Reports_17.0.0.0/jellyfin-plugin-reports.png",
+  "assemblies": []
+}

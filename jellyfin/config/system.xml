@@ -151,6 +151,11 @@
       <Url>https://intro-skipper.org/manifest.json</Url>
       <Enabled>true</Enabled>
     </RepositoryInfo>
+    <RepositoryInfo>
+      <Name>https://raw.githubusercontent.com/shemanaev/jellyfin-plugin-repo/master/manifest.json</Name>
+      <Url>https://raw.githubusercontent.com/shemanaev/jellyfin-plugin-repo/master/manifest.json</Url>
+      <Enabled>true</Enabled>
+    </RepositoryInfo>
   </PluginRepositories>
   <EnableExternalContentInSuggestions>true</EnableExternalContentInSuggestions>
   <ImageExtractionTimeoutMs>0</ImageExtractionTimeoutMs>

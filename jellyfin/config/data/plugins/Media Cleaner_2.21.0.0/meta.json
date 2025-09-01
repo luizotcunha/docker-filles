@@ -1,0 +1,16 @@
+{
+  "category": "General",
+  "changelog": "Add tag exclusion system (luigidotmoe)\n",
+  "description": "Keep your storage clean without hassle. Works with movies and series.\n",
+  "guid": "607fee77-97eb-41fe-bf22-26844d99ffb0",
+  "name": "Media Cleaner",
+  "overview": "Delete played media after specified time",
+  "owner": "shemanaev",
+  "targetAbi": "10.9.0.0",
+  "timestamp": "2025-06-01T12:13:58.0000000Z",
+  "version": "2.21.0.0",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "/config/data/plugins/Media Cleaner_2.21.0.0/media-cleaner.png",
+  "assemblies": []
+}

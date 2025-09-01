@@ -1,0 +1,77 @@
+Input #0, matroska,webm, from '/data/serie/CSI.Las.Vegas.S01.DUB.AZTORRENTS.ORG/CSILV.01x19.by-DB.mkv':
+  Metadata:
+    encoder         : libebml v1.3.0 + libmatroska v1.4.1
+    creation_time   : 2014-11-14T04:55:24.000000Z
+  Duration: 00:45:23.78, start: 0.000000, bitrate: 2194 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn (default)
+      Metadata:
+        BPS             : 2000816
+        BPS-eng         : 2000816
+        DURATION        : 00:45:23.766000000
+        DURATION-eng    : 00:45:23.766000000
+        NUMBER_OF_FRAMES: 65304
+        NUMBER_OF_FRAMES-eng: 65304
+        NUMBER_OF_BYTES : 681219463
+        NUMBER_OF_BYTES-eng: 681219463
+        _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_DATE_UTC: 2014-11-14 04:55:24
+        _STATISTICS_WRITING_DATE_UTC-eng: 2014-11-14 04:55:24
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(por): Audio: ac3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+      Metadata:
+        title           : CSI
+        BPS             : 192000
+        BPS-eng         : 192000
+        DURATION        : 00:45:23.776000000
+        DURATION-eng    : 00:45:23.776000000
+        NUMBER_OF_FRAMES: 85118
+        NUMBER_OF_FRAMES-eng: 85118
+        NUMBER_OF_BYTES : 65370624
+        NUMBER_OF_BYTES-eng: 65370624
+        _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_DATE_UTC: 2014-11-14 04:55:24
+        _STATISTICS_WRITING_DATE_UTC-eng: 2014-11-14 04:55:24
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 23.98 fps, 23.98 tbn (default)
+      Metadata:
+        BPS             : 2000816
+        BPS-eng         : 2000816
+        DURATION        : 00:45:23.766000000
+        DURATION-eng    : 00:45:23.766000000
+        NUMBER_OF_FRAMES: 65304
+        NUMBER_OF_FRAMES-eng: 65304
+        NUMBER_OF_BYTES : 681219463
+        NUMBER_OF_BYTES-eng: 681219463
+        _STATISTICS_WRITING_APP: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_APP-eng: mkvmerge v7.1.0 ('Good Love') 32bit built on Jul 27 2014 12:59:18
+        _STATISTICS_WRITING_DATE_UTC: 2014-11-14 04:55:24
+        _STATISTICS_WRITING_DATE_UTC-eng: 2014-11-14 04:55:24
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+        encoder         : Lavc61.19.101 wrapped_avframe
+[null @ 0x57248c1d36c0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 1 >= 1
+[null @ 0x57248c1d36c0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 5 >= 5
+[null @ 0x57248c1d36c0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 8 >= 8
+[null @ 0x57248c1d36c0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 12 >= 12
+[null @ 0x57248c1d36c0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 15 >= 15
+[null @ 0x57248c1d36c0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 18 >= 18
+[null @ 0x57248c1d36c0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 22 >= 22
+[null @ 0x57248c1d36c0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 25 >= 25
+[null @ 0x57248c1d36c0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 29 >= 29
+[null @ 0x57248c1d36c0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 32 >= 32
+[null @ 0x57248c1d36c0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 36 >= 36
+[null @ 0x57248c1d36c0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 39 >= 39
+[null @ 0x57248c1d36c0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 42 >= 42
+[null @ 0x57248c1d36c0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 46 >= 46
+[out#0/null @ 0x57248c1d35c0] video:21KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   48 fps=0.0 q=-0.0 Lsize=N/A time=00:00:02.00 bitrate=N/A speed=2.45x    
