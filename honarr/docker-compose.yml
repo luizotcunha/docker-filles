@@ -9,4 +9,4 @@ services:
     environment:
       - SECRET_ENCRYPTION_KEY=minhaS
     ports:
-      - '80:7575'
+      - '7575:7575'
