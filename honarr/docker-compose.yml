@@ -7,6 +7,6 @@ services:
       - /var/run/docker.sock:/var/run/docker.sock # Optional, only if you want docker integration
       - ./appdata:/appdata
     environment:
-      - SECRET_ENCRYPTION_KEY=minhaS
+      - SECRET_ENCRYPTION_KEY=f0bad6c1683d2a56c1beb78927f6d72ff59077a23761201d941c13a485d6d09f
     ports:
-      - '7575:7575'
+      - '80:7575'
